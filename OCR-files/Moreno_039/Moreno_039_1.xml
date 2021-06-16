@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T11:44:58.043+02:00</Created>
+        <LastChange>2020-11-26T17:09:45.341+01:00</LastChange>
+        <TranskribusMetadata docId="504973" pageId="20900606" pageNr="1" tsid="49650816" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=GOJGTZSIIVECNIMRTPIUWIYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVESHTZVIABZNNFWQXLFKZSV" imageId="16044317"/>
+    </Metadata>
+    <Page imageFilename="Moreno_039_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606406996951" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1601891287806_3938"/>
+                <RegionRefIndexed index="1" regionRef="region_1601891315609_3949"/>
+                <RegionRefIndexed index="2" regionRef="region_1601891349627_3961"/>
+                <RegionRefIndexed index="3" regionRef="region_1601891387800_3986"/>
+                <RegionRefIndexed index="4" regionRef="region_1601891394783_3991"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1601891287806_3938" custom="readingOrder {index:0;}">
+            <Coords points="1361,267 1616,267 1616,351 1361,351"/>
+            <TextLine id="line_1601891294247_3942" custom="readingOrder {index:0;}">
+                <Coords points="1374,293 1601,295 1601,345 1374,343"/>
+                <Baseline points="1374,338 1601,340"/>
+                <TextEquiv>
+                    <Unicode>(Núm. 43.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Núm. 43.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601891315609_3949" custom="readingOrder {index:1;}">
+            <Coords points="443,333 1449,333 1449,437 443,437"/>
+            <TextLine id="line_1601891329537_3954" custom="readingOrder {index:0;}">
+                <Coords points="447,360 1437,383 1436,433 446,410"/>
+                <Baseline points="446,405 1436,428"/>
+                <TextEquiv>
+                    <Unicode>DON RODULFO DE PEDRAJAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DON RODULFO DE PEDRAJAS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601891349627_3961" custom="readingOrder {index:2;}">
+            <Coords points="208,1256 1659,1256 1659,1487 208,1487"/>
+            <TextLine id="line_1601891354671_3965" custom="readingOrder {index:0;}">
+                <Coords points="222,1269 1631,1314 1630,1364 221,1319"/>
+                <Baseline points="221,1314 1630,1359"/>
+                <TextEquiv>
+                    <Unicode>NUEVA RELACION,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891359794_3972" custom="readingOrder {index:1;}">
+                <Coords points="218,1353 1634,1390 1633,1440 217,1403"/>
+                <Baseline points="217,1398 1633,1435"/>
+                <TextEquiv>
+                    <Unicode>en que se dá cuenta de los valerosos hechos y aventuras que le sucedieron </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891363984_3979" custom="readingOrder {index:2;}">
+                <Coords points="274,1399 1565,1435 1564,1485 273,1449"/>
+                <Baseline points="273,1444 1564,1480"/>
+                <TextEquiv>
+                    <Unicode>á este caballero, y como S. M. lo premió por sus distinguidas hazañas. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NUEVA RELACION,
+en que se dá cuenta de los valerosos hechos y aventuras que le sucedieron 
+á este caballero, y como S. M. lo premió por sus distinguidas hazañas. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601891387800_3986" custom="readingOrder {index:3;}">
+            <Coords points="172,1498 745,1500 745,2408 172,2406"/>
+            <TextLine id="line_1601891422292_3998" custom="readingOrder {index:0;}">
+                <Coords points="260,1506 710,1518 709,1568 259,1556"/>
+                <Baseline points="259,1551 709,1563"/>
+                <TextEquiv>
+                    <Unicode>Todo valiente se esconda, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891426358_4005" custom="readingOrder {index:1;}">
+                <Coords points="209,1546 630,1558 629,1608 208,1596"/>
+                <Baseline points="208,1591 629,1603"/>
+                <TextEquiv>
+                    <Unicode>no manifieste la charpa, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891429752_4012" custom="readingOrder {index:2;}">
+                <Coords points="212,1585 607,1594 606,1644 211,1635"/>
+                <Baseline points="211,1630 606,1639"/>
+                <TextEquiv>
+                    <Unicode>á vista de mis arrojos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891433666_4019" custom="readingOrder {index:3;}">
+                <Coords points="212,1623 737,1638 736,1688 211,1673"/>
+                <Baseline points="211,1668 736,1683"/>
+                <TextEquiv>
+                    <Unicode>tiemblen los guapos de España, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891437003_4026" custom="readingOrder {index:4;}">
+                <Coords points="210,1662 609,1674 608,1724 209,1712"/>
+                <Baseline points="209,1707 608,1719"/>
+                <TextEquiv>
+                    <Unicode>temple su ira Oliveros </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891440925_4033" custom="readingOrder {index:5;}">
+                <Coords points="209,1703 643,1715 642,1765 208,1753"/>
+                <Baseline points="208,1748 642,1760"/>
+                <TextEquiv>
+                    <Unicode>vencedor de las batallas; </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891444533_4040" custom="readingOrder {index:6;}">
+                <Coords points="207,1744 666,1756 665,1806 206,1794"/>
+                <Baseline points="206,1789 665,1801"/>
+                <TextEquiv>
+                    <Unicode>calle Bernardo del Carpió, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891448119_4047" custom="readingOrder {index:7;}">
+                <Coords points="209,1784 686,1796 685,1846 208,1834"/>
+                <Baseline points="208,1829 685,1841"/>
+                <TextEquiv>
+                    <Unicode>que entre cerros y cañadas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891454325_4054" custom="readingOrder {index:8;}">
+                <Coords points="202,1821 666,1832 665,1882 201,1871"/>
+                <Baseline points="201,1866 665,1877"/>
+                <TextEquiv>
+                    <Unicode>se quedó pidiendo guerra, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891457928_4061" custom="readingOrder {index:9;}">
+                <Coords points="203,1861 695,1874 694,1924 202,1911"/>
+                <Baseline points="202,1906 694,1919"/>
+                <TextEquiv>
+                    <Unicode>por yerro de su ignorancia. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891461364_4068" custom="readingOrder {index:10;}">
+                <Coords points="200,1902 638,1915 637,1965 199,1952"/>
+                <Baseline points="199,1947 637,1960"/>
+                <TextEquiv>
+                    <Unicode>No soy el Cid ni Sanson </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891465529_4075" custom="readingOrder {index:11;}">
+                <Coords points="200,1941 618,1953 617,2003 199,1991"/>
+                <Baseline points="199,1986 617,1998"/>
+                <TextEquiv>
+                    <Unicode>que columnas derribaba </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891468809_4082" custom="readingOrder {index:12;}">
+                <Coords points="198,1977 674,1992 673,2042 197,2027"/>
+                <Baseline points="197,2022 673,2037"/>
+                <TextEquiv>
+                    <Unicode>en venganza de su agravio, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891473376_4089" custom="readingOrder {index:13;}">
+                <Coords points="201,2018 572,2032 570,2082 199,2068"/>
+                <Baseline points="199,2063 570,2077"/>
+                <TextEquiv>
+                    <Unicode>cuyo valor publicaba, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891476726_4096" custom="readingOrder {index:14;}">
+                <Coords points="198,2059 703,2075 702,2125 197,2109"/>
+                <Baseline points="197,2104 702,2120"/>
+                <TextEquiv>
+                    <Unicode>que morir por Dios y el Rey, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891480024_4103" custom="readingOrder {index:15;}">
+                <Coords points="199,2093 622,2110 620,2160 197,2143"/>
+                <Baseline points="197,2138 620,2155"/>
+                <TextEquiv>
+                    <Unicode>es dar lauros á la fama. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891489875_4110" custom="readingOrder {index:16;}">
+                <Coords points="202,2136 669,2153 667,2203 200,2186"/>
+                <Baseline points="200,2181 667,2198"/>
+                <TextEquiv>
+                    <Unicode>Y porque sepan quien soy, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891492904_4117" custom="readingOrder {index:17;}">
+                <Coords points="193,2175 623,2190 621,2240 191,2225"/>
+                <Baseline points="191,2220 621,2235"/>
+                <TextEquiv>
+                    <Unicode>mi nacimiento y crianza, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891503170_4133" custom="readingOrder {index:18;}">
+                <Coords points="195,2216 645,2233 643,2283 193,2266"/>
+                <Baseline points="193,2261 643,2278"/>
+                <TextEquiv>
+                    <Unicode>nací en Morales del Rey, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891506823_4140" custom="readingOrder {index:19;}">
+                <Coords points="192,2257 637,2269 636,2319 191,2307"/>
+                <Baseline points="191,2302 636,2314"/>
+                <TextEquiv>
+                    <Unicode>yo, Rodulfo de Pedrajas, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891510448_4147" custom="readingOrder {index:20;}">
+                <Coords points="192,2297 691,2314 689,2364 190,2347"/>
+                <Baseline points="190,2342 689,2359"/>
+                <TextEquiv>
+                    <Unicode>que el astro de mi fortuna, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891514483_4154" custom="readingOrder {index:21;}">
+                <Coords points="189,2336 648,2348 647,2398 188,2386"/>
+                <Baseline points="188,2381 647,2393"/>
+                <TextEquiv>
+                    <Unicode>me señaló letras y armas. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Todo valiente se esconda, 
+no manifieste la charpa, 
+á vista de mis arrojos 
+tiemblen los guapos de España, 
+temple su ira Oliveros 
+vencedor de las batallas; 
+calle Bernardo del Carpió, 
+que entre cerros y cañadas 
+se quedó pidiendo guerra, 
+por yerro de su ignorancia. 
+No soy el Cid ni Sanson 
+que columnas derribaba 
+en venganza de su agravio, 
+cuyo valor publicaba, 
+que morir por Dios y el Rey, 
+es dar lauros á la fama. 
+Y porque sepan quien soy, 
+mi nacimiento y crianza, 
+nací en Morales del Rey, 
+yo, Rodulfo de Pedrajas, 
+que el astro de mi fortuna, 
+me señaló letras y armas. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601891394783_3991" custom="readingOrder {index:4;}">
+            <Coords points="909,1515 1471,1517 1471,2422 909,2420"/>
+            <TextLine id="line_1601891524206_4161" custom="readingOrder {index:0;}">
+                <Coords points="940,1529 1464,1542 1463,1592 939,1579"/>
+                <Baseline points="939,1574 1463,1587"/>
+                <TextEquiv>
+                    <Unicode>Llegué á cumplir veinte años, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891527589_4168" custom="readingOrder {index:1;}">
+                <Coords points="940,1566 1443,1580 1442,1630 939,1616"/>
+                <Baseline points="939,1611 1442,1625"/>
+                <TextEquiv>
+                    <Unicode>compré un caballo y charpa, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891530757_4175" custom="readingOrder {index:2;}">
+                <Coords points="942,1606 1303,1616 1302,1666 941,1656"/>
+                <Baseline points="941,1651 1302,1661"/>
+                <TextEquiv>
+                    <Unicode>y cargado de tabaco, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891534051_4182" custom="readingOrder {index:3;}">
+                <Coords points="935,1650 1260,1654 1259,1704 934,1700"/>
+                <Baseline points="934,1695 1259,1699"/>
+                <TextEquiv>
+                    <Unicode>á Zaragoza pasaba, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891536761_4189" custom="readingOrder {index:4;}">
+                <Coords points="931,1684 1323,1693 1322,1743 930,1734"/>
+                <Baseline points="930,1729 1322,1738"/>
+                <TextEquiv>
+                    <Unicode>en breve lo despaché, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891540291_4196" custom="readingOrder {index:5;}">
+                <Coords points="938,1724 1390,1736 1389,1786 937,1774"/>
+                <Baseline points="937,1769 1389,1781"/>
+                <TextEquiv>
+                    <Unicode>y volviéndome á mi casa, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891543711_4203" custom="readingOrder {index:6;}">
+                <Coords points="933,1763 1397,1777 1396,1827 932,1813"/>
+                <Baseline points="932,1808 1396,1822"/>
+                <TextEquiv>
+                    <Unicode>encontrando en el camino </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891546637_4210" custom="readingOrder {index:7;}">
+                <Coords points="936,1799 1396,1816 1394,1866 934,1849"/>
+                <Baseline points="934,1844 1394,1861"/>
+                <TextEquiv>
+                    <Unicode>á Pelagio, que los guardas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891550712_4217" custom="readingOrder {index:8;}">
+                <Coords points="931,1845 1322,1852 1321,1902 930,1895"/>
+                <Baseline points="930,1890 1321,1897"/>
+                <TextEquiv>
+                    <Unicode>lo llevaban maniatado, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891553872_4224" custom="readingOrder {index:9;}">
+                <Coords points="938,1883 1330,1893 1329,1943 937,1933"/>
+                <Baseline points="937,1928 1329,1938"/>
+                <TextEquiv>
+                    <Unicode>y despojado de armas, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891556208_4231" custom="readingOrder {index:10;}">
+                <Coords points="928,1919 1258,1926 1257,1976 927,1969"/>
+                <Baseline points="927,1964 1257,1971"/>
+                <TextEquiv>
+                    <Unicode>así que los conocí, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891558995_4238" custom="readingOrder {index:11;}">
+                <Coords points="924,1962 1376,1974 1375,2024 923,2012"/>
+                <Baseline points="923,2007 1375,2019"/>
+                <TextEquiv>
+                    <Unicode>los aguardé que llegaran, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891561811_4245" custom="readingOrder {index:12;}">
+                <Coords points="931,2003 1308,2010 1307,2060 930,2053"/>
+                <Baseline points="930,2048 1307,2055"/>
+                <TextEquiv>
+                    <Unicode>y les dije: caballeros, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891564793_4252" custom="readingOrder {index:13;}">
+                <Coords points="930,2042 1392,2054 1391,2104 929,2092"/>
+                <Baseline points="929,2087 1391,2099"/>
+                <TextEquiv>
+                    <Unicode>aquese preso y las cargas, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891568179_4259" custom="readingOrder {index:14;}">
+                <Coords points="926,2082 1291,2087 1290,2137 925,2132"/>
+                <Baseline points="925,2127 1290,2132"/>
+                <TextEquiv>
+                    <Unicode>al punto lo soltareis, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891572859_4266" custom="readingOrder {index:15;}">
+                <Coords points="928,2124 1412,2136 1411,2186 927,2174"/>
+                <Baseline points="927,2169 1411,2181"/>
+                <TextEquiv>
+                    <Unicode>que don Rodulfo lo manda, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891575539_4273" custom="readingOrder {index:16;}">
+                <Coords points="921,2160 1323,2171 1322,2221 920,2210"/>
+                <Baseline points="920,2205 1322,2216"/>
+                <TextEquiv>
+                    <Unicode>aqui es preciso morir, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891578604_4280" custom="readingOrder {index:17;}">
+                <Coords points="926,2198 1431,2212 1430,2262 925,2248"/>
+                <Baseline points="925,2243 1430,2257"/>
+                <TextEquiv>
+                    <Unicode>que la muerte á todos llama, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891581674_4287" custom="readingOrder {index:18;}">
+                <Coords points="924,2239 1429,2256 1427,2306 922,2289"/>
+                <Baseline points="922,2284 1427,2301"/>
+                <TextEquiv>
+                    <Unicode>A un tiempo me dispararon, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891589163_4294" custom="readingOrder {index:19;}">
+                <Coords points="922,2279 1352,2291 1351,2341 921,2329"/>
+                <Baseline points="921,2324 1351,2336"/>
+                <TextEquiv>
+                    <Unicode>dándome carga cerrada, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891592212_4301" custom="readingOrder {index:20;}">
+                <Coords points="922,2320 1325,2328 1324,2378 921,2370"/>
+                <Baseline points="921,2365 1324,2373"/>
+                <TextEquiv>
+                    <Unicode>yo disparé mi trabuco, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601891594657_4308" custom="readingOrder {index:21;}">
+                <Coords points="922,2357 1371,2368 1370,2418 921,2407"/>
+                <Baseline points="921,2402 1370,2413"/>
+                <TextEquiv>
+                    <Unicode>y les maté cinco guardas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Llegué á cumplir veinte años, 
+compré un caballo y charpa, 
+y cargado de tabaco, 
+á Zaragoza pasaba, 
+en breve lo despaché, 
+y volviéndome á mi casa, 
+encontrando en el camino 
+á Pelagio, que los guardas 
+lo llevaban maniatado, 
+y despojado de armas, 
+así que los conocí, 
+los aguardé que llegaran, 
+y les dije: caballeros, 
+aquese preso y las cargas, 
+al punto lo soltareis, 
+que don Rodulfo lo manda, 
+aqui es preciso morir, 
+que la muerte á todos llama, 
+A un tiempo me dispararon, 
+dándome carga cerrada, 
+yo disparé mi trabuco, 
+y les maté cinco guardas,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1604321274200_151" custom="readingOrder {index:5;}">
+            <Coords points="1548,1236 353,1236 353,466 1548,466"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
