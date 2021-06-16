@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T14:17:41.947+01:00</Created>
+        <LastChange>2020-12-18T16:03:41.033+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525392" pageId="22319464" pageNr="127" tsid="50433582" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=ZCKYWVPSEKLDGTNRPTGUHYPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNLTUNTUDYIWJWELNCSUQWME" imageId="17388979"/>
+    </Metadata>
+    <Page imageFilename="Moreno_291_1.jpeg" imageWidth="1752" imageHeight="2480">
+        <PrintSpace>
+            <Coords points="0,0 1752,0 1752,2230 0,2230"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1608304709274" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1607092909182_5464"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_5_1"/>
+                <RegionRefIndexed index="5" regionRef="r_7_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="region_1607092909182_5464" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1198,306 1458,306 1458,394 1198,394"/>
+            <TextLine id="region_1607092909182_5464l1" custom="readingOrder {index:0;}">
+                <Coords points="1206,418 1231,415 1256,413 1281,413 1306,413 1332,414 1357,415 1382,416 1407,417 1432,417 1458,416 1458,266 1432,267 1407,267 1382,266 1357,265 1332,264 1306,263 1281,263 1256,263 1231,265 1206,268"/>
+                <Baseline points="1206,368 1231,365 1256,363 1281,363 1306,363 1332,364 1357,365 1382,366 1407,367 1432,367 1458,366"/>
+                <TextEquiv>
+                    <Unicode>(Núm. 307.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Núm. 307.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="348,438 1421,438 1421,972 348,972"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="669,548 697,547 725,546 754,545 782,545 811,545 839,545 867,545 896,545 924,545 953,545 981,545 1009,546 1038,546 1066,546 1095,546 1123,545 1151,545 1180,545 1208,544 1237,543 1237,420 1208,421 1180,422 1151,422 1123,422 1095,423 1066,423 1038,423 1009,423 981,422 953,422 924,422 896,422 867,422 839,422 811,422 782,422 754,422 725,423 697,424 669,425"/>
+                <Baseline points="669,507 697,506 725,505 754,504 782,504 811,504 839,504 867,504 896,504 924,504 953,504 981,504 1009,505 1038,505 1066,505 1095,505 1123,504 1151,504 1180,504 1208,503 1237,502"/>
+                <TextEquiv>
+                    <Unicode>SAINETE NUEVO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="762,710 787,711 812,711 837,711 863,711 888,711 913,711 938,711 964,711 989,711 1014,711 1040,712 1040,589 1014,588 989,588 964,588 938,588 913,588 888,588 863,588 837,588 812,588 787,588 762,587"/>
+                <Baseline points="762,669 787,670 812,670 837,670 863,670 888,670 913,670 938,670 964,670 989,670 1014,670 1040,671"/>
+                <TextEquiv>
+                    <Unicode>TITULADO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608303810947_1763" custom="readingOrder {index:2;}">
+                <Coords points="354,955 1417,955 1417,872 354,872"/>
+                <TextEquiv>
+                    <Unicode>EL PAYO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SAINETE NUEVO
+TITULADO
+EL PAYO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="552,1089 1256,1089 1256,1176 552,1176"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="553,1219 587,1219 621,1218 655,1218 689,1218 723,1218 757,1218 791,1218 825,1219 859,1219 893,1219 927,1219 961,1220 995,1220 1029,1220 1063,1220 1097,1219 1131,1219 1165,1218 1199,1218 1234,1217 1234,1067 1199,1068 1165,1068 1131,1069 1097,1069 1063,1070 1029,1070 995,1070 961,1070 927,1069 893,1069 859,1069 825,1069 791,1068 757,1068 723,1068 689,1068 655,1068 621,1068 587,1069 553,1069"/>
+                <Baseline points="553,1169 587,1169 621,1168 655,1168 689,1168 723,1168 757,1168 791,1168 825,1169 859,1169 893,1169 927,1169 961,1170 995,1170 1029,1170 1063,1170 1097,1169 1131,1169 1165,1168 1199,1168 1234,1167"/>
+                <TextEquiv>
+                    <Unicode>DE LA CARTA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DE LA CARTA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:3;}">
+            <Coords points="488,1413 1290,1413 1290,1495 488,1495"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="487,1521 526,1521 566,1521 605,1521 645,1521 685,1521 724,1521 764,1521 803,1521 843,1520 883,1520 922,1520 962,1520 1001,1520 1041,1520 1081,1520 1120,1520 1160,1520 1199,1520 1239,1521 1279,1522 1279,1372 1239,1371 1199,1370 1160,1370 1120,1370 1081,1370 1041,1370 1001,1370 962,1370 922,1370 883,1370 843,1370 803,1371 764,1371 724,1371 685,1371 645,1371 605,1371 566,1371 526,1371 487,1371"/>
+                <Baseline points="487,1471 526,1471 566,1471 605,1471 645,1471 685,1471 724,1471 764,1471 803,1471 843,1470 883,1470 922,1470 962,1470 1001,1470 1041,1470 1081,1470 1120,1470 1160,1470 1199,1470 1239,1471 1279,1472"/>
+                <TextEquiv>
+                    <Unicode>PARA SIETE PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PARA SIETE PERSONAS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="688,1652 1068,1647 1063,1979 683,1984"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:5;}">
+            <Coords points="291,2114 1497,2114 1497,2230 291,2230"/>
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="657,2173 682,2173 708,2173 734,2173 759,2173 785,2174 811,2174 836,2174 862,2174 888,2175 914,2175 939,2175 965,2175 991,2174 1016,2174 1042,2174 1068,2173 1094,2173 1094,2137 1068,2137 1042,2138 1016,2138 991,2138 965,2139 939,2139 914,2139 888,2139 862,2138 836,2138 811,2138 785,2138 759,2137 734,2137 708,2137 682,2137 657,2137"/>
+                <Baseline points="657,2161 682,2161 708,2161 734,2161 759,2161 785,2162 811,2162 836,2162 862,2162 888,2163 914,2163 939,2163 965,2163 991,2162 1016,2162 1042,2162 1068,2161 1094,2161"/>
+                <TextEquiv>
+                    <Unicode>CARMONA:—1859.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="297,2222 356,2222 416,2223 475,2223 535,2223 594,2224 654,2224 713,2224 773,2224 832,2224 892,2224 952,2224 1011,2224 1071,2224 1130,2223 1190,2223 1249,2223 1309,2223 1368,2223 1428,2222 1488,2222 1488,2186 1428,2186 1368,2187 1309,2187 1249,2187 1190,2187 1130,2187 1071,2188 1011,2188 952,2188 892,2188 832,2188 773,2188 713,2188 654,2188 594,2188 535,2187 475,2187 416,2187 356,2186 297,2186"/>
+                <Baseline points="297,2210 356,2210 416,2211 475,2211 535,2211 594,2212 654,2212 713,2212 773,2212 832,2212 892,2212 952,2212 1011,2212 1071,2212 1130,2211 1190,2211 1249,2211 1309,2211 1368,2211 1428,2210 1488,2210"/>
+                <TextEquiv>
+                    <Unicode>Imprenta de D. José María Moreno, calle Juan de la Cabra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARMONA:—1859.
+Imprenta de D. José María Moreno, calle Juan de la Cabra.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
