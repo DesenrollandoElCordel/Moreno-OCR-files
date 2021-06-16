@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-27T12:00:39.825+01:00</Created>
+        <LastChange>2020-12-03T15:01:58.422+01:00</LastChange>
+        <TranskribusMetadata docId="525395" pageId="22319718" pageNr="13" tsid="50036978" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=YJHAFZPEQGIWFGFREXPCDYCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EDNSDKYQZCKHIGBZWFHRAJTH" imageId="17389237"/>
+    </Metadata>
+    <Page imageFilename="Moreno_328_1.jpeg" imageWidth="1752" imageHeight="2480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607004606581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604414041639_1140"/>
+                <RegionRefIndexed index="2" regionRef="r1"/>
+                <RegionRefIndexed index="3" regionRef="region_1604414047251_1144"/>
+                <RegionRefIndexed index="4" regionRef="region_1604414052419_1148"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1604414041639_1140" custom="readingOrder {index:0;}">
+            <Coords points="1090,410 1425,410 1425,506 1090,506"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1117,485 1143,485 1170,486 1196,487 1223,488 1250,489 1276,490 1303,490 1330,492 1356,493 1383,496 1410,498 1410,464 1383,462 1356,459 1330,458 1303,456 1276,456 1250,455 1223,454 1196,453 1170,452 1143,451 1117,451"/>
+                <Baseline points="1117,474 1143,474 1170,475 1196,476 1223,477 1250,478 1276,479 1303,479 1330,481 1356,482 1383,485 1410,487"/>
+                <TextEquiv>
+                    <Unicode>Número 358.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Número 358.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1604414028051_1136" custom="readingOrder {index:1;}">
+            <Coords points="101,1444 571,1444 571,501 101,501"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:2;}">
+            <Coords points="112,1499 67,2209 1452,2209 1497,1499"/>
+            <TextLine id="r1l5" custom="readingOrder {index:0;}">
+                <Coords points="192,1559 252,1562 313,1564 374,1567 434,1569 495,1571 556,1573 616,1575 677,1577 738,1578 799,1580 859,1581 920,1583 981,1584 1041,1585 1102,1586 1163,1587 1223,1588 1284,1589 1345,1590 1406,1591 1406,1557 1345,1556 1284,1555 1223,1554 1163,1553 1102,1552 1041,1551 981,1550 920,1549 859,1547 799,1546 738,1544 677,1543 616,1541 556,1539 495,1537 434,1535 374,1533 313,1530 252,1528 192,1525"/>
+                <Baseline points="192,1548 252,1551 313,1553 374,1556 434,1558 495,1560 556,1562 616,1564 677,1566 738,1567 799,1569 859,1570 920,1572 981,1573 1041,1574 1102,1575 1163,1576 1223,1577 1284,1578 1345,1579 1406,1580"/>
+                <TextEquiv>
+                    <Unicode>EL MATON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:1;}">
+                <Coords points="211,1958 273,1955 335,1951 397,1949 460,1948 522,1947 584,1947 647,1947 709,1948 771,1949 834,1951 896,1954 958,1956 1020,1959 1083,1963 1145,1966 1207,1970 1270,1974 1332,1978 1394,1982 1457,1986 1457,1956 1394,1952 1332,1948 1270,1944 1207,1940 1145,1936 1083,1933 1020,1929 958,1926 896,1924 834,1921 771,1919 709,1918 647,1917 584,1917 522,1917 460,1918 397,1919 335,1921 273,1925 211,1928"/>
+                <Baseline points="211,1948 273,1945 335,1941 397,1939 460,1938 522,1937 584,1937 647,1937 709,1938 771,1939 834,1941 896,1944 958,1946 1020,1949 1083,1953 1145,1956 1207,1960 1270,1964 1332,1968 1394,1972 1457,1976"/>
+                <TextEquiv>
+                    <Unicode> ANDALUZA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:2;}">
+                <Coords points="266,2099 298,2101 330,2103 362,2104 395,2105 427,2106 459,2106 492,2106 524,2107 556,2107 589,2107 621,2107 653,2107 685,2107 718,2107 750,2108 782,2108 815,2109 847,2110 879,2111 912,2114 912,2080 879,2077 847,2076 815,2075 782,2074 750,2074 718,2073 685,2073 653,2073 621,2073 589,2073 556,2073 524,2073 492,2072 459,2072 427,2072 395,2071 362,2070 330,2069 298,2067 266,2065"/>
+                <Baseline points="266,2088 298,2090 330,2092 362,2093 395,2094 427,2095 459,2095 492,2095 524,2096 556,2096 589,2096 621,2096 653,2096 685,2096 718,2096 750,2097 782,2097 815,2098 847,2099 879,2100 912,2103"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:3;}">
+                <Coords points="83,2194 140,2193 197,2193 254,2193 311,2194 368,2194 425,2195 482,2196 539,2197 596,2198 653,2199 710,2201 767,2202 824,2204 881,2205 938,2207 995,2209 1052,2210 1109,2212 1166,2214 1224,2215 1224,2185 1166,2184 1109,2182 1052,2180 995,2179 938,2177 881,2175 824,2174 767,2172 710,2171 653,2169 596,2168 539,2167 482,2166 425,2165 368,2164 311,2164 254,2163 197,2163 140,2163 83,2164"/>
+                <Baseline points="83,2184 140,2183 197,2183 254,2183 311,2184 368,2184 425,2185 482,2186 539,2187 596,2188 653,2189 710,2191 767,2192 824,2194 881,2195 938,2197 995,2199 1052,2200 1109,2202 1166,2204 1224,2205"/>
+                <TextEquiv>
+                    <Unicode>Curro Mata-siete,—Pilar.—Juan Castillo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EL MATON
+ ANDALUZA.
+PERSONAS.
+Curro Mata-siete,—Pilar.—Juan Castillo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1604414047251_1144" custom="readingOrder {index:3;}">
+            <Coords points="50,2230 705,2230 705,2458 50,2458"/>
+            <TextLine id="r1l35" custom="readingOrder {index:0;}">
+                <Coords points="72,2292 102,2292 132,2293 162,2293 192,2294 222,2295 252,2296 282,2297 312,2299 342,2300 373,2301 403,2302 433,2304 463,2305 493,2306 523,2307 553,2308 583,2309 613,2309 643,2310 674,2310 674,2276 643,2276 613,2275 583,2275 553,2274 523,2273 493,2272 463,2271 433,2270 403,2268 373,2267 342,2266 312,2265 282,2263 252,2262 222,2261 192,2260 162,2259 132,2259 102,2258 72,2258"/>
+                <Baseline points="72,2281 102,2281 132,2282 162,2282 192,2283 222,2284 252,2285 282,2286 312,2288 342,2289 373,2290 403,2291 433,2293 463,2294 493,2295 523,2296 553,2297 583,2298 613,2298 643,2299 674,2299"/>
+                <TextEquiv>
+                    <Unicode>Cur. Oiga osté mosita é grasia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:1;}">
+                <Coords points="112,2342 141,2343 170,2344 199,2344 228,2345 257,2346 286,2347 315,2348 344,2349 373,2350 403,2351 432,2352 461,2352 490,2353 519,2354 548,2354 577,2355 606,2355 635,2356 664,2356 694,2356 694,2322 664,2322 635,2322 606,2321 577,2321 548,2320 519,2320 490,2319 461,2318 432,2318 403,2317 373,2316 344,2315 315,2314 286,2313 257,2312 228,2311 199,2310 170,2310 141,2309 112,2308"/>
+                <Baseline points="112,2331 141,2332 170,2333 199,2333 228,2334 257,2335 286,2336 315,2337 344,2338 373,2339 403,2340 432,2341 461,2341 490,2342 519,2343 548,2343 577,2344 606,2344 635,2345 664,2345 694,2345"/>
+                <TextEquiv>
+                    <Unicode>sepa osté, cara remoña</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:2;}">
+                <Coords points="116,2389 145,2390 174,2391 203,2392 232,2393 261,2394 290,2395 319,2396 348,2397 377,2398 407,2399 436,2400 465,2401 494,2403 523,2404 552,2404 581,2405 610,2406 639,2408 668,2409 698,2410 698,2379 668,2378 639,2377 610,2375 581,2374 552,2373 523,2373 494,2372 465,2370 436,2369 407,2368 377,2367 348,2366 319,2365 290,2364 261,2363 232,2362 203,2361 174,2360 145,2359 116,2358"/>
+                <Baseline points="116,2379 145,2380 174,2381 203,2382 232,2383 261,2384 290,2385 319,2386 348,2387 377,2388 407,2389 436,2390 465,2391 494,2393 523,2394 552,2394 581,2395 610,2396 639,2398 668,2399 698,2400"/>
+                <TextEquiv>
+                    <Unicode>que aunque gasta tanto brio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:3;}">
+                <Coords points="111,2440 139,2441 168,2442 197,2442 226,2443 255,2444 284,2445 313,2445 342,2446 371,2447 400,2447 428,2448 457,2448 486,2449 515,2450 544,2450 573,2451 602,2451 631,2452 660,2452 689,2452 689,2421 660,2421 631,2421 602,2420 573,2420 544,2419 515,2419 486,2418 457,2417 428,2417 400,2416 371,2416 342,2415 313,2414 284,2414 255,2413 226,2412 197,2411 168,2411 139,2410 111,2409"/>
+                <Baseline points="111,2430 139,2431 168,2432 197,2432 226,2433 255,2434 284,2435 313,2435 342,2436 371,2437 400,2437 428,2438 457,2438 486,2439 515,2440 544,2440 573,2441 602,2441 631,2442 660,2442 689,2442"/>
+                <TextEquiv>
+                    <Unicode>otavia no se ha comio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cur. Oiga osté mosita é grasia
+sepa osté, cara remoña
+que aunque gasta tanto brio,
+otavia no se ha comio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1604414052419_1148" custom="readingOrder {index:4;}">
+            <Coords points="796,2250 1450,2250 1450,2469 796,2469"/>
+            <TextLine id="r1l37" custom="readingOrder {index:0;}">
+                <Coords points="835,2312 861,2313 887,2313 913,2314 939,2315 965,2316 991,2316 1017,2317 1043,2318 1069,2319 1095,2319 1121,2320 1147,2321 1173,2322 1199,2322 1225,2323 1251,2324 1278,2324 1278,2293 1251,2293 1225,2292 1199,2291 1173,2291 1147,2290 1121,2289 1095,2288 1069,2288 1043,2287 1017,2286 991,2285 965,2285 939,2284 913,2283 887,2282 861,2282 835,2281"/>
+                <Baseline points="835,2302 861,2303 887,2303 913,2304 939,2305 965,2306 991,2306 1017,2307 1043,2308 1069,2309 1095,2309 1121,2310 1147,2311 1173,2312 1199,2312 1225,2313 1251,2314 1278,2314"/>
+                <TextEquiv>
+                    <Unicode>á ninguno mi presona.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:1;}">
+                <Coords points="794,2359 819,2359 845,2360 871,2361 896,2362 922,2363 948,2364 974,2365 999,2366 1025,2366 1051,2367 1076,2368 1102,2368 1128,2369 1154,2369 1179,2369 1205,2369 1231,2368 1257,2368 1257,2337 1231,2337 1205,2338 1179,2338 1154,2338 1128,2338 1102,2337 1076,2337 1051,2336 1025,2335 999,2335 974,2334 948,2333 922,2332 896,2331 871,2330 845,2329 819,2328 794,2328"/>
+                <Baseline points="794,2349 819,2349 845,2350 871,2351 896,2352 922,2353 948,2354 974,2355 999,2356 1025,2356 1051,2357 1076,2358 1102,2358 1128,2359 1154,2359 1179,2359 1205,2359 1231,2358 1257,2358"/>
+                <TextEquiv>
+                    <Unicode>Pil. Y qué quiusté?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:2;}">
+                <Coords points="796,2409 826,2410 856,2411 886,2411 916,2412 946,2413 976,2414 1006,2415 1036,2415 1066,2416 1096,2417 1126,2418 1156,2419 1186,2420 1216,2420 1246,2421 1276,2421 1306,2422 1336,2422 1366,2422 1397,2422 1397,2392 1366,2392 1336,2392 1306,2392 1276,2391 1246,2391 1216,2390 1186,2390 1156,2389 1126,2388 1096,2387 1066,2386 1036,2385 1006,2385 976,2384 946,2383 916,2382 886,2381 856,2381 826,2380 796,2379"/>
+                <Baseline points="796,2399 826,2400 856,2401 886,2401 916,2402 946,2403 976,2404 1006,2405 1036,2405 1066,2406 1096,2407 1126,2408 1156,2409 1186,2410 1216,2410 1246,2411 1276,2411 1306,2412 1336,2412 1366,2412 1397,2412"/>
+                <TextEquiv>
+                    <Unicode>Cur. Güesesito é mis tobiyo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:3;}">
+                <Coords points="846,2462 871,2462 897,2462 923,2462 949,2463 975,2463 1001,2464 1027,2465 1053,2465 1079,2466 1105,2466 1130,2466 1156,2467 1182,2467 1208,2467 1234,2466 1260,2466 1286,2465 1312,2464 1338,2463 1364,2461 1364,2431 1338,2433 1312,2434 1286,2435 1260,2436 1234,2436 1208,2437 1182,2437 1156,2437 1130,2436 1105,2436 1079,2436 1053,2435 1027,2435 1001,2434 975,2433 949,2433 923,2432 897,2432 871,2432 846,2432"/>
+                <Baseline points="846,2452 871,2452 897,2452 923,2452 949,2453 975,2453 1001,2454 1027,2455 1053,2455 1079,2456 1105,2456 1130,2456 1156,2457 1182,2457 1208,2457 1234,2456 1260,2456 1286,2455 1312,2454 1338,2453 1364,2451"/>
+                <TextEquiv>
+                    <Unicode>¿sabusté que vale un grillo?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>á ninguno mi presona.
+Pil. Y qué quiusté?
+Cur. Güesesito é mis tobiyo
+¿sabusté que vale un grillo?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1607004106860_2120" custom="readingOrder {index:5;}">
+            <Coords points="591,524 1043,524 1043,1475 591,1475"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1607004116330_2124" custom="readingOrder {index:6;}">
+            <Coords points="1471,1480 1043,1480 1043,620 1471,620"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
