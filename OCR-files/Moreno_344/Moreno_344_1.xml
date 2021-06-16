@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-04T14:52:52.41+01:00</Created>
+        <LastChange>2020-12-03T15:05:51.533+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525395" pageId="22319799" pageNr="77" tsid="50038679" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=GTUVTJTAMHPJOKUUNNRJKIAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KSGFRFTQFQVWQJYVWFOMIAAF" imageId="17389308"/>
+    </Metadata>
+    <Page imageFilename="Moreno_344_1.jpg" imageWidth="1855" imageHeight="2478">
+        <PrintSpace>
+            <Coords points="50,0 1744,0 1744,2478 50,2478"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607004610355" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_3_1"/>
+                <RegionRefIndexed index="2" regionRef="region_1604507502744_517"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="394,363 1394,343 1408,1684 408,1704"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:1;}">
+            <Coords points="601,1714 1223,1714 1223,1797 601,1797"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="609,1834 639,1834 670,1834 700,1833 731,1833 761,1832 792,1832 822,1831 853,1830 883,1830 914,1829 944,1828 975,1827 1005,1826 1036,1825 1066,1825 1097,1823 1127,1823 1158,1822 1188,1821 1219,1820 1219,1670 1188,1671 1158,1672 1127,1673 1097,1673 1066,1675 1036,1675 1005,1676 975,1677 944,1678 914,1679 883,1680 853,1680 822,1681 792,1682 761,1682 731,1683 700,1683 670,1684 639,1684 609,1684"/>
+                <Baseline points="609,1784 639,1784 670,1784 700,1783 731,1783 761,1782 792,1782 822,1781 853,1780 883,1780 914,1779 944,1778 975,1777 1005,1776 1036,1775 1066,1775 1097,1773 1127,1773 1158,1772 1188,1771 1219,1770"/>
+                <TextEquiv>
+                    <Unicode>MARIA SANTISIMA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MARIA SANTISIMA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1604507502744_517" custom="readingOrder {index:2;}">
+            <Coords points="439,1843 439,1951 1374,1951 1374,1843"/>
+            <TextLine id="line_1604507502788_521" custom="readingOrder {index:0;}">
+                <Coords points="439,1951 1374,1951 1374,1843 439,1843"/>
+                <TextEquiv>
+                    <Unicode>DE GRACIA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DE GRACIA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
