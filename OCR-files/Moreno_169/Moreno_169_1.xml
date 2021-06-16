@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-01T15:06:38.022+01:00</Created>
+        <LastChange>2020-12-08T17:43:30.490+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525383" pageId="22318386" pageNr="91" tsid="50196708" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=IRTKTOLTDOHADJZFVSDNEKZG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCVQOWASBQUFPMYIBOWJDUEH" imageId="17387901"/>
+    </Metadata>
+    <Page imageFilename="Moreno_169_1.jpg" imageWidth="1289" imageHeight="1751">
+        <PrintSpace>
+            <Coords points="0,0 1288,0 1288,1751 0,1751"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607519341155" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+                <RegionRefIndexed index="1" regionRef="r_3_1"/>
+                <RegionRefIndexed index="2" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="155,84 1011,84 1011,660 155,660"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="719,187 744,185 770,183 796,183 822,183 848,184 873,184 899,184 925,184 951,183 977,181 977,106 951,108 925,109 899,109 873,109 848,109 822,108 796,108 770,108 744,110 719,112"/>
+                <Baseline points="719,162 744,160 770,158 796,158 822,158 848,159 873,159 899,159 925,159 951,158 977,156"/>
+                <TextEquiv>
+                    <Unicode>(Núm. 79.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="361,301 386,301 412,301 438,300 464,300 489,299 515,299 541,298 567,298 592,297 618,296 644,295 670,294 695,293 721,293 747,292 773,290 798,290 824,289 850,288 876,287 876,217 850,218 824,219 798,220 773,220 747,222 721,223 695,223 670,224 644,225 618,226 592,227 567,228 541,228 515,229 489,229 464,230 438,230 412,231 386,231 361,231"/>
+                <Baseline points="361,278 386,278 412,278 438,277 464,277 489,276 515,276 541,275 567,275 592,274 618,273 644,272 670,271 695,270 721,270 747,269 773,267 798,267 824,266 850,265 876,264"/>
+                <TextEquiv>
+                    <Unicode>SAINETE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="511,394 540,395 570,394 600,393 630,392 660,391 660,321 630,322 600,323 570,324 540,325 511,324"/>
+                <Baseline points="511,371 540,372 570,371 600,370 630,369 660,368"/>
+                <TextEquiv>
+                    <Unicode>VITULADO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="172,540 611,541 636,541 661,542 687,542 712,541 737,541 762,540 788,539 813,538 838,536 863,534 889,532 914,529 939,527 964,523 990,519 990,444 964,448 939,452 914,454 889,457 863,459 838,461 813,463 788,464 762,465 737,466 712,466 687,467 661,467 636,466 611,466 172,465"/>
+                <Baseline points="586,515 611,516 636,516 661,517 687,517 712,516 737,516 762,515 788,514 813,513 838,511 863,509 889,507 914,504 939,502 964,498 990,494"/>
+                <TextEquiv>
+                    <Unicode>FRANCISCO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:4;}">
+                <Coords points="373,659 398,658 424,658 450,657 476,655 502,654 528,653 554,652 580,650 606,649 632,647 658,646 684,645 710,644 736,644 762,643 788,643 814,643 814,568 788,568 762,568 736,569 710,569 684,570 658,571 632,572 606,574 580,575 554,577 528,578 502,579 476,580 450,582 424,583 398,583 373,584"/>
+                <Baseline points="373,634 398,633 424,633 450,632 476,630 502,629 528,628 554,627 580,625 606,624 632,622 658,621 684,620 710,619 736,619 762,618 788,618 814,618"/>
+                <TextEquiv>
+                    <Unicode>QUE TIENES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Núm. 79.)
+SAINETE.
+VITULADO
+FRANCISCO
+QUE TIENES.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:1;}">
+            <Coords points="281,755 827,755 827,943 281,943"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="472,821 497,821 522,821 548,820 573,819 599,817 624,816 649,815 675,814 700,814 726,815 726,776 700,775 675,775 649,776 624,777 599,778 573,780 548,781 522,782 497,782 472,782"/>
+                <Baseline points="472,808 497,808 522,808 548,807 573,806 599,804 624,803 649,802 675,801 700,801 726,802"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:1;}">
+                <Coords points="283,890 309,890 336,891 363,890 390,890 416,889 443,889 470,890 497,892 497,856 470,854 443,853 416,853 390,854 363,854 336,855 309,854 283,854"/>
+                <Baseline points="283,878 309,878 336,879 363,878 390,878 416,877 443,877 470,878 497,880"/>
+                <TextEquiv>
+                    <Unicode>Gerundio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:2;}">
+                <Coords points="283,941 309,941 336,941 362,940 389,939 415,938 442,938 468,939 495,939 495,905 468,905 442,904 415,904 389,905 362,906 336,907 309,907 283,907"/>
+                <Baseline points="283,930 309,930 336,930 362,929 389,928 415,927 442,927 468,928 495,928"/>
+                <TextEquiv>
+                    <Unicode>Sacristan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:3;}">
+                <Coords points="675,878 701,877 727,878 754,878 780,879 807,882 807,845 780,842 754,841 727,841 701,840 675,841"/>
+                <Baseline points="675,866 701,865 727,866 754,866 780,867 807,870"/>
+                <TextEquiv>
+                    <Unicode>Vejete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:4;}">
+                <Coords points="665,928 690,928 716,929 742,929 768,929 794,930 820,929 820,892 794,893 768,892 742,892 716,892 690,891 665,891"/>
+                <Baseline points="665,916 690,916 716,917 742,917 768,917 794,918 820,917"/>
+                <TextEquiv>
+                    <Unicode>Mencía.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PERSONAS.
+Gerundio.
+Sacristan.
+Vejete.
+Mencía.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:2;}">
+            <Coords points="144,1568 1115,1568 1115,1709 144,1709"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="441,1638 466,1638 492,1637 518,1637 543,1636 569,1635 595,1634 621,1633 646,1631 672,1630 698,1629 724,1628 749,1628 775,1627 801,1627 827,1627 827,1590 801,1590 775,1590 749,1591 724,1591 698,1592 672,1593 646,1594 621,1596 595,1597 569,1598 543,1599 518,1600 492,1600 466,1601 441,1601"/>
+                <Baseline points="441,1626 466,1626 492,1625 518,1625 543,1624 569,1623 595,1622 621,1621 646,1619 672,1618 698,1617 724,1616 749,1616 775,1615 801,1615 827,1615"/>
+                <TextEquiv>
+                    <Unicode>CARMONA:—1859.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="152,1696 202,1696 252,1696 303,1694 353,1693 404,1692 454,1690 505,1689 555,1687 606,1684 656,1683 707,1681 757,1678 808,1677 858,1675 909,1673 959,1671 1010,1670 1060,1668 1111,1667 1111,1630 1060,1631 1010,1633 959,1634 909,1636 858,1638 808,1640 757,1641 707,1644 656,1646 606,1647 555,1650 505,1652 454,1653 404,1655 353,1656 303,1657 252,1659 202,1659 152,1659"/>
+                <Baseline points="152,1684 202,1684 252,1684 303,1682 353,1681 404,1680 454,1678 505,1677 555,1675 606,1672 656,1671 707,1669 757,1666 808,1665 858,1663 909,1661 959,1659 1010,1658 1060,1656 1111,1655"/>
+                <TextEquiv>
+                    <Unicode>Imp. de D. José M.a Moreno, calle Madre de Dios.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARMONA:—1859.
+Imp. de D. José M.a Moreno, calle Madre de Dios.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

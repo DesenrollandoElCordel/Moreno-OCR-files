@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-01T15:06:45.66+01:00</Created>
+        <LastChange>2020-12-08T17:50:26.567+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525383" pageId="22318413" pageNr="111" tsid="50197006" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=JCABHIHBLALVQPCTMSMHGXXM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KGGCSRFLWXJNSLVMZCLENFRV" imageId="17387928"/>
+    </Metadata>
+    <Page imageFilename="Moreno_173_1.jpg" imageWidth="1737" imageHeight="2508">
+        <PrintSpace>
+            <Coords points="0,0 1722,0 1722,2508 0,2508"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607519342642" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3_1"/>
+                <RegionRefIndexed index="1" regionRef="r_5_1"/>
+                <RegionRefIndexed index="2" regionRef="r_6_1"/>
+                <RegionRefIndexed index="3" regionRef="r_7_1"/>
+                <RegionRefIndexed index="4" regionRef="r_8_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:0;}">
+            <Coords points="1255,236 1527,236 1527,312 1255,312"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1264,329 1291,330 1318,331 1346,332 1373,333 1401,335 1428,337 1456,338 1483,340 1511,342 1511,192 1483,190 1456,188 1428,187 1401,185 1373,183 1346,182 1318,181 1291,180 1264,179"/>
+                <Baseline points="1264,279 1291,280 1318,281 1346,282 1373,283 1401,285 1428,287 1456,288 1483,290 1511,292"/>
+                <TextEquiv>
+                    <Unicode>(Num. 183.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Num. 183.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:1;}">
+            <Coords points="196,1096 1649,1096 1649,1740 196,1740"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="219,1206 290,1209 361,1213 433,1216 504,1219 576,1222 647,1225 718,1227 790,1230 861,1233 933,1235 1004,1238 1075,1241 1147,1244 1218,1246 1290,1249 1361,1251 1432,1254 1504,1258 1575,1261 1647,1263 1647,1206 1575,1204 1504,1201 1432,1197 1361,1194 1290,1192 1218,1189 1147,1187 1075,1184 1004,1181 933,1178 861,1176 790,1173 718,1170 647,1168 576,1165 504,1162 433,1159 361,1156 290,1152 219,1149"/>
+                <Baseline points="219,1187 290,1190 361,1194 433,1197 504,1200 576,1203 647,1206 718,1208 790,1211 861,1214 933,1216 1004,1219 1075,1222 1147,1225 1218,1227 1290,1230 1361,1232 1432,1235 1504,1239 1575,1242 1647,1244"/>
+                <TextEquiv>
+                    <Unicode>LOS DOS PRINCIPES DE ITALIA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="212,1336 283,1340 354,1344 425,1347 496,1351 567,1354 638,1357 710,1360 781,1363 852,1366 923,1368 994,1371 1065,1374 1136,1377 1208,1379 1279,1382 1350,1385 1421,1387 1492,1390 1563,1393 1635,1396 1635,1345 1563,1342 1492,1339 1421,1336 1350,1334 1279,1331 1208,1328 1136,1326 1065,1323 994,1320 923,1317 852,1315 781,1312 710,1309 638,1306 567,1303 496,1300 425,1296 354,1293 283,1289 212,1285"/>
+                <Baseline points="212,1319 283,1323 354,1327 425,1330 496,1334 567,1337 638,1340 710,1343 781,1346 852,1349 923,1351 994,1354 1065,1357 1136,1360 1208,1362 1279,1365 1350,1368 1421,1370 1492,1373 1563,1376 1635,1379"/>
+                <TextEquiv>
+                    <Unicode>ROMANCE QUE TRATA DE LAS AVENTURAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="212,1408 283,1412 355,1415 427,1418 498,1422 570,1424 642,1428 713,1430 785,1433 857,1436 929,1438 1000,1441 1072,1444 1144,1447 1215,1450 1287,1453 1359,1456 1430,1459 1502,1463 1574,1466 1646,1470 1646,1419 1574,1415 1502,1412 1430,1408 1359,1405 1287,1402 1215,1399 1144,1396 1072,1393 1000,1390 929,1387 857,1385 785,1382 713,1379 642,1377 570,1373 498,1371 427,1367 355,1364 283,1361 212,1357"/>
+                <Baseline points="212,1391 283,1395 355,1398 427,1401 498,1405 570,1407 642,1411 713,1413 785,1416 857,1419 929,1421 1000,1424 1072,1427 1144,1430 1215,1433 1287,1436 1359,1439 1430,1442 1502,1446 1574,1449 1646,1453"/>
+                <TextEquiv>
+                    <Unicode>de dos Caballeros Italianos, llamados D. Enrique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="212,1481 282,1484 352,1487 423,1489 493,1492 564,1495 634,1497 704,1500 775,1502 845,1505 916,1508 986,1510 1056,1513 1127,1516 1197,1519 1268,1521 1338,1525 1408,1528 1479,1531 1549,1534 1620,1538 1620,1490 1549,1486 1479,1483 1408,1480 1338,1477 1268,1473 1197,1471 1127,1468 1056,1465 986,1462 916,1460 845,1457 775,1454 704,1452 634,1449 564,1447 493,1444 423,1441 352,1439 282,1436 212,1433"/>
+                <Baseline points="212,1465 282,1468 352,1471 423,1473 493,1476 564,1479 634,1481 704,1484 775,1486 845,1489 916,1492 986,1494 1056,1497 1127,1500 1197,1503 1268,1505 1338,1509 1408,1512 1479,1515 1549,1518 1620,1522"/>
+                <TextEquiv>
+                    <Unicode>y D. Estefanolos cuales eran primos hermanos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="202,1547 276,1551 351,1554 426,1557 500,1560 575,1564 650,1568 724,1571 799,1575 874,1578 948,1581 1023,1584 1098,1587 1172,1590 1247,1593 1322,1595 1396,1598 1471,1600 1546,1602 1621,1604 1621,1556 1546,1554 1471,1552 1396,1550 1322,1547 1247,1545 1172,1542 1098,1539 1023,1536 948,1533 874,1530 799,1527 724,1523 650,1520 575,1516 500,1512 426,1509 351,1506 276,1503 202,1499"/>
+                <Baseline points="202,1531 276,1535 351,1538 426,1541 500,1544 575,1548 650,1552 724,1555 799,1559 874,1562 948,1565 1023,1568 1098,1571 1172,1574 1247,1577 1322,1579 1396,1582 1471,1584 1546,1586 1621,1588"/>
+                <TextEquiv>
+                    <Unicode>Declarase como corrieron lo mas de nuestra Es-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="209,1622 280,1625 351,1628 422,1631 493,1634 564,1637 635,1640 706,1643 777,1646 848,1649 919,1652 990,1655 1061,1658 1132,1660 1203,1663 1274,1666 1345,1669 1416,1672 1487,1675 1558,1677 1629,1680 1629,1629 1558,1626 1487,1624 1416,1621 1345,1618 1274,1615 1203,1612 1132,1609 1061,1607 990,1604 919,1601 848,1598 777,1595 706,1592 635,1589 564,1586 493,1583 422,1580 351,1577 280,1574 209,1571"/>
+                <Baseline points="209,1605 280,1608 351,1611 422,1614 493,1617 564,1620 635,1623 706,1626 777,1629 848,1632 919,1635 990,1638 1061,1641 1132,1643 1203,1646 1274,1649 1345,1652 1416,1655 1487,1658 1558,1660 1629,1663"/>
+                <TextEquiv>
+                    <Unicode>paña, y el caso mas particular que les sucedió</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="809,1717 836,1718 864,1720 892,1722 920,1723 947,1725 975,1725 1003,1726 1031,1727 1031,1676 1003,1675 975,1674 947,1674 920,1672 892,1671 864,1669 836,1667 809,1666"/>
+                <Baseline points="809,1700 836,1701 864,1703 892,1705 920,1706 947,1708 975,1708 1003,1709 1031,1710"/>
+                <TextEquiv>
+                    <Unicode>en ella.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LOS DOS PRINCIPES DE ITALIA.
+ROMANCE QUE TRATA DE LAS AVENTURAS
+de dos Caballeros Italianos, llamados D. Enrique
+y D. Estefanolos cuales eran primos hermanos.
+Declarase como corrieron lo mas de nuestra Es-
+paña, y el caso mas particular que les sucedió
+en ella.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:2;}">
+            <Coords points="581,1787 1231,1787 1231,1883 581,1883"/>
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="590,1893 621,1894 653,1896 684,1897 716,1898 748,1899 779,1900 811,1902 842,1903 874,1904 906,1905 937,1906 969,1907 1000,1909 1032,1910 1064,1912 1095,1913 1127,1915 1158,1917 1190,1919 1222,1921 1222,1771 1190,1769 1158,1767 1127,1765 1095,1763 1064,1762 1032,1760 1000,1759 969,1757 937,1756 906,1755 874,1754 842,1753 811,1752 779,1750 748,1749 716,1748 684,1747 653,1746 621,1744 590,1743"/>
+                <Baseline points="590,1843 621,1844 653,1846 684,1847 716,1848 748,1849 779,1850 811,1852 842,1853 874,1854 906,1855 937,1856 969,1857 1000,1859 1032,1860 1064,1862 1095,1863 1127,1865 1158,1867 1190,1869 1222,1871"/>
+                <TextEquiv>
+                    <Unicode>PRIMERA PARTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PRIMERA PARTE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:3;}">
+            <Coords points="175,1923 766,1923 766,2183 175,2183"/>
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="244,1980 269,1981 294,1982 320,1983 345,1985 371,1986 396,1987 421,1988 447,1989 472,1990 498,1992 523,1993 549,1994 574,1995 599,1996 625,1997 650,1998 676,2000 701,2001 727,2002 727,1960 701,1959 676,1958 650,1956 625,1955 599,1954 574,1953 549,1952 523,1951 498,1950 472,1948 447,1947 421,1946 396,1945 371,1944 345,1943 320,1941 294,1940 269,1939 244,1938"/>
+                <Baseline points="244,1966 269,1967 294,1968 320,1969 345,1971 371,1972 396,1973 421,1974 447,1975 472,1976 498,1978 523,1979 549,1980 574,1981 599,1982 625,1983 650,1984 676,1986 701,1987 727,1988"/>
+                <TextEquiv>
+                    <Unicode>Deseosos de ver mundo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="181,2034 210,2036 239,2037 269,2038 298,2040 328,2041 357,2042 386,2044 416,2046 445,2047 475,2048 504,2050 534,2051 563,2052 592,2054 622,2055 651,2057 681,2058 710,2059 740,2060 740,2020 710,2019 681,2018 651,2017 622,2015 592,2014 563,2012 534,2011 504,2010 475,2008 445,2007 416,2006 386,2004 357,2002 328,2001 298,2000 269,1998 239,1997 210,1996 181,1994"/>
+                <Baseline points="181,2021 210,2023 239,2024 269,2025 298,2027 328,2028 357,2029 386,2031 416,2033 445,2034 475,2035 504,2037 534,2038 563,2039 592,2041 622,2042 651,2044 681,2045 710,2046 740,2047"/>
+                <TextEquiv>
+                    <Unicode>de las Provincias de Italia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="181,2090 207,2092 234,2094 260,2095 287,2097 313,2098 340,2100 366,2101 393,2103 419,2104 446,2105 472,2107 499,2108 525,2109 552,2110 578,2111 605,2112 631,2113 658,2114 684,2115 711,2116 711,2076 684,2075 658,2074 631,2073 605,2072 578,2071 552,2070 525,2069 499,2068 472,2067 446,2065 419,2064 393,2063 366,2061 340,2060 313,2058 287,2057 260,2055 234,2054 207,2052 181,2050"/>
+                <Baseline points="181,2077 207,2079 234,2081 260,2082 287,2084 313,2085 340,2087 366,2088 393,2090 419,2091 446,2092 472,2094 499,2095 525,2096 552,2097 578,2098 605,2099 631,2100 658,2101 684,2102 711,2103"/>
+                <TextEquiv>
+                    <Unicode>dos Principes se salieron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l4" custom="readingOrder {index:3;}">
+                <Coords points="182,2149 210,2151 239,2153 267,2155 296,2157 324,2158 353,2159 381,2161 410,2163 438,2164 467,2165 495,2166 524,2167 552,2169 581,2170 609,2172 638,2173 666,2174 695,2176 723,2177 752,2179 752,2137 723,2135 695,2134 666,2132 638,2131 609,2130 581,2128 552,2127 524,2125 495,2124 467,2123 438,2122 410,2121 381,2119 353,2117 324,2116 296,2115 267,2113 239,2111 210,2109 182,2107"/>
+                <Baseline points="182,2135 210,2137 239,2139 267,2141 296,2143 324,2144 353,2145 381,2147 410,2149 438,2150 467,2151 495,2152 524,2153 552,2155 581,2156 609,2158 638,2159 666,2160 695,2162 723,2163 752,2165"/>
+                <TextEquiv>
+                    <Unicode>á ver los Reinos de España,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deseosos de ver mundo
+de las Provincias de Italia
+dos Principes se salieron
+á ver los Reinos de España,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:4;}">
+            <Coords points="909,1952 1450,1952 1450,2210 909,2210"/>
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="926,2011 951,2012 977,2013 1002,2014 1028,2015 1053,2015 1079,2017 1104,2018 1130,2019 1155,2020 1181,2021 1206,2023 1232,2024 1257,2025 1283,2027 1308,2028 1334,2030 1359,2031 1385,2032 1410,2033 1436,2034 1436,1992 1410,1991 1385,1990 1359,1989 1334,1988 1308,1986 1283,1985 1257,1983 1232,1982 1206,1981 1181,1979 1155,1978 1130,1977 1104,1976 1079,1975 1053,1973 1028,1973 1002,1972 977,1971 951,1970 926,1969"/>
+                <Baseline points="926,1997 951,1998 977,1999 1002,2000 1028,2001 1053,2001 1079,2003 1104,2004 1130,2005 1155,2006 1181,2007 1206,2009 1232,2010 1257,2011 1283,2013 1308,2014 1334,2016 1359,2017 1385,2018 1410,2019 1436,2020"/>
+                <TextEquiv>
+                    <Unicode>primos hermanos los dos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="916,2067 941,2068 967,2069 992,2070 1018,2071 1044,2072 1069,2073 1095,2074 1120,2076 1146,2077 1172,2079 1197,2080 1223,2082 1248,2084 1274,2085 1300,2086 1325,2088 1351,2090 1376,2091 1402,2093 1428,2094 1428,2052 1402,2051 1376,2049 1351,2048 1325,2046 1300,2044 1274,2043 1248,2042 1223,2040 1197,2038 1172,2037 1146,2035 1120,2034 1095,2032 1069,2031 1044,2030 1018,2029 992,2028 967,2027 941,2026 916,2025"/>
+                <Baseline points="916,2053 941,2054 967,2055 992,2056 1018,2057 1044,2058 1069,2059 1095,2060 1120,2062 1146,2063 1172,2065 1197,2066 1223,2068 1248,2070 1274,2071 1300,2072 1325,2074 1351,2076 1376,2077 1402,2079 1428,2080"/>
+                <TextEquiv>
+                    <Unicode>á uno D. Enrique llaman,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="920,2130 945,2130 970,2131 996,2131 1021,2132 1046,2133 1072,2133 1097,2134 1122,2136 1148,2137 1173,2139 1198,2140 1224,2142 1249,2143 1274,2144 1300,2146 1325,2147 1350,2148 1376,2149 1376,2107 1350,2106 1325,2105 1300,2104 1274,2102 1249,2101 1224,2100 1198,2098 1173,2097 1148,2095 1122,2094 1097,2092 1072,2091 1046,2091 1021,2090 996,2089 970,2089 945,2088 920,2088"/>
+                <Baseline points="920,2116 945,2116 970,2117 996,2117 1021,2118 1046,2119 1072,2119 1097,2120 1122,2122 1148,2123 1173,2125 1198,2126 1224,2128 1249,2129 1274,2130 1300,2132 1325,2133 1350,2134 1376,2135"/>
+                <TextEquiv>
+                    <Unicode>y al otro D. Estefano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l4" custom="readingOrder {index:3;}">
+                <Coords points="918,2187 943,2188 969,2189 995,2190 1021,2191 1047,2192 1073,2193 1099,2194 1125,2196 1150,2197 1176,2198 1202,2199 1228,2201 1254,2202 1280,2203 1306,2204 1332,2205 1358,2206 1358,2164 1332,2163 1306,2162 1280,2161 1254,2160 1228,2159 1202,2157 1176,2156 1150,2155 1125,2154 1099,2152 1073,2151 1047,2150 1021,2149 995,2148 969,2147 943,2146 918,2145"/>
+                <Baseline points="918,2173 943,2174 969,2175 995,2176 1021,2177 1047,2178 1073,2179 1099,2180 1125,2182 1150,2183 1176,2184 1202,2185 1228,2187 1254,2188 1280,2189 1306,2190 1332,2191 1358,2192"/>
+                <TextEquiv>
+                    <Unicode>los apellidos de Lara</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>primos hermanos los dos,
+á uno D. Enrique llaman,
+y al otro D. Estefano,
+los apellidos de Lara</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1606835039623_2665" custom="readingOrder {index:5;}">
+            <Coords points="285,1047 671,1047 671,380 285,380"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1606835045135_2669" custom="readingOrder {index:6;}">
+            <Coords points="691,1072 1140,1072 1140,369 691,369"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1606835050751_2673" custom="readingOrder {index:7;}">
+            <Coords points="1552,1089 1140,1089 1140,328 1552,328"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
