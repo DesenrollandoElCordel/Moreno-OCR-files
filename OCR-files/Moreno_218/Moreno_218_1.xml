@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-27T11:35:40.962+01:00</Created>
+        <LastChange>2020-12-15T15:00:27.608+01:00</LastChange>
+        <TranskribusMetadata docId="525389" pageId="22318738" pageNr="53" tsid="50332640" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=MWNMEPCILAVNXJGFOJTDTUJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPEKODRHGBBYFOHEPXJJFKZC" imageId="17388253"/>
+    </Metadata>
+    <Page imageFilename="Moreno_218_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1608043805577" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1607007759129_1029"/>
+                <RegionRefIndexed index="1" regionRef="region_1607007755808_1025"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1607007759129_1029" custom="readingOrder {index:0;}">
+            <Coords points="1097,187 1362,187 1362,260 1097,260"/>
+            <TextLine id="region_1607007759129_1029l1" custom="readingOrder {index:0;}">
+                <Coords points="1106,292 1131,291 1157,289 1183,289 1209,289 1235,288 1261,288 1287,287 1313,285 1313,135 1287,137 1261,138 1235,138 1209,139 1183,139 1157,139 1131,141 1106,142"/>
+                <Baseline points="1106,242 1131,241 1157,239 1183,239 1209,239 1235,238 1261,238 1287,237 1313,235"/>
+                <TextEquiv>
+                    <Unicode>(Num. 228.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Num. 228.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1607007755808_1025" custom="readingOrder {index:1;}">
+            <Coords points="260,2101 1222,2101 1222,1799 260,1799"/>
+            <TextLine id="region_1607007755808_1025l1" custom="readingOrder {index:0;}">
+                <Coords points="321,1895 361,1895 402,1896 443,1897 484,1897 525,1897 566,1897 607,1897 648,1896 689,1896 730,1895 770,1895 811,1894 852,1893 893,1892 934,1892 975,1891 1016,1891 1057,1890 1098,1890 1139,1889 1139,1819 1098,1820 1057,1820 1016,1821 975,1821 934,1822 893,1822 852,1823 811,1824 770,1825 730,1825 689,1826 648,1826 607,1827 566,1827 525,1827 484,1827 443,1827 402,1826 361,1825 321,1825"/>
+                <Baseline points="321,1872 361,1872 402,1873 443,1874 484,1874 525,1874 566,1874 607,1874 648,1873 689,1873 730,1872 770,1872 811,1871 852,1870 893,1869 934,1869 975,1868 1016,1868 1057,1867 1098,1867 1139,1866"/>
+                <TextEquiv>
+                    <Unicode>MISTICAS DECIMAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607007755808_1025l2" custom="readingOrder {index:1;}">
+                <Coords points="560,1993 585,1994 611,1995 637,1996 663,1996 689,1997 715,1997 741,1997 766,1997 792,1996 818,1996 844,1995 870,1994 896,1993 922,1992 922,1922 896,1923 870,1924 844,1925 818,1926 792,1926 766,1927 741,1927 715,1927 689,1927 663,1926 637,1926 611,1925 585,1924 560,1923"/>
+                <Baseline points="560,1970 585,1971 611,1972 637,1973 663,1973 689,1974 715,1974 741,1974 766,1974 792,1973 818,1973 844,1972 870,1971 896,1970 922,1969"/>
+                <TextEquiv>
+                    <Unicode>POR EL PADRE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607007755808_1025l3" custom="readingOrder {index:2;}">
+                <Coords points="271,2107 314,2107 357,2107 400,2107 443,2106 487,2106 530,2105 573,2105 616,2104 659,2103 703,2102 746,2102 789,2101 832,2100 875,2099 919,2098 962,2098 1005,2097 1048,2096 1091,2095 1215,2090 1215,2017 1091,2022 1048,2023 1005,2024 962,2025 919,2025 875,2026 832,2027 789,2028 746,2029 703,2029 659,2030 616,2031 573,2032 530,2032 487,2033 443,2033 400,2034 357,2034 314,2034 271,2034"/>
+                <Baseline points="271,2083 314,2083 357,2083 400,2083 443,2082 487,2082 530,2081 573,2081 616,2080 659,2079 703,2078 746,2078 789,2077 832,2076 875,2075 919,2074 962,2074 1005,2073 1048,2072 1091,2071 1135,2071"/>
+                <TextEquiv>
+                    <Unicode>FRAY DIEGO DE CADIZ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MISTICAS DECIMAS
+POR EL PADRE
+FRAY DIEGO DE CADIZ.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1607007768059_1034" custom="readingOrder {index:2;}">
+            <Coords points="249,462 1211,462 1211,1757 249,1757"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
