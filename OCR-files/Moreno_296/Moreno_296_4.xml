@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T14:48:54.105+02:00</Created>
+        <LastChange>2020-10-06T13:41:17.421+02:00</LastChange>
+        <TranskribusMetadata docId="505163" pageId="20918003" pageNr="4" tsid="42977216" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=EYVDHHLDKETONUMEMPZFIJIB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQXRDPADPOGYPVFMJGPSXDBR" imageId="16061162"/>
+    </Metadata>
+    <Page imageFilename="Moreno_296_4.jpeg" imageWidth="1752" imageHeight="2480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1601984560268" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1601902988762_8709"/>
+                <RegionRefIndexed index="1" regionRef="region_1601903039640_8721"/>
+                <RegionRefIndexed index="2" regionRef="region_1601902992896_8713"/>
+                <RegionRefIndexed index="3" regionRef="region_1601903023766_8717"/>
+                <RegionRefIndexed index="4" regionRef="region_1601903047580_8725"/>
+                <RegionRefIndexed index="5" regionRef="region_1601903081469_8732"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1601902988762_8709" custom="readingOrder {index:0;}">
+            <Coords points="184,240 766,240 766,667 184,667"/>
+            <TextLine id="line_1601903098922_8736" custom="readingOrder {index:0;}">
+                <Coords points="195,257 639,257 639,307 195,307"/>
+                <Baseline points="195,302 639,302"/>
+                <TextEquiv>
+                    <Unicode>Lo tengo por cosa fija</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903102318_8743" custom="readingOrder {index:1;}">
+                <Coords points="192,320 636,317 636,367 192,370"/>
+                <Baseline points="192,365 636,362"/>
+                <TextEquiv>
+                    <Unicode>y bien lo pueo afirmá</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903105738_8750" custom="readingOrder {index:2;}">
+                <Coords points="200,377 647,371 648,421 201,427"/>
+                <Baseline points="201,422 648,416"/>
+                <TextEquiv>
+                    <Unicode>que naide llega á tocá</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903108784_8757" custom="readingOrder {index:3;}">
+                <Coords points="198,429 662,429 662,479 198,479"/>
+                <Baseline points="198,474 662,474"/>
+                <TextEquiv>
+                    <Unicode>los lunares é mi niña.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903112888_8764" custom="readingOrder {index:4;}">
+                <Coords points="236,543 758,549 757,599 235,593"/>
+                <Baseline points="235,588 757,594"/>
+                <TextEquiv>
+                    <Unicode>¡Jesú! si cuarquié atrevío</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903115923_8771" custom="readingOrder {index:5;}">
+                <Coords points="192,606 654,609 654,659 192,656"/>
+                <Baseline points="192,651 654,654"/>
+                <TextEquiv>
+                    <Unicode>hiciera la emostrasion,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lo tengo por cosa fija
+y bien lo pueo afirmá
+que naide llega á tocá
+los lunares é mi niña.
+¡Jesú! si cuarquié atrevío
+hiciera la emostrasion,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601903039640_8721" custom="readingOrder {index:1;}">
+            <Coords points="157,1058 747,1064 747,2193 157,2187"/>
+            <TextLine id="line_1601903154066_8841" custom="readingOrder {index:0;}">
+                <Coords points="231,1056 741,1059 741,1109 231,1106"/>
+                <Baseline points="231,1101 741,1104"/>
+                <TextEquiv>
+                    <Unicode>Venga la parma è la mano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903157309_8848" custom="readingOrder {index:1;}">
+                <Coords points="182,1102 687,1102 687,1152 182,1152"/>
+                <Baseline points="182,1147 687,1147"/>
+                <TextEquiv>
+                    <Unicode>salerosa, y viva er mundo!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903160463_8855" custom="readingOrder {index:2;}">
+                <Coords points="182,1145 715,1150 715,1200 182,1195"/>
+                <Baseline points="182,1190 715,1195"/>
+                <TextEquiv>
+                    <Unicode>jui! prontito! que me jundo!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903163732_8862" custom="readingOrder {index:3;}">
+                <Coords points="182,1188 658,1190 658,1240 182,1238"/>
+                <Baseline points="182,1233 658,1235"/>
+                <TextEquiv>
+                    <Unicode>vamos, suértame un calé,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903167526_8869" custom="readingOrder {index:4;}">
+                <Coords points="223,1228 716,1236 715,1286 222,1278"/>
+                <Baseline points="222,1273 715,1281"/>
+                <TextEquiv>
+                    <Unicode>Y verás con qué sandunga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903171669_8876" custom="readingOrder {index:5;}">
+                <Coords points="171,1282 609,1285 609,1335 171,1332"/>
+                <Baseline points="171,1327 609,1330"/>
+                <TextEquiv>
+                    <Unicode>digo la güena ventura,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903175755_8883" custom="readingOrder {index:6;}">
+                <Coords points="175,1325 622,1331 621,1381 174,1375"/>
+                <Baseline points="174,1370 621,1376"/>
+                <TextEquiv>
+                    <Unicode>no seas uraña, criatura,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903179981_8890" custom="readingOrder {index:7;}">
+                <Coords points="171,1371 538,1368 538,1418 171,1421"/>
+                <Baseline points="171,1416 538,1413"/>
+                <TextEquiv>
+                    <Unicode>niña, déjate queré.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903183317_8897" custom="readingOrder {index:8;}">
+                <Coords points="218,1411 647,1417 646,1467 217,1461"/>
+                <Baseline points="217,1456 646,1462"/>
+                <TextEquiv>
+                    <Unicode>Cabayeros, aquí estoy;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903186526_8904" custom="readingOrder {index:9;}">
+                <Coords points="174,1457 741,1457 741,1507 174,1507"/>
+                <Baseline points="174,1502 741,1502"/>
+                <TextEquiv>
+                    <Unicode>qué! no habrá arguna cosiya!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903189616_8911" custom="readingOrder {index:10;}">
+                <Coords points="428,1506 594,1503 595,1553 429,1556"/>
+                <Baseline points="429,1551 595,1548"/>
+                <TextEquiv>
+                    <Unicode>ayá voy!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903192490_8918" custom="readingOrder {index:11;}">
+                <Coords points="168,1543 563,1546 563,1596 168,1593"/>
+                <Baseline points="168,1588 563,1591"/>
+                <TextEquiv>
+                    <Unicode>aquí está la gitaniya!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903200897_8925" custom="readingOrder {index:12;}">
+                <Coords points="210,1638 735,1638 735,1688 210,1688"/>
+                <Baseline points="210,1683 735,1683"/>
+                <TextEquiv>
+                    <Unicode>No hay un cachito é bayeta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903255390_8932" custom="readingOrder {index:13;}">
+                <Coords points="170,1678 689,1681 689,1731 170,1728"/>
+                <Baseline points="170,1723 689,1726"/>
+                <TextEquiv>
+                    <Unicode>manque esté mu serviito....</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903258427_8939" custom="readingOrder {index:14;}">
+                <Coords points="168,1721 637,1721 637,1771 168,1771"/>
+                <Baseline points="168,1766 637,1766"/>
+                <TextEquiv>
+                    <Unicode>anda que está muertesito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903261427_8946" custom="readingOrder {index:15;}">
+                <Coords points="170,1764 563,1764 563,1814 170,1814"/>
+                <Baseline points="170,1809 563,1809"/>
+                <TextEquiv>
+                    <Unicode>de frío mi churumbé.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903264355_8953" custom="readingOrder {index:16;}">
+                <Coords points="210,1812 686,1812 686,1862 210,1862"/>
+                <Baseline points="210,1857 686,1857"/>
+                <TextEquiv>
+                    <Unicode>Malos menges le tagelen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903267693_8960" custom="readingOrder {index:17;}">
+                <Coords points="170,1858 549,1855 549,1905 170,1908"/>
+                <Baseline points="170,1903 549,1900"/>
+                <TextEquiv>
+                    <Unicode>no quieres esaboria?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903270986_8967" custom="readingOrder {index:18;}">
+                <Coords points="162,1898 597,1898 597,1948 162,1948"/>
+                <Baseline points="162,1943 597,1943"/>
+                <TextEquiv>
+                    <Unicode>anda vete.... mala via!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903274193_8974" custom="readingOrder {index:19;}">
+                <Coords points="168,1944 574,1944 574,1994 168,1994"/>
+                <Baseline points="168,1989 574,1989"/>
+                <TextEquiv>
+                    <Unicode>si tienes cara é pasté.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903278902_8981" custom="readingOrder {index:20;}">
+                <Coords points="205,1987 663,1987 663,2037 205,2037"/>
+                <Baseline points="205,2032 663,2032"/>
+                <TextEquiv>
+                    <Unicode>Como que una probe soy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903282018_8988" custom="readingOrder {index:21;}">
+                <Coords points="166,2030 693,2036 692,2086 165,2080"/>
+                <Baseline points="165,2075 692,2081"/>
+                <TextEquiv>
+                    <Unicode>no atiendes, mala poliya....</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903284576_8995" custom="readingOrder {index:22;}">
+                <Coords points="398,2073 613,2076 612,2126 397,2123"/>
+                <Baseline points="397,2118 612,2121"/>
+                <TextEquiv>
+                    <Unicode>ya me voy!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903288166_9002" custom="readingOrder {index:23;}">
+                <Coords points="162,2116 626,2119 626,2169 162,2166"/>
+                <Baseline points="162,2161 626,2164"/>
+                <TextEquiv>
+                    <Unicode>quien yama á la gitaniya!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Venga la parma è la mano,
+salerosa, y viva er mundo!
+jui! prontito! que me jundo!
+vamos, suértame un calé,
+Y verás con qué sandunga
+digo la güena ventura,
+no seas uraña, criatura,
+niña, déjate queré.
+Cabayeros, aquí estoy;
+qué! no habrá arguna cosiya!
+ayá voy!
+aquí está la gitaniya!
+No hay un cachito é bayeta
+manque esté mu serviito....
+anda que está muertesito
+de frío mi churumbé.
+Malos menges le tagelen!
+no quieres esaboria?
+anda vete.... mala via!
+si tienes cara é pasté.
+Como que una probe soy
+no atiendes, mala poliya....
+ya me voy!
+quien yama á la gitaniya!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601902992896_8713" custom="readingOrder {index:2;}">
+            <Coords points="912,238 1474,238 1474,667 912,667"/>
+            <TextLine id="line_1601903119122_8778" custom="readingOrder {index:0;}">
+                <Coords points="923,254 1379,259 1379,309 923,304"/>
+                <Baseline points="923,299 1379,304"/>
+                <TextEquiv>
+                    <Unicode>de yegá á sus lunares,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903121667_8785" custom="readingOrder {index:1;}">
+                <Coords points="927,314 1431,320 1430,370 926,364"/>
+                <Baseline points="926,359 1430,365"/>
+                <TextEquiv>
+                    <Unicode>de siguro entre mis uñas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903125333_8792" custom="readingOrder {index:2;}">
+                <Coords points="920,374 1390,377 1390,427 920,424"/>
+                <Baseline points="920,419 1390,422"/>
+                <TextEquiv>
+                    <Unicode>le estrujaba el corazón!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903128294_8799" custom="readingOrder {index:3;}">
+                <Coords points="918,431 1457,437 1456,487 917,481"/>
+                <Baseline points="917,476 1456,482"/>
+                <TextEquiv>
+                    <Unicode>Poique lo que mas camelo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903131357_8806" custom="readingOrder {index:4;}">
+                <Coords points="920,494 1453,497 1453,547 920,544"/>
+                <Baseline points="920,539 1453,542"/>
+                <TextEquiv>
+                    <Unicode>y lo que mas me pesquiba,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903134235_8813" custom="readingOrder {index:5;}">
+                <Coords points="918,549 1411,555 1410,605 917,599"/>
+                <Baseline points="917,594 1410,600"/>
+                <TextEquiv>
+                    <Unicode>son los bonitos lunares,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903137235_8820" custom="readingOrder {index:6;}">
+                <Coords points="917,609 1384,609 1384,659 917,659"/>
+                <Baseline points="917,654 1384,654"/>
+                <TextEquiv>
+                    <Unicode>los lunares de mi niña!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>de yegá á sus lunares,
+de siguro entre mis uñas
+le estrujaba el corazón!
+Poique lo que mas camelo
+y lo que mas me pesquiba,
+son los bonitos lunares,
+los lunares de mi niña!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601903023766_8717" custom="readingOrder {index:3;}">
+            <Coords points="369,733 1406,733 1406,976 369,976"/>
+            <TextLine id="line_1601903145686_8827" custom="readingOrder {index:0;}">
+                <Coords points="704,778 1099,781 1099,831 704,828"/>
+                <Baseline points="704,823 1099,826"/>
+                <TextEquiv>
+                    <Unicode>CANCION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903149198_8834" custom="readingOrder {index:1;}">
+                <Coords points="394,913 1377,913 1377,963 394,963"/>
+                <Baseline points="394,958 1377,958"/>
+                <TextEquiv>
+                    <Unicode>DE LA GITANILLA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CANCION
+DE LA GITANILLA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601903047580_8725" custom="readingOrder {index:4;}">
+            <Coords points="884,1057 1580,1057 1580,2180 884,2180"/>
+            <TextLine id="line_1601903298407_9009" custom="readingOrder {index:0;}">
+                <Coords points="964,1063 1417,1066 1417,1116 964,1113"/>
+                <Baseline points="964,1108 1417,1111"/>
+                <TextEquiv>
+                    <Unicode>Quite osté patas é catre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903301245_9016" custom="readingOrder {index:1;}">
+                <Coords points="915,1109 1397,1109 1397,1159 915,1159"/>
+                <Baseline points="915,1154 1397,1154"/>
+                <TextEquiv>
+                    <Unicode>que tiene oste esos sacais</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903304529_9023" custom="readingOrder {index:2;}">
+                <Coords points="910,1155 1551,1158 1551,1208 910,1205"/>
+                <Baseline points="910,1200 1551,1203"/>
+                <TextEquiv>
+                    <Unicode>mas turbios que el agua é Cais….</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903307497_9030" custom="readingOrder {index:3;}">
+                <Coords points="912,1198 1377,1195 1377,1245 912,1248"/>
+                <Baseline points="912,1243 1377,1240"/>
+                <TextEquiv>
+                    <Unicode>y que pescueso san Juan!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903310303_9037" custom="readingOrder {index:4;}">
+                <Coords points="951,1238 1446,1244 1445,1294 950,1288"/>
+                <Baseline points="950,1283 1445,1289"/>
+                <TextEquiv>
+                    <Unicode>Jecha pinreles!.... canela!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903313206_9044" custom="readingOrder {index:5;}">
+                <Coords points="911,1284 1395,1290 1394,1340 910,1334"/>
+                <Baseline points="910,1329 1394,1335"/>
+                <TextEquiv>
+                    <Unicode>y que vien bailará er vito!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903315563_9051" custom="readingOrder {index:6;}">
+                <Coords points="907,1327 1331,1330 1331,1380 907,1377"/>
+                <Baseline points="907,1372 1331,1375"/>
+                <TextEquiv>
+                    <Unicode>er demonio er señorito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903318425_9058" custom="readingOrder {index:7;}">
+                <Coords points="912,1379 1285,1376 1285,1426 912,1429"/>
+                <Baseline points="912,1424 1285,1421"/>
+                <TextEquiv>
+                    <Unicode>paese un esperabán.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903321094_9065" custom="readingOrder {index:8;}">
+                <Coords points="945,1413 1381,1422 1380,1472 944,1463"/>
+                <Baseline points="944,1458 1380,1467"/>
+                <TextEquiv>
+                    <Unicode>Me jayo en ayunas hoy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903323767_9072" custom="readingOrder {index:9;}">
+                <Coords points="895,1465 1474,1467 1474,1517 895,1515"/>
+                <Baseline points="895,1510 1474,1512"/>
+                <TextEquiv>
+                    <Unicode>no hay mendruguitos chiquiya</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903327195_9079" custom="readingOrder {index:10;}">
+                <Coords points="1140,1507 1355,1510 1354,1560 1139,1557"/>
+                <Baseline points="1139,1552 1354,1555"/>
+                <TextEquiv>
+                    <Unicode>aquí estoy!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903330342_9086" custom="readingOrder {index:11;}">
+                <Coords points="904,1556 1408,1556 1408,1606 904,1606"/>
+                <Baseline points="904,1601 1408,1601"/>
+                <TextEquiv>
+                    <Unicode>no hay pan pa la gitaniya!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903333715_9093" custom="readingOrder {index:12;}">
+                <Coords points="945,1636 1484,1642 1483,1692 944,1686"/>
+                <Baseline points="944,1681 1483,1687"/>
+                <TextEquiv>
+                    <Unicode>Dame unas chancliyas viejas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903337436_9100" custom="readingOrder {index:13;}">
+                <Coords points="891,1688 1350,1682 1351,1732 892,1738"/>
+                <Baseline points="892,1733 1351,1727"/>
+                <TextEquiv>
+                    <Unicode>asin te veas en er sielo;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903340292_9107" custom="readingOrder {index:14;}">
+                <Coords points="898,1728 1414,1731 1414,1781 898,1778"/>
+                <Baseline points="898,1773 1414,1776"/>
+                <TextEquiv>
+                    <Unicode>venga una limosna, agüelo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903345995_9114" custom="readingOrder {index:15;}">
+                <Coords points="898,1774 1359,1771 1359,1821 898,1824"/>
+                <Baseline points="898,1819 1359,1816"/>
+                <TextEquiv>
+                    <Unicode>jui! que viejo mas ruin!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903349567_9121" custom="readingOrder {index:16;}">
+                <Coords points="939,1814 1366,1820 1365,1870 938,1864"/>
+                <Baseline points="938,1859 1365,1865"/>
+                <TextEquiv>
+                    <Unicode>Premita Jesú der paño,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903352756_9128" custom="readingOrder {index:17;}">
+                <Coords points="892,1860 1357,1860 1357,1910 892,1910"/>
+                <Baseline points="892,1905 1357,1905"/>
+                <TextEquiv>
+                    <Unicode>endino, dientes postisos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903355248_9135" custom="readingOrder {index:18;}">
+                <Coords points="895,1909 1385,1906 1385,1956 895,1959"/>
+                <Baseline points="895,1954 1385,1951"/>
+                <TextEquiv>
+                    <Unicode>que te vea con estos clisos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903358349_9142" custom="readingOrder {index:19;}">
+                <Coords points="890,1946 1337,1949 1337,1999 890,1996"/>
+                <Baseline points="890,1991 1337,1994"/>
+                <TextEquiv>
+                    <Unicode>en las bragas der buchi. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903361369_9149" custom="readingOrder {index:20;}">
+                <Coords points="933,1992 1445,1997 1445,2047 933,2042"/>
+                <Baseline points="933,2037 1445,2042"/>
+                <TextEquiv>
+                    <Unicode>Has jugao el rulé al rentoy!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903366177_9156" custom="readingOrder {index:21;}">
+                <Coords points="895,2038 1414,2038 1414,2088 895,2088"/>
+                <Baseline points="895,2083 1414,2083"/>
+                <TextEquiv>
+                    <Unicode>qué demonio é pantorriyas!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903368870_9163" custom="readingOrder {index:22;}">
+                <Coords points="1126,2081 1335,2086 1334,2136 1125,2131"/>
+                <Baseline points="1125,2126 1334,2131"/>
+                <TextEquiv>
+                    <Unicode>aquí estoy!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903372235_9170" custom="readingOrder {index:23;}">
+                <Coords points="890,2123 1271,2126 1271,2176 890,2173"/>
+                <Baseline points="890,2168 1271,2171"/>
+                <TextEquiv>
+                    <Unicode>señores, la gitaniya!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Quite osté patas é catre,
+que tiene oste esos sacais
+mas turbios que el agua é Cais….
+y que pescueso san Juan!
+Jecha pinreles!.... canela!
+y que vien bailará er vito!
+er demonio er señorito
+paese un esperabán.
+Me jayo en ayunas hoy
+no hay mendruguitos chiquiya
+aquí estoy!
+no hay pan pa la gitaniya!
+Dame unas chancliyas viejas,
+asin te veas en er sielo;
+venga una limosna, agüelo
+jui! que viejo mas ruin!
+Premita Jesú der paño,
+endino, dientes postisos,
+que te vea con estos clisos
+en las bragas der buchi. 
+Has jugao el rulé al rentoy!
+qué demonio é pantorriyas!
+aquí estoy!
+señores, la gitaniya!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601903081469_8732" custom="readingOrder {index:5;}">
+            <Coords points="194,2327 1492,2327 1492,2221 194,2221"/>
+            <TextLine id="line_1601903383884_9177" custom="readingOrder {index:0;}">
+                <Coords points="654,2226 1069,2223 1069,2273 654,2276"/>
+                <Baseline points="654,2271 1069,2268"/>
+                <TextEquiv>
+                    <Unicode>CARMONA:= 1857. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601903388716_9184" custom="readingOrder {index:1;}">
+                <Coords points="204,2275 1485,2275 1485,2325 204,2325"/>
+                <Baseline points="204,2320 1485,2320"/>
+                <TextEquiv>
+                    <Unicode>Imprenta de D. José M. Moreno, Calle Juan de la Cabra, núm.4. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARMONA:= 1857. 
+Imprenta de D. José M. Moreno, Calle Juan de la Cabra, núm.4. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

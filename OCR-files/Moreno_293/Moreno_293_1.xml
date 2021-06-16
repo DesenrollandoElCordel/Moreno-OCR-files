@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T14:17:44.823+01:00</Created>
+        <LastChange>2020-12-18T16:06:48.603+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525392" pageId="22319476" pageNr="135" tsid="50433693" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=GSRRFKZCFGUSBYLZPLLLBRVH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBQGERGCDZFCJOVXLXIVBUTQ" imageId="17388991"/>
+    </Metadata>
+    <Page imageFilename="Moreno_293_1.jpeg" imageWidth="1752" imageHeight="2480">
+        <PrintSpace>
+            <Coords points="0,0 1636,0 1636,2270 0,2270"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1608304709815" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="2" regionRef="r2"/>
+                <RegionRefIndexed index="3" regionRef="r3"/>
+                <RegionRefIndexed index="4" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1356,213 1588,213 1588,267 1356,267"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1363,302 1390,304 1418,306 1445,306 1473,307 1501,307 1528,306 1556,306 1584,305 1584,155 1556,156 1528,156 1501,157 1473,157 1445,156 1418,156 1390,154 1363,152"/>
+                <Baseline points="1363,252 1390,254 1418,256 1445,256 1473,257 1501,257 1528,256 1556,256 1584,255"/>
+                <TextEquiv>
+                    <Unicode>Núm. 307.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 307.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="488,331 912,331 907,1138 483,1138"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r2" custom="readingOrder {index:2;}">
+            <Coords points="201,1232 1636,1232 1636,1905 201,1905"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="266,1370 331,1372 396,1374 461,1375 526,1377 591,1378 656,1380 721,1381 786,1382 851,1383 916,1384 981,1385 1046,1385 1111,1386 1176,1386 1241,1386 1306,1387 1371,1387 1436,1386 1501,1386 1566,1386 1566,1313 1501,1313 1436,1313 1371,1314 1306,1314 1241,1313 1176,1313 1111,1313 1046,1312 981,1312 916,1311 851,1310 786,1309 721,1308 656,1307 591,1305 526,1304 461,1302 396,1301 331,1299 266,1297"/>
+                <Baseline points="266,1346 331,1348 396,1350 461,1351 526,1353 591,1354 656,1356 721,1357 786,1358 851,1359 916,1360 981,1361 1046,1361 1111,1362 1176,1362 1241,1362 1306,1363 1371,1363 1436,1362 1501,1362 1566,1362"/>
+                <TextEquiv>
+                    <Unicode>EL FRAILE FINGIDO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="205,1530 276,1530 347,1530 418,1530 489,1531 560,1532 631,1533 702,1535 773,1536 844,1538 916,1540 987,1541 1058,1543 1129,1544 1200,1546 1271,1547 1342,1547 1413,1547 1484,1547 1555,1546 1627,1545 1627,1494 1555,1495 1484,1496 1413,1496 1342,1496 1271,1496 1200,1495 1129,1493 1058,1492 987,1490 916,1489 844,1487 773,1485 702,1484 631,1482 560,1481 489,1480 418,1479 347,1479 276,1479 205,1479"/>
+                <Baseline points="205,1513 276,1513 347,1513 418,1513 489,1514 560,1515 631,1516 702,1518 773,1519 844,1521 916,1523 987,1524 1058,1526 1129,1527 1200,1529 1271,1530 1342,1530 1413,1530 1484,1530 1555,1529 1627,1528"/>
+                <TextEquiv>
+                    <Unicode>Nuevo y curioso romance, en que se manifies-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="213,1601 283,1600 354,1600 424,1601 495,1602 566,1603 636,1604 707,1605 777,1607 848,1609 919,1610 989,1612 1060,1613 1130,1615 1201,1617 1272,1618 1342,1619 1413,1619 1483,1619 1554,1619 1625,1619 1625,1568 1554,1568 1483,1568 1413,1568 1342,1568 1272,1567 1201,1566 1130,1564 1060,1562 989,1561 919,1559 848,1558 777,1556 707,1554 636,1553 566,1552 495,1551 424,1550 354,1549 283,1549 213,1550"/>
+                <Baseline points="213,1584 283,1583 354,1583 424,1584 495,1585 566,1586 636,1587 707,1588 777,1590 848,1592 919,1593 989,1595 1060,1596 1130,1598 1201,1600 1272,1601 1342,1602 1413,1602 1483,1602 1554,1602 1625,1602"/>
+                <TextEquiv>
+                    <Unicode>tan los exesos de un amor profano, y hasta don-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="277,1675 341,1675 405,1674 470,1674 534,1675 599,1675 663,1676 728,1677 792,1679 857,1680 921,1681 985,1683 1050,1684 1114,1686 1179,1687 1243,1688 1308,1689 1372,1690 1437,1691 1501,1691 1566,1691 1566,1640 1501,1640 1437,1640 1372,1639 1308,1638 1243,1637 1179,1636 1114,1635 1050,1633 985,1632 921,1630 857,1629 792,1628 728,1626 663,1625 599,1624 534,1624 470,1623 405,1623 341,1624 277,1624"/>
+                <Baseline points="277,1658 341,1658 405,1657 470,1657 534,1658 599,1658 663,1659 728,1660 792,1662 857,1663 921,1664 985,1666 1050,1667 1114,1669 1179,1670 1243,1671 1308,1672 1372,1673 1437,1674 1501,1674 1566,1674"/>
+                <TextEquiv>
+                    <Unicode>de llega el ardid, las astucias y cautelas de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="720,1746 746,1747 772,1748 798,1748 825,1749 851,1750 877,1751 903,1751 930,1752 956,1753 982,1754 1008,1754 1035,1755 1061,1755 1087,1756 1114,1756 1114,1705 1087,1705 1061,1704 1035,1704 1008,1703 982,1703 956,1702 930,1701 903,1700 877,1700 851,1699 825,1698 798,1697 772,1697 746,1696 720,1695"/>
+                <Baseline points="720,1729 746,1730 772,1731 798,1731 825,1732 851,1733 877,1734 903,1734 930,1735 956,1736 982,1737 1008,1737 1035,1738 1061,1738 1087,1739 1114,1739"/>
+                <TextEquiv>
+                    <Unicode>las mugeres.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="636,1905 664,1905 692,1905 721,1905 749,1905 778,1906 806,1906 834,1907 863,1907 891,1908 920,1909 948,1910 976,1911 1005,1911 1033,1912 1062,1913 1090,1914 1118,1914 1147,1915 1175,1915 1204,1916 1204,1843 1175,1842 1147,1842 1118,1841 1090,1841 1062,1840 1033,1839 1005,1838 976,1838 948,1837 920,1836 891,1835 863,1834 834,1834 806,1833 778,1833 749,1832 721,1832 692,1832 664,1832 636,1832"/>
+                <Baseline points="636,1881 664,1881 692,1881 721,1881 749,1881 778,1882 806,1882 834,1883 863,1883 891,1884 920,1885 948,1886 976,1887 1005,1887 1033,1888 1062,1889 1090,1890 1118,1890 1147,1891 1175,1891 1204,1892"/>
+                <TextEquiv>
+                    <Unicode>PRIMERA PARTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EL FRAILE FINGIDO.
+Nuevo y curioso romance, en que se manifies-
+tan los exesos de un amor profano, y hasta don-
+de llega el ardid, las astucias y cautelas de
+las mugeres.
+PRIMERA PARTE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r3" custom="readingOrder {index:3;}">
+            <Coords points="205,2029 902,2029 902,2270 205,2270"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="254,2086 287,2086 321,2086 354,2086 388,2086 422,2086 455,2086 489,2087 523,2087 556,2088 590,2088 623,2088 657,2089 691,2089 724,2090 758,2090 792,2090 825,2090 859,2091 893,2091 893,2052 859,2052 825,2051 792,2051 758,2051 724,2051 691,2050 657,2050 623,2049 590,2049 556,2049 523,2048 489,2048 455,2047 422,2047 388,2047 354,2047 321,2047 287,2047 254,2047"/>
+                <Baseline points="254,2073 287,2073 321,2073 354,2073 388,2073 422,2073 455,2073 489,2074 523,2074 556,2075 590,2075 623,2075 657,2076 691,2076 724,2077 758,2077 792,2077 825,2077 859,2078 893,2078"/>
+                <TextEquiv>
+                    <Unicode>Cuando el Sacro Autor Supremo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="212,2143 237,2143 262,2143 287,2143 312,2143 337,2142 362,2142 387,2142 412,2142 437,2142 462,2142 487,2142 512,2142 537,2143 562,2143 587,2143 612,2144 637,2145 662,2146 662,2107 637,2106 612,2105 587,2104 562,2104 537,2104 512,2103 487,2103 462,2103 437,2103 412,2103 387,2103 362,2103 337,2103 312,2104 287,2104 262,2104 237,2104 212,2104"/>
+                <Baseline points="212,2130 237,2130 262,2130 287,2130 312,2130 337,2129 362,2129 387,2129 412,2129 437,2129 462,2129 487,2129 512,2129 537,2130 562,2130 587,2130 612,2131 637,2132 662,2133"/>
+                <TextEquiv>
+                    <Unicode>crió los Cielos y tierra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="209,2196 235,2196 261,2196 287,2197 313,2197 340,2197 366,2197 392,2197 418,2198 444,2198 471,2198 497,2199 523,2199 549,2199 575,2200 602,2200 628,2201 654,2201 680,2202 707,2203 707,2164 680,2163 654,2162 628,2162 602,2161 575,2161 549,2160 523,2160 497,2160 471,2159 444,2159 418,2159 392,2158 366,2158 340,2158 313,2158 287,2158 261,2157 235,2157 209,2157"/>
+                <Baseline points="209,2183 235,2183 261,2183 287,2184 313,2184 340,2184 366,2184 392,2184 418,2185 444,2185 471,2185 497,2186 523,2186 549,2186 575,2187 602,2187 628,2188 654,2188 680,2189 707,2190"/>
+                <TextEquiv>
+                    <Unicode>las aves, brutos y peces,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="205,2252 231,2253 258,2253 285,2254 312,2254 339,2255 366,2255 392,2255 419,2255 446,2255 473,2255 500,2255 527,2255 554,2255 580,2256 607,2256 634,2256 661,2257 688,2258 715,2259 742,2260 742,2221 715,2220 688,2219 661,2218 634,2217 607,2217 580,2217 554,2216 527,2216 500,2216 473,2216 446,2216 419,2216 392,2216 366,2216 339,2216 312,2215 285,2215 258,2214 231,2214 205,2213"/>
+                <Baseline points="205,2239 231,2240 258,2240 285,2241 312,2241 339,2242 366,2242 392,2242 419,2242 446,2242 473,2242 500,2242 527,2242 554,2242 580,2243 607,2243 634,2243 661,2244 688,2245 715,2246 742,2247"/>
+                <TextEquiv>
+                    <Unicode>las plantas, flores y yervas;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cuando el Sacro Autor Supremo
+crió los Cielos y tierra
+las aves, brutos y peces,
+las plantas, flores y yervas;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r4" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="918,2026 1453,2026 1453,2263 918,2263"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="926,2090 952,2092 978,2093 1004,2093 1030,2094 1056,2094 1082,2095 1109,2095 1135,2095 1161,2095 1187,2095 1213,2095 1239,2096 1266,2096 1292,2096 1318,2097 1344,2098 1370,2099 1396,2100 1423,2102 1423,2065 1396,2063 1370,2062 1344,2061 1318,2060 1292,2059 1266,2059 1239,2059 1213,2058 1187,2058 1161,2058 1135,2058 1109,2058 1082,2058 1056,2057 1030,2057 1004,2056 978,2056 952,2055 926,2053"/>
+                <Baseline points="926,2078 952,2080 978,2081 1004,2081 1030,2082 1056,2082 1082,2083 1109,2083 1135,2083 1161,2083 1187,2083 1213,2083 1239,2084 1266,2084 1292,2084 1318,2085 1344,2086 1370,2087 1396,2088 1423,2090"/>
+                <TextEquiv>
+                    <Unicode>hizo superior al hombre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="943,2149 969,2148 995,2148 1021,2148 1047,2148 1073,2148 1099,2148 1125,2149 1151,2149 1178,2149 1204,2150 1230,2150 1256,2150 1282,2151 1308,2151 1334,2152 1360,2152 1387,2153 1387,2119 1360,2118 1334,2118 1308,2117 1282,2117 1256,2116 1230,2116 1204,2116 1178,2115 1151,2115 1125,2115 1099,2114 1073,2114 1047,2114 1021,2114 995,2114 969,2114 943,2115"/>
+                <Baseline points="943,2138 969,2137 995,2137 1021,2137 1047,2137 1073,2137 1099,2137 1125,2138 1151,2138 1178,2138 1204,2139 1230,2139 1256,2139 1282,2140 1308,2140 1334,2141 1360,2141 1387,2142"/>
+                <TextEquiv>
+                    <Unicode>para que domine y sea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="940,2196 966,2196 992,2197 1019,2197 1045,2197 1071,2197 1098,2197 1124,2197 1151,2197 1177,2197 1203,2197 1230,2198 1256,2198 1282,2199 1309,2200 1335,2202 1362,2203 1362,2169 1335,2168 1309,2166 1282,2165 1256,2164 1230,2164 1203,2163 1177,2163 1151,2163 1124,2163 1098,2163 1071,2163 1045,2163 1019,2163 992,2163 966,2162 940,2162"/>
+                <Baseline points="940,2185 966,2185 992,2186 1019,2186 1045,2186 1071,2186 1098,2186 1124,2186 1151,2186 1177,2186 1203,2186 1230,2187 1256,2187 1282,2188 1309,2189 1335,2191 1362,2192"/>
+                <TextEquiv>
+                    <Unicode>en superlativo grado,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="932,2251 957,2252 983,2252 1008,2253 1034,2253 1060,2253 1085,2254 1111,2254 1136,2254 1162,2254 1188,2254 1213,2255 1239,2255 1264,2255 1290,2255 1316,2256 1341,2256 1367,2257 1392,2257 1418,2258 1444,2259 1444,2222 1418,2221 1392,2220 1367,2220 1341,2219 1316,2219 1290,2218 1264,2218 1239,2218 1213,2218 1188,2217 1162,2217 1136,2217 1111,2217 1085,2217 1060,2216 1034,2216 1008,2216 983,2215 957,2215 932,2214"/>
+                <Baseline points="932,2239 957,2240 983,2240 1008,2241 1034,2241 1060,2241 1085,2242 1111,2242 1136,2242 1162,2242 1188,2242 1213,2243 1239,2243 1264,2243 1290,2243 1316,2244 1341,2244 1367,2245 1392,2245 1418,2246 1444,2247"/>
+                <TextEquiv>
+                    <Unicode>aun señor de las estrellas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hizo superior al hombre,
+para que domine y sea
+en superlativo grado,
+aun señor de las estrellas.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1607093090368_5555" custom="readingOrder {index:5;}">
+            <Coords points="963,1137 1380,1137 1380,329 963,329"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-27T11:55:20.957+01:00</Created>
+        <LastChange>2020-11-06T15:08:05.087+01:00</LastChange>
+        <TranskribusMetadata docId="525393" pageId="22319580" pageNr="16" tsid="47885456" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=LOGXNJMPMIFECXJBRLPODKPN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OAXZXMADKAKZXWECRSUNHXHW" imageId="17389095"/>
+    </Metadata>
+    <Page imageFilename="Moreno_300_4.jpg" imageWidth="1765" imageHeight="2512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607002545415" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604668922037_508"/>
+                <RegionRefIndexed index="1" regionRef="region_1604668925976_512"/>
+                <RegionRefIndexed index="2" regionRef="region_1604668929376_516"/>
+                <RegionRefIndexed index="3" regionRef="region_1604668934358_520"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1604668922037_508" custom="readingOrder {index:0;}">
+            <Coords points="133,271 652,271 652,671 133,671"/>
+            <TextLine id="region_1604668922037_508l1" custom="readingOrder {index:0;}">
+                <Coords points="156,339 181,338 207,337 233,336 259,335 285,334 311,333 336,331 362,330 388,330 414,328 440,327 466,327 491,326 517,326 543,325 569,324 595,324 621,324 647,324 647,291 621,291 595,291 569,291 543,292 517,293 491,293 466,294 440,294 414,295 388,297 362,297 336,298 311,300 285,301 259,302 233,303 207,304 181,305 156,306"/>
+                <Baseline points="156,328 181,327 207,326 233,325 259,324 285,323 311,322 336,320 362,319 388,319 414,317 440,316 466,316 491,315 517,315 543,314 569,313 595,313 621,313 647,313"/>
+                <TextEquiv>
+                    <Unicode>Tiene usted razon, señora, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668922037_508l2" custom="readingOrder {index:1;}">
+                <Coords points="149,391 174,388 199,386 224,384 249,382 274,380 299,379 324,378 349,377 374,377 399,376 424,376 449,375 474,374 499,374 524,373 549,372 575,371 575,340 549,341 524,342 499,343 474,343 449,344 424,345 399,345 374,346 349,346 324,347 299,348 274,349 249,351 224,353 199,355 174,357 149,360"/>
+                <Baseline points="149,381 174,378 199,376 224,374 249,372 274,370 299,369 324,368 349,367 374,367 399,366 424,366 449,365 474,364 499,364 524,363 549,362 575,361"/>
+                <TextEquiv>
+                    <Unicode>y yo viéndome afligido,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668922037_508l3" custom="readingOrder {index:2;}">
+                <Coords points="155,433 180,432 205,431 230,430 255,429 280,428 305,427 330,426 355,425 381,424 406,423 431,423 456,422 481,421 506,421 531,420 556,420 581,419 607,419 607,388 581,388 556,389 531,389 506,390 481,390 456,391 431,392 406,392 381,393 355,394 330,395 305,396 280,397 255,398 230,399 205,400 180,401 155,402"/>
+                <Baseline points="155,423 180,422 205,421 230,420 255,419 280,418 305,417 330,416 355,415 381,414 406,413 431,413 456,412 481,411 506,411 531,410 556,410 581,409 607,409"/>
+                <TextEquiv>
+                    <Unicode>que todos son contra mí,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668922037_508l4" custom="readingOrder {index:3;}">
+                <Coords points="151,479 176,479 202,479 227,478 253,477 278,477 304,476 330,475 355,474 381,473 406,472 432,471 457,471 483,469 509,469 534,468 560,467 585,467 611,466 637,466 637,433 611,433 585,434 560,434 534,435 509,436 483,436 457,438 432,438 406,439 381,440 355,441 330,442 304,443 278,444 253,444 227,445 202,446 176,446 151,446"/>
+                <Baseline points="151,468 176,468 202,468 227,467 253,466 278,466 304,465 330,464 355,463 381,462 406,461 432,460 457,460 483,458 509,458 534,457 560,456 585,456 611,455 637,455"/>
+                <TextEquiv>
+                    <Unicode>me salí, y tomé el camino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668922037_508l5" custom="readingOrder {index:4;}">
+                <Coords points="161,526 187,526 213,525 240,525 266,524 292,523 319,522 345,521 371,520 398,520 424,519 450,518 477,517 503,517 529,517 556,517 582,517 608,517 635,518 635,485 608,484 582,484 556,484 529,484 503,484 477,484 450,485 424,486 398,487 371,487 345,488 319,489 292,490 266,491 240,492 213,492 187,493 161,493"/>
+                <Baseline points="161,515 187,515 213,514 240,514 266,513 292,512 319,511 345,510 371,509 398,509 424,508 450,507 477,506 503,506 529,506 556,506 582,506 608,506 635,507"/>
+                <TextEquiv>
+                    <Unicode>de Antequera, donde estoy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668922037_508l6" custom="readingOrder {index:5;}">
+                <Coords points="156,574 182,573 209,572 235,572 262,571 289,570 315,569 342,568 368,568 395,567 422,566 448,565 475,565 501,564 528,564 555,563 555,530 528,531 501,531 475,532 448,532 422,533 395,534 368,535 342,535 315,536 289,537 262,538 235,539 209,539 182,540 156,541"/>
+                <Baseline points="156,563 182,562 209,561 235,561 262,560 289,559 315,558 342,557 368,557 395,556 422,555 448,554 475,554 501,553 528,553 555,552"/>
+                <TextEquiv>
+                    <Unicode>bien curado y asistido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668922037_508l7" custom="readingOrder {index:6;}">
+                <Coords points="160,621 185,620 210,620 236,620 261,619 287,618 312,617 338,616 363,616 388,615 414,614 439,614 465,613 490,613 516,613 541,613 567,614 567,581 541,580 516,580 490,580 465,580 439,581 414,581 388,582 363,583 338,583 312,584 287,585 261,586 236,587 210,587 185,587 160,588"/>
+                <Baseline points="160,610 185,609 210,609 236,609 261,608 287,607 312,606 338,605 363,605 388,604 414,603 439,603 465,602 490,602 516,602 541,602 567,603"/>
+                <TextEquiv>
+                    <Unicode>en este santo Hospital,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668922037_508l8" custom="readingOrder {index:7;}">
+                <Coords points="167,668 192,668 217,669 242,668 267,668 293,668 318,668 343,667 368,666 394,666 419,665 444,665 469,664 494,663 520,663 545,662 570,661 595,661 621,660 621,627 595,628 570,628 545,629 520,630 494,630 469,631 444,632 419,632 394,633 368,633 343,634 318,635 293,635 267,635 242,635 217,636 192,635 167,635"/>
+                <Baseline points="167,657 192,657 217,658 242,657 267,657 293,657 318,657 343,656 368,655 394,655 419,654 444,654 469,653 494,652 520,652 545,651 570,650 595,650 621,649"/>
+                <TextEquiv>
+                    <Unicode>de mi esposa aborrecido.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tiene usted razon, señora, 
+y yo viéndome afligido,
+que todos son contra mí,
+me salí, y tomé el camino
+de Antequera, donde estoy
+bien curado y asistido
+en este santo Hospital,
+de mi esposa aborrecido.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604668925976_512" custom="readingOrder {index:1;}">
+            <Coords points="862,235 1350,235 1350,661 862,661"/>
+            <TextLine id="region_1604668925976_512l1" custom="readingOrder {index:0;}">
+                <Coords points="884,315 909,313 934,312 959,312 985,311 1010,310 1035,309 1061,309 1086,309 1111,308 1137,308 1162,307 1187,307 1213,306 1238,306 1263,305 1289,304 1289,271 1263,272 1238,273 1213,273 1187,274 1162,274 1137,275 1111,275 1086,276 1061,276 1035,276 1010,277 985,278 959,279 934,279 909,280 884,282"/>
+                <Baseline points="884,304 909,302 934,301 959,301 985,300 1010,299 1035,298 1061,298 1086,298 1111,297 1137,297 1162,296 1187,296 1213,295 1238,295 1263,294 1289,293"/>
+                <TextEquiv>
+                    <Unicode>A Córdoba las noticias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668925976_512l2" custom="readingOrder {index:1;}">
+                <Coords points="891,362 917,361 943,360 969,360 995,359 1021,359 1047,358 1073,358 1099,358 1125,357 1151,357 1177,357 1203,356 1229,355 1255,354 1281,354 1307,352 1333,351 1333,318 1307,319 1281,321 1255,321 1229,322 1203,323 1177,324 1151,324 1125,324 1099,325 1073,325 1047,325 1021,326 995,326 969,327 943,327 917,328 891,329"/>
+                <Baseline points="891,351 917,350 943,349 969,349 995,348 1021,348 1047,347 1073,347 1099,347 1125,346 1151,346 1177,346 1203,345 1229,344 1255,343 1281,343 1307,341 1333,340"/>
+                <TextEquiv>
+                    <Unicode>por estenso y por escrito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668925976_512l3" custom="readingOrder {index:2;}">
+                <Coords points="896,409 921,408 946,407 971,407 996,406 1021,405 1046,405 1071,405 1096,405 1121,404 1146,404 1171,403 1196,403 1221,402 1246,402 1271,400 1297,399 1297,366 1271,367 1246,369 1221,369 1196,370 1171,370 1146,371 1121,371 1096,372 1071,372 1046,372 1021,372 996,373 971,374 946,374 921,375 896,376"/>
+                <Baseline points="896,398 921,397 946,396 971,396 996,395 1021,394 1046,394 1071,394 1096,394 1121,393 1146,393 1171,392 1196,392 1221,391 1246,391 1271,389 1297,388"/>
+                <TextEquiv>
+                    <Unicode>las envié por un propio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668925976_512l4" custom="readingOrder {index:3;}">
+                <Coords points="894,454 920,454 946,455 972,454 999,454 1025,454 1051,453 1077,452 1104,451 1130,451 1156,450 1182,449 1209,449 1235,449 1261,450 1287,450 1314,452 1314,419 1287,417 1261,417 1235,416 1209,416 1182,416 1156,417 1130,418 1104,418 1077,419 1051,420 1025,421 999,421 972,421 946,422 920,421 894,421"/>
+                <Baseline points="894,443 920,443 946,444 972,443 999,443 1025,443 1051,442 1077,441 1104,440 1130,440 1156,439 1182,438 1209,438 1235,438 1261,439 1287,439 1314,441"/>
+                <TextEquiv>
+                    <Unicode>al autor José Francisco,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668925976_512l5" custom="readingOrder {index:4;}">
+                <Coords points="892,502 917,502 943,502 968,502 994,501 1019,501 1045,500 1070,500 1096,499 1121,499 1147,498 1172,498 1198,498 1223,498 1249,498 1274,499 1300,499 1300,466 1274,466 1249,465 1223,465 1198,465 1172,465 1147,465 1121,466 1096,466 1070,467 1045,467 1019,468 994,468 968,469 943,469 917,469 892,469"/>
+                <Baseline points="892,491 917,491 943,491 968,491 994,490 1019,490 1045,489 1070,489 1096,488 1121,488 1147,487 1172,487 1198,487 1223,487 1249,487 1274,488 1300,488"/>
+                <TextEquiv>
+                    <Unicode>el cual á todos suplica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668925976_512l6" custom="readingOrder {index:5;}">
+                <Coords points="898,551 923,551 948,551 973,550 999,549 1024,549 1049,548 1074,547 1100,546 1125,545 1150,545 1175,544 1201,545 1226,545 1251,546 1277,548 1277,515 1251,513 1226,512 1201,512 1175,511 1150,512 1125,512 1100,513 1074,514 1049,515 1024,516 999,516 973,517 948,518 923,518 898,518"/>
+                <Baseline points="898,540 923,540 948,540 973,539 999,538 1024,538 1049,537 1074,536 1100,535 1125,534 1150,534 1175,533 1201,534 1226,534 1251,535 1277,537"/>
+                <TextEquiv>
+                    <Unicode>con amor encarecido,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668925976_512l7" custom="readingOrder {index:6;}">
+                <Coords points="893,599 918,599 943,598 968,597 993,597 1018,596 1043,596 1068,595 1093,595 1118,594 1143,594 1168,594 1193,593 1218,593 1243,593 1268,594 1293,594 1293,561 1268,561 1243,560 1218,560 1193,560 1168,561 1143,561 1118,561 1093,562 1068,562 1043,563 1018,563 993,564 968,564 943,565 918,566 893,566"/>
+                <Baseline points="893,588 918,588 943,587 968,586 993,586 1018,585 1043,585 1068,584 1093,584 1118,583 1143,583 1168,583 1193,582 1218,582 1243,582 1268,583 1293,583"/>
+                <TextEquiv>
+                    <Unicode>no se fien de mujeres,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668925976_512l8" custom="readingOrder {index:7;}">
+                <Coords points="895,651 920,651 945,649 970,649 996,648 1021,647 1046,646 1071,645 1097,645 1122,644 1147,643 1172,642 1198,642 1223,641 1248,641 1273,640 1299,640 1299,607 1273,607 1248,608 1223,608 1198,609 1172,609 1147,610 1122,611 1097,612 1071,612 1046,613 1021,614 996,615 970,616 945,616 920,618 895,618"/>
+                <Baseline points="895,640 920,640 945,638 970,638 996,637 1021,636 1046,635 1071,634 1097,634 1122,633 1147,632 1172,631 1198,631 1223,630 1248,630 1273,629 1299,629"/>
+                <TextEquiv>
+                    <Unicode>que yo de ninguna fio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Córdoba las noticias
+por estenso y por escrito
+las envié por un propio
+al autor José Francisco,
+el cual á todos suplica,
+con amor encarecido,
+no se fien de mujeres,
+que yo de ninguna fio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1604668929376_516" custom="readingOrder {index:2;}">
+            <Coords points="811,1498 934,1498 934,1596 811,1596"/>
+            <TextLine id="line_1604671670893_1279" custom="readingOrder {index:0;}">
+                <Coords points="821,1582 924,1582 924,1546 821,1546"/>
+                <TextEquiv>
+                    <Unicode>FIN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>FIN.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604668934358_520" custom="readingOrder {index:3;}">
+            <Coords points="287,2449 1463,2449 1463,2325 287,2325"/>
+            <TextLine id="region_1604668934358_520l1" custom="readingOrder {index:0;}">
+                <Coords points="689,2391 715,2391 741,2391 767,2391 793,2390 819,2389 845,2388 872,2387 898,2387 924,2386 950,2385 976,2385 1002,2384 1028,2384 1055,2385 1055,2351 1028,2350 1002,2350 976,2351 950,2351 924,2352 898,2353 872,2353 845,2354 819,2355 793,2356 767,2357 741,2357 715,2357 689,2357"/>
+                <Baseline points="689,2380 715,2380 741,2380 767,2380 793,2379 819,2378 845,2377 872,2376 898,2376 924,2375 950,2374 976,2374 1002,2373 1028,2373 1055,2374"/>
+                <TextEquiv>
+                    <Unicode>CARMONA:—1858.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1604668934358_520l2" custom="readingOrder {index:1;}">
+                <Coords points="290,2444 348,2444 407,2444 465,2443 524,2442 582,2442 641,2441 699,2440 758,2439 816,2437 875,2436 934,2435 992,2434 1051,2432 1109,2431 1168,2430 1226,2428 1285,2427 1343,2426 1402,2424 1461,2423 1461,2389 1402,2390 1343,2392 1285,2393 1226,2394 1168,2396 1109,2397 1051,2398 992,2400 934,2401 875,2402 816,2403 758,2405 699,2406 641,2407 582,2408 524,2408 465,2409 407,2410 348,2410 290,2410"/>
+                <Baseline points="290,2433 348,2433 407,2433 465,2432 524,2431 582,2431 641,2430 699,2429 758,2428 816,2426 875,2425 934,2424 992,2423 1051,2421 1109,2420 1168,2419 1226,2417 1285,2416 1343,2415 1402,2413 1461,2412"/>
+                <TextEquiv>
+                    <Unicode>Imp. de D. José M, Moreno, calle Juan de la Cabra núm. 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARMONA:—1858.
+Imp. de D. José M, Moreno, calle Juan de la Cabra núm. 4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
