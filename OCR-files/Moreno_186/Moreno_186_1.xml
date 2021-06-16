@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-01T16:27:31.4+01:00</Created>
+        <LastChange>2020-12-14T15:44:54.512+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525386" pageId="22318503" pageNr="33" tsid="50306041" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=XKXMGJEXVUHVZQBDTNPTKZBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNUABJOLCEUZHHHXXYOGTOQK" imageId="17388018"/>
+    </Metadata>
+    <Page imageFilename="Moreno_186_1.jpg" imageWidth="1652" imageHeight="2500">
+        <PrintSpace>
+            <Coords points="44,152 1644,152 1644,2500 44,2500"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607963858319" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1157,191 1381,191 1381,154 1157,154"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1160,235 1187,237 1214,238 1241,238 1268,238 1295,237 1322,237 1349,236 1376,237 1376,87 1349,86 1322,87 1295,87 1268,88 1241,88 1214,88 1187,87 1160,85"/>
+                <Baseline points="1160,185 1187,187 1214,188 1241,188 1268,188 1295,187 1322,187 1349,186 1376,187"/>
+                <TextEquiv>
+                    <Unicode>Núm. 196.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 196.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="276,1703 1314,1703 1314,2120 276,2120"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="399,1813 437,1813 476,1813 515,1812 553,1812 592,1812 631,1812 669,1813 708,1813 747,1813 786,1813 824,1813 863,1813 902,1814 940,1814 979,1814 1018,1814 1056,1814 1095,1813 1134,1813 1173,1812 1173,1746 1134,1747 1095,1747 1056,1748 1018,1748 979,1748 940,1748 902,1748 863,1747 824,1747 786,1747 747,1747 708,1747 669,1747 631,1746 592,1746 553,1746 515,1746 476,1747 437,1747 399,1747"/>
+                <Baseline points="399,1791 437,1791 476,1791 515,1790 553,1790 592,1790 631,1790 669,1791 708,1791 747,1791 786,1791 824,1791 863,1791 902,1792 940,1792 979,1792 1018,1792 1056,1792 1095,1791 1134,1791 1173,1790"/>
+                <TextEquiv>
+                    <Unicode>LAS SIETE PALABRAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="683,1906 710,1905 738,1905 765,1905 793,1906 820,1906 848,1906 875,1906 903,1906 903,1840 875,1840 848,1840 820,1840 793,1840 765,1839 738,1839 710,1839 683,1840"/>
+                <Baseline points="683,1884 710,1883 738,1883 765,1883 793,1884 820,1884 848,1884 875,1884 903,1884"/>
+                <TextEquiv>
+                    <Unicode>QUE HABLÓ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="297,2028 345,2028 394,2028 442,2028 491,2028 540,2028 588,2028 637,2028 685,2028 734,2028 783,2028 831,2028 880,2029 928,2029 977,2029 1026,2030 1074,2030 1123,2031 1171,2032 1220,2033 1269,2035 1269,1971 1220,1969 1171,1968 1123,1967 1074,1966 1026,1966 977,1965 928,1965 880,1965 831,1964 783,1964 734,1964 685,1964 637,1964 588,1964 540,1964 491,1964 442,1964 394,1964 345,1964 297,1964"/>
+                <Baseline points="297,2007 345,2007 394,2007 442,2007 491,2007 540,2007 588,2007 637,2007 685,2007 734,2007 783,2007 831,2007 880,2008 928,2008 977,2008 1026,2009 1074,2009 1123,2010 1171,2011 1220,2012 1269,2014"/>
+                <TextEquiv>
+                    <Unicode>NUESTRO SEÑOR JESUCRISTO,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="431,2117 466,2117 501,2117 536,2117 571,2117 606,2117 641,2117 676,2117 711,2117 746,2117 781,2117 816,2118 851,2118 886,2118 921,2118 956,2118 991,2119 1026,2119 1061,2119 1096,2119 1132,2119 1132,2055 1096,2055 1061,2055 1026,2055 991,2055 956,2054 921,2054 886,2054 851,2054 816,2054 781,2053 746,2053 711,2053 676,2053 641,2053 606,2053 571,2053 536,2053 501,2053 466,2053 431,2053"/>
+                <Baseline points="431,2096 466,2096 501,2096 536,2096 571,2096 606,2096 641,2096 676,2096 711,2096 746,2096 781,2096 816,2097 851,2097 886,2097 921,2097 956,2097 991,2098 1026,2098 1061,2098 1096,2098 1132,2098"/>
+                <TextEquiv>
+                    <Unicode>Y EL DESCENDIMIENTO DE LA CRUZ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LAS SIETE PALABRAS
+QUE HABLÓ
+NUESTRO SEÑOR JESUCRISTO,
+Y EL DESCENDIMIENTO DE LA CRUZ.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1606839334755_4890" custom="readingOrder {index:2;}">
+            <Coords points="297,342 1303,342 1303,1693 297,1693"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
