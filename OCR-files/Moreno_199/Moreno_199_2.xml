@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-01T16:28:02.972+01:00</Created>
+        <LastChange>2020-12-14T17:17:47.822+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525386" pageId="22318588" pageNr="118" tsid="50308455" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=DDIPQNLUOMQTKFISKYFGZPSU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RKARJSUPDVSPUGVPBBOIGEKP" imageId="17388103"/>
+    </Metadata>
+    <Page imageFilename="Moreno_199_2.jpg" imageWidth="1765" imageHeight="2512">
+        <PrintSpace>
+            <Coords points="0,288 1764,288 1764,2512 0,2512"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607963864372" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="724,735 1090,735 1090,799 724,799"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="726,837 751,836 777,836 802,835 828,834 854,833 879,833 905,832 931,832 956,831 982,831 1008,831 1033,831 1059,832 1085,833 1085,683 1059,682 1033,681 1008,681 982,681 956,681 931,682 905,682 879,683 854,683 828,684 802,685 777,686 751,686 726,687"/>
+                <Baseline points="726,787 751,786 777,786 802,785 828,784 854,783 879,783 905,782 931,782 956,781 982,781 1008,781 1033,781 1059,782 1085,783"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PERSONAS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="520,869 1199,869 1199,1241 520,1241"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="528,937 553,935 578,934 604,933 629,933 655,933 680,933 705,933 731,933 756,934 782,934 807,934 832,934 858,934 883,934 909,933 909,899 883,900 858,900 832,900 807,900 782,900 756,900 731,899 705,899 680,899 655,899 629,899 604,899 578,900 553,901 528,903"/>
+                <Baseline points="528,926 553,924 578,923 604,922 629,922 655,922 680,922 705,922 731,922 756,923 782,923 807,923 832,923 858,923 883,923 909,922"/>
+                <TextEquiv>
+                    <Unicode>Alifonso, paje.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="528,986 562,984 597,983 632,982 666,981 701,981 736,981 770,981 805,981 840,981 874,981 909,982 944,982 978,982 1013,981 1048,981 1082,980 1117,979 1152,978 1187,976 1187,942 1152,944 1117,945 1082,946 1048,947 1013,947 978,948 944,948 909,948 874,947 840,947 805,947 770,947 736,947 701,947 666,947 632,948 597,949 562,950 528,952"/>
+                <Baseline points="528,975 562,973 597,972 632,971 666,970 701,970 736,970 770,970 805,970 840,970 874,970 909,971 944,971 978,971 1013,970 1048,970 1082,969 1117,968 1152,967 1187,965"/>
+                <TextEquiv>
+                    <Unicode>Doña Sinforosa, hija de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="525,1035 551,1035 577,1034 603,1033 630,1033 656,1032 682,1031 708,1031 735,1030 761,1030 787,1030 813,1029 840,1029 866,1030 892,1030 919,1031 919,997 892,996 866,996 840,995 813,995 787,996 761,996 735,996 708,997 682,997 656,998 630,999 603,999 577,1000 551,1001 525,1001"/>
+                <Baseline points="525,1024 551,1024 577,1023 603,1022 630,1022 656,1021 682,1020 708,1020 735,1019 761,1019 787,1019 813,1018 840,1018 866,1019 892,1019 919,1020"/>
+                <TextEquiv>
+                    <Unicode>Don Anaeleto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="523,1083 549,1083 575,1082 601,1081 627,1080 653,1080 679,1079 705,1079 731,1079 757,1078 783,1078 809,1078 809,1044 783,1044 757,1044 731,1045 705,1045 679,1045 653,1046 627,1046 601,1047 575,1048 549,1049 523,1049"/>
+                <Baseline points="523,1072 549,1072 575,1071 601,1070 627,1069 653,1069 679,1068 705,1068 731,1068 757,1067 783,1067 809,1067"/>
+                <TextEquiv>
+                    <Unicode>El Baron.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="523,1131 549,1131 576,1131 602,1131 629,1130 655,1130 682,1129 708,1128 735,1127 761,1127 788,1126 814,1126 841,1126 867,1126 894,1127 921,1128 921,1094 894,1093 867,1092 841,1092 814,1092 788,1092 761,1093 735,1093 708,1094 682,1095 655,1096 629,1096 602,1097 576,1097 549,1097 523,1097"/>
+                <Baseline points="523,1120 549,1120 576,1120 602,1120 629,1119 655,1119 682,1118 708,1117 735,1116 761,1116 788,1115 814,1115 841,1115 867,1115 894,1116 921,1117"/>
+                <TextEquiv>
+                    <Unicode>Benita, criada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="522,1178 548,1179 574,1179 600,1179 626,1178 652,1178 678,1177 704,1176 730,1175 756,1174 782,1174 808,1174 834,1174 860,1175 886,1176 912,1178 912,1144 886,1142 860,1141 834,1140 808,1140 782,1140 756,1140 730,1141 704,1142 678,1143 652,1144 626,1144 600,1145 574,1145 548,1145 522,1144"/>
+                <Baseline points="522,1167 548,1168 574,1168 600,1168 626,1167 652,1167 678,1166 704,1165 730,1164 756,1163 782,1163 808,1163 834,1163 860,1164 886,1165 912,1167"/>
+                <TextEquiv>
+                    <Unicode>Um Escribano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="526,1231 552,1231 578,1230 605,1230 631,1230 657,1229 684,1229 710,1228 737,1228 763,1227 789,1226 816,1226 842,1225 869,1224 869,1190 842,1191 816,1192 789,1192 763,1193 737,1194 710,1194 684,1195 657,1195 631,1196 605,1196 578,1196 552,1197 526,1197"/>
+                <Baseline points="526,1220 552,1220 578,1219 605,1219 631,1219 657,1218 684,1218 710,1217 737,1217 763,1216 789,1215 816,1215 842,1214 869,1213"/>
+                <TextEquiv>
+                    <Unicode>Dos testigos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Alifonso, paje.
+Doña Sinforosa, hija de
+Don Anaeleto.
+El Baron.
+Benita, criada.
+Um Escribano,
+Dos testigos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
