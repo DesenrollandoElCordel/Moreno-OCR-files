@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-09T10:43:13.18+01:00</Created>
+        <LastChange>2020-11-09T17:55:42.899+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525371" pageId="22317916" pageNr="46" tsid="48451297" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=SISLJFFZGEWXKGVQUHJXDQGQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DJDEYMNBDZRIKQMTZTYMPVKU" imageId="17387439"/>
+    </Metadata>
+    <Page imageFilename="Moreno_098_2.jpg" imageWidth="1660" imageHeight="2412">
+        <PrintSpace>
+            <Coords points="544,675 1211,675 1191,1567 524,1567"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606755294595" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="574,687 1191,687 1191,1567 574,1567"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="580,786 610,788 640,790 670,791 701,792 731,792 761,792 791,792 822,792 852,791 882,790 912,790 943,789 973,789 1003,788 1033,788 1064,789 1094,789 1124,790 1154,792 1185,794 1185,736 1154,734 1124,732 1094,731 1064,731 1033,730 1003,730 973,731 943,731 912,732 882,732 852,733 822,734 791,734 761,734 731,734 701,734 670,733 640,732 610,730 580,728"/>
+                <Baseline points="580,767 610,769 640,771 670,772 701,773 731,773 761,773 791,773 822,773 852,772 882,771 912,771 943,770 973,770 1003,769 1033,769 1064,770 1094,770 1124,771 1154,773 1185,775"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="592,994 618,995 644,996 670,997 696,998 722,998 748,998 774,998 800,998 826,998 852,998 878,998 904,998 930,998 957,997 957,939 930,940 904,940 878,940 852,940 826,940 800,940 774,940 748,940 722,940 696,940 670,939 644,938 618,937 592,936"/>
+                <Baseline points="592,975 618,976 644,977 670,978 696,979 722,979 748,979 774,979 800,979 826,979 852,979 878,979 904,979 930,979 957,978"/>
+                <TextEquiv>
+                    <Unicode>Un Poeta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;}">
+                <Coords points="588,1076 613,1077 639,1078 665,1079 691,1080 717,1080 743,1080 768,1080 794,1080 820,1080 846,1080 872,1079 898,1079 923,1079 949,1079 975,1078 1001,1078 1027,1078 1053,1078 1053,1020 1027,1020 1001,1020 975,1020 949,1021 923,1021 898,1021 872,1021 846,1022 820,1022 794,1022 768,1022 743,1022 717,1022 691,1022 665,1021 639,1020 613,1019 588,1018"/>
+                <Baseline points="588,1057 613,1058 639,1059 665,1060 691,1061 717,1061 743,1061 768,1061 794,1061 820,1061 846,1061 872,1060 898,1060 923,1060 949,1060 975,1059 1001,1059 1027,1059 1053,1059"/>
+                <TextEquiv>
+                    <Unicode>Un Abogado.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l4" custom="readingOrder {index:3;}">
+                <Coords points="584,1158 610,1158 636,1158 663,1159 689,1159 715,1159 742,1159 768,1159 794,1160 821,1160 847,1160 873,1161 900,1161 926,1161 952,1161 979,1161 1005,1161 1031,1160 1058,1160 1084,1160 1111,1159 1111,1102 1084,1103 1058,1103 1031,1103 1005,1104 979,1104 952,1104 926,1104 900,1104 873,1104 847,1103 821,1103 794,1103 768,1102 742,1102 715,1102 689,1102 663,1102 636,1101 610,1101 584,1101"/>
+                <Baseline points="584,1139 610,1139 636,1139 663,1140 689,1140 715,1140 742,1140 768,1140 794,1141 821,1141 847,1141 873,1142 900,1142 926,1142 952,1142 979,1142 1005,1142 1031,1141 1058,1141 1084,1141 1111,1140"/>
+                <TextEquiv>
+                    <Unicode>Doña Ruperta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l5" custom="readingOrder {index:4;}">
+                <Coords points="589,1239 615,1239 641,1238 667,1238 693,1238 719,1238 745,1238 772,1238 798,1238 824,1238 850,1238 876,1238 902,1239 928,1239 955,1240 955,1185 928,1184 902,1184 876,1183 850,1183 824,1183 798,1183 772,1183 745,1183 719,1183 693,1183 667,1183 641,1183 615,1184 589,1184"/>
+                <Baseline points="589,1221 615,1221 641,1220 667,1220 693,1220 719,1220 745,1220 772,1220 798,1220 824,1220 850,1220 876,1220 902,1221 928,1221 955,1222"/>
+                <TextEquiv>
+                    <Unicode>La Viuda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l6" custom="readingOrder {index:5;}">
+                <Coords points="589,1315 614,1316 639,1317 665,1318 690,1319 715,1319 741,1319 766,1319 791,1319 817,1319 842,1319 867,1319 893,1319 918,1319 943,1319 969,1319 994,1320 1020,1321 1020,1266 994,1265 969,1264 943,1264 918,1264 893,1264 867,1264 842,1264 817,1264 791,1264 766,1264 741,1264 715,1264 690,1264 665,1263 639,1262 614,1261 589,1260"/>
+                <Baseline points="589,1297 614,1298 639,1299 665,1300 690,1301 715,1301 741,1301 766,1301 791,1301 817,1301 842,1301 867,1301 893,1301 918,1301 943,1301 969,1301 994,1302 1020,1303"/>
+                <TextEquiv>
+                    <Unicode>Un Soldado.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l7" custom="readingOrder {index:6;}">
+                <Coords points="590,1397 616,1398 642,1399 668,1400 694,1400 720,1400 746,1400 772,1400 798,1400 824,1400 850,1399 876,1399 902,1399 929,1399 929,1341 902,1341 876,1341 850,1341 824,1342 798,1342 772,1342 746,1342 720,1342 694,1342 668,1342 642,1341 616,1340 590,1339"/>
+                <Baseline points="590,1378 616,1379 642,1380 668,1381 694,1381 720,1381 746,1381 772,1381 798,1381 824,1381 850,1380 876,1380 902,1380 929,1380"/>
+                <TextEquiv>
+                    <Unicode>Un Payo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l8" custom="readingOrder {index:7;}">
+                <Coords points="587,1481 616,1481 646,1481 676,1481 706,1481 735,1481 765,1481 795,1481 825,1481 854,1481 884,1482 914,1482 944,1482 973,1482 1003,1482 1033,1482 1063,1482 1092,1483 1122,1483 1152,1482 1182,1482 1182,1424 1152,1424 1122,1425 1092,1425 1063,1424 1033,1424 1003,1424 973,1424 944,1424 914,1424 884,1424 854,1423 825,1423 795,1423 765,1423 735,1423 706,1423 676,1423 646,1423 616,1423 587,1423"/>
+                <Baseline points="587,1462 616,1462 646,1462 676,1462 706,1462 735,1462 765,1462 795,1462 825,1462 854,1462 884,1463 914,1463 944,1463 973,1463 1003,1463 1033,1463 1063,1463 1092,1464 1122,1464 1152,1463 1182,1463"/>
+                <TextEquiv>
+                    <Unicode>Doña Magdalena.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l9" custom="readingOrder {index:8;}">
+                <Coords points="573,1561 599,1562 625,1563 651,1564 677,1564 704,1565 730,1565 756,1565 782,1565 808,1565 835,1565 861,1565 887,1565 913,1564 939,1564 966,1564 992,1564 1018,1564 1044,1563 1071,1563 1071,1505 1044,1505 1018,1506 992,1506 966,1506 939,1506 913,1506 887,1507 861,1507 835,1507 808,1507 782,1507 756,1507 730,1507 704,1507 677,1506 651,1506 625,1505 599,1504 573,1503"/>
+                <Baseline points="573,1542 599,1543 625,1544 651,1545 677,1545 704,1546 730,1546 756,1546 782,1546 808,1546 835,1546 861,1546 887,1546 913,1545 939,1545 966,1545 992,1545 1018,1545 1044,1544 1071,1544"/>
+                <TextEquiv>
+                    <Unicode>Un Hijo suyo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PERSONAS.
+Un Poeta.
+Un Abogado.
+Doña Ruperta.
+La Viuda.
+Un Soldado.
+Un Payo.
+Doña Magdalena.
+Un Hijo suyo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
