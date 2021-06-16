@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T09:32:03.931+01:00</Created>
+        <LastChange>2020-12-16T10:00:51.300+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525391" pageId="22319059" pageNr="9" tsid="50350136" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=XVYGKQQDEXXJEEUEDBDALVLZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVFSKBVUWGSOWCPJZZZMCYBG" imageId="17388574"/>
+    </Metadata>
+    <Page imageFilename="Moreno_240_1.jpeg" imageWidth="1597" imageHeight="2285">
+        <PrintSpace>
+            <Coords points="0,0 1597,0 1597,2285 0,2285"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1608295538250" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="1050,133 1263,133 1263,180 1050,180"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="305,197 1217,196 1217,1433 305,1434"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="112,1457 1401,1457 1401,1719 112,1719"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="870,1493 880,1493 880,1463 870,1463"/>
+                <Baseline points="870,1483 880,1483"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="497,1509 523,1509 550,1509 576,1509 603,1509 630,1510 656,1510 683,1510 710,1510 736,1510 763,1510 790,1511 816,1511 843,1511 870,1511 896,1511 923,1510 950,1510 976,1510 1003,1509 1030,1509 1030,1479 1003,1479 976,1480 950,1480 923,1480 896,1481 870,1481 843,1481 816,1481 790,1481 763,1480 736,1480 710,1480 683,1480 656,1480 630,1480 603,1479 576,1479 550,1479 523,1479 497,1479"/>
+                <Baseline points="497,1499 523,1499 550,1499 576,1499 603,1499 630,1500 656,1500 683,1500 710,1500 736,1500 763,1500 790,1501 816,1501 843,1501 870,1501 896,1501 923,1500 950,1500 976,1500 1003,1499 1030,1499"/>
+                <TextEquiv>
+                    <Unicode>COPLAS NUEVAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="645,1565 671,1566 697,1566 723,1566 749,1565 775,1565 801,1565 827,1565 853,1565 880,1566 880,1530 853,1529 827,1529 801,1529 775,1529 749,1529 723,1530 697,1530 671,1530 645,1529"/>
+                <Baseline points="645,1553 671,1554 697,1554 723,1554 749,1553 775,1553 801,1553 827,1553 853,1553 880,1554"/>
+                <TextEquiv>
+                    <Unicode>EN ALABANZA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="114,1651 149,1651 184,1651 219,1651 254,1652 289,1652 324,1652 359,1652 394,1652 429,1652 464,1653 499,1653 534,1653 569,1653 604,1653 639,1653 674,1653 709,1653 744,1654 779,1654 1395,1654 1395,1618 779,1618 744,1618 709,1617 674,1617 639,1617 604,1617 569,1617 534,1617 499,1617 464,1617 429,1616 394,1616 359,1616 324,1616 289,1616 254,1616 219,1615 184,1615 149,1615 114,1615"/>
+                <Baseline points="114,1639 149,1639 184,1639 219,1639 254,1640 289,1640 324,1640 359,1640 394,1640 429,1640 464,1641 499,1641 534,1641 569,1641 604,1641 639,1641 674,1641 709,1641 744,1642 779,1642 815,1642"/>
+                <TextEquiv>
+                    <Unicode>DE MARIA SANTISIMA DE LA AURORA,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:4;}">
+                <Coords points="286,1722 332,1721 379,1721 426,1721 473,1721 520,1721 567,1721 613,1721 660,1721 707,1721 754,1721 801,1721 848,1721 895,1722 941,1722 988,1722 1035,1722 1082,1722 1129,1723 1176,1723 1223,1723 1223,1687 1176,1687 1129,1687 1082,1686 1035,1686 988,1686 941,1686 895,1686 848,1685 801,1685 754,1685 707,1685 660,1685 613,1685 567,1685 520,1685 473,1685 426,1685 379,1685 332,1685 286,1686"/>
+                <Baseline points="286,1710 332,1709 379,1709 426,1709 473,1709 520,1709 567,1709 613,1709 660,1709 707,1709 754,1709 801,1709 848,1709 895,1710 941,1710 988,1710 1035,1710 1082,1710 1129,1711 1176,1711 1223,1711"/>
+                <TextEquiv>
+                    <Unicode>PARA CANTAR LOS DESPERTADORES DEL SANTO ROSARIO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3
+COPLAS NUEVAS
+EN ALABANZA
+DE MARIA SANTISIMA DE LA AURORA,
+PARA CANTAR LOS DESPERTADORES DEL SANTO ROSARIO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="98,1794 714,1794 714,2064 98,2064"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="143,1834 169,1835 196,1835 222,1836 249,1836 275,1836 302,1836 328,1836 355,1836 381,1836 408,1835 435,1835 461,1835 488,1835 514,1835 541,1835 567,1836 594,1836 620,1837 647,1838 674,1839 674,1809 647,1808 620,1807 594,1806 567,1806 541,1805 514,1805 488,1805 461,1805 435,1805 408,1805 381,1806 355,1806 328,1806 302,1806 275,1806 249,1806 222,1806 196,1805 169,1805 143,1804"/>
+                <Baseline points="143,1824 169,1825 196,1825 222,1826 249,1826 275,1826 302,1826 328,1826 355,1826 381,1826 408,1825 435,1825 461,1825 488,1825 514,1825 541,1825 567,1826 594,1826 620,1827 647,1828 674,1829"/>
+                <TextEquiv>
+                    <Unicode>En el nombre de Dios poderoso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="105,1873 132,1873 160,1873 187,1874 215,1874 242,1874 270,1874 297,1874 325,1874 352,1873 380,1873 408,1873 435,1873 463,1873 490,1873 518,1873 545,1873 573,1874 600,1874 628,1874 656,1875 656,1845 628,1844 600,1844 573,1844 545,1843 518,1843 490,1843 463,1843 435,1843 408,1843 380,1843 352,1843 325,1844 297,1844 270,1844 242,1844 215,1844 187,1844 160,1843 132,1843 105,1843"/>
+                <Baseline points="105,1863 132,1863 160,1863 187,1864 215,1864 242,1864 270,1864 297,1864 325,1864 352,1863 380,1863 408,1863 435,1863 463,1863 490,1863 518,1863 545,1863 573,1864 600,1864 628,1864 656,1865"/>
+                <TextEquiv>
+                    <Unicode>La Aurora divina la vengo alabar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="103,1909 130,1909 158,1909 186,1910 214,1910 242,1910 270,1910 297,1910 325,1910 353,1910 381,1910 409,1910 437,1910 465,1910 492,1910 520,1910 548,1910 576,1910 604,1910 632,1910 660,1911 660,1881 632,1880 604,1880 576,1880 548,1880 520,1880 492,1880 465,1880 437,1880 409,1880 381,1880 353,1880 325,1880 297,1880 270,1880 242,1880 214,1880 186,1880 158,1879 130,1879 103,1879"/>
+                <Baseline points="103,1899 130,1899 158,1899 186,1900 214,1900 242,1900 270,1900 297,1900 325,1900 353,1900 381,1900 409,1900 437,1900 465,1900 492,1900 520,1900 548,1900 576,1900 604,1900 632,1900 660,1901"/>
+                <TextEquiv>
+                    <Unicode>No es conforme la Vírgen merece,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="99,1946 129,1946 159,1946 190,1946 220,1947 250,1947 281,1946 311,1946 341,1946 372,1946 402,1946 432,1946 463,1946 493,1946 523,1946 554,1946 584,1946 614,1947 645,1947 675,1948 706,1949 706,1919 675,1918 645,1917 614,1917 584,1916 554,1916 523,1916 493,1916 463,1916 432,1916 402,1916 372,1916 341,1916 311,1916 281,1916 250,1917 220,1917 190,1916 159,1916 129,1916 99,1916"/>
+                <Baseline points="99,1936 129,1936 159,1936 190,1936 220,1937 250,1937 281,1936 311,1936 341,1936 372,1936 402,1936 432,1936 463,1936 493,1936 523,1936 554,1936 584,1936 614,1937 645,1937 675,1938 706,1939"/>
+                <TextEquiv>
+                    <Unicode>Sino como pueda mi lengua esplicar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="246,1981 273,1982 300,1982 327,1982 354,1982 382,1982 409,1982 436,1982 463,1982 490,1983 518,1984 518,1954 490,1953 463,1952 436,1952 409,1952 382,1952 354,1952 327,1952 300,1952 273,1952 246,1951"/>
+                <Baseline points="246,1971 273,1972 300,1972 327,1972 354,1972 382,1972 409,1972 436,1972 463,1972 490,1973 518,1974"/>
+                <TextEquiv>
+                    <Unicode>Bien conozco yá,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="106,2017 132,2018 159,2018 186,2019 213,2019 240,2020 266,2020 293,2020 320,2020 347,2019 374,2019 400,2019 427,2019 454,2019 481,2019 508,2019 534,2019 561,2020 588,2020 615,2021 642,2022 642,1992 615,1991 588,1990 561,1990 534,1989 508,1989 481,1989 454,1989 427,1989 400,1989 374,1989 347,1989 320,1990 293,1990 266,1990 240,1990 213,1989 186,1989 159,1988 132,1988 106,1987"/>
+                <Baseline points="106,2007 132,2008 159,2008 186,2009 213,2009 240,2010 266,2010 293,2010 320,2010 347,2009 374,2009 400,2009 427,2009 454,2009 481,2009 508,2009 534,2009 561,2010 588,2010 615,2011 642,2012"/>
+                <TextEquiv>
+                    <Unicode>que tu mucha devocion me mueve,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="101,2056 126,2056 152,2057 177,2057 203,2057 228,2057 254,2057 280,2057 305,2057 331,2057 356,2057 382,2057 407,2056 433,2056 459,2056 484,2056 510,2056 535,2056 561,2056 587,2056 587,2026 561,2026 535,2026 510,2026 484,2026 459,2026 433,2026 407,2026 382,2027 356,2027 331,2027 305,2027 280,2027 254,2027 228,2027 203,2027 177,2027 152,2027 126,2026 101,2026"/>
+                <Baseline points="101,2046 126,2046 152,2047 177,2047 203,2047 228,2047 254,2047 280,2047 305,2047 331,2047 356,2047 382,2047 407,2046 433,2046 459,2046 484,2046 510,2046 535,2046 561,2046 587,2046"/>
+                <TextEquiv>
+                    <Unicode>y tu alabanza salgo á publicar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En el nombre de Dios poderoso,
+La Aurora divina la vengo alabar,
+No es conforme la Vírgen merece,
+Sino como pueda mi lengua esplicar.
+Bien conozco yá,
+que tu mucha devocion me mueve,
+y tu alabanza salgo á publicar.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;}">
+            <Coords points="764,1794 1380,1794 1380,2065 764,2065"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="808,1835 834,1835 861,1836 888,1836 914,1836 941,1836 968,1836 994,1836 1021,1836 1048,1836 1075,1836 1101,1836 1128,1836 1155,1836 1181,1837 1208,1837 1235,1837 1261,1837 1288,1838 1315,1838 1342,1839 1342,1809 1315,1808 1288,1808 1261,1807 1235,1807 1208,1807 1181,1807 1155,1806 1128,1806 1101,1806 1075,1806 1048,1806 1021,1806 994,1806 968,1806 941,1806 914,1806 888,1806 861,1806 834,1805 808,1805"/>
+                <Baseline points="808,1825 834,1825 861,1826 888,1826 914,1826 941,1826 968,1826 994,1826 1021,1826 1048,1826 1075,1826 1101,1826 1128,1826 1155,1826 1181,1827 1208,1827 1235,1827 1261,1827 1288,1828 1315,1828 1342,1829"/>
+                <TextEquiv>
+                    <Unicode>En el nombre de Dios poderoso, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="771,1872 800,1873 830,1873 860,1873 890,1873 920,1873 950,1873 979,1873 1009,1873 1039,1873 1069,1873 1099,1873 1129,1874 1159,1874 1188,1874 1218,1874 1248,1874 1278,1875 1308,1875 1338,1876 1368,1876 1368,1846 1338,1846 1308,1845 1278,1845 1248,1844 1218,1844 1188,1844 1159,1844 1129,1844 1099,1843 1069,1843 1039,1843 1009,1843 979,1843 950,1843 920,1843 890,1843 860,1843 830,1843 800,1843 771,1842"/>
+                <Baseline points="771,1862 800,1863 830,1863 860,1863 890,1863 920,1863 950,1863 979,1863 1009,1863 1039,1863 1069,1863 1099,1863 1129,1864 1159,1864 1188,1864 1218,1864 1248,1864 1278,1865 1308,1865 1338,1866 1368,1866"/>
+                <TextEquiv>
+                    <Unicode>á este Santo Cristo divina humildad,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="773,1910 799,1910 825,1910 852,1910 878,1910 905,1910 931,1910 957,1910 984,1910 1010,1910 1037,1910 1063,1910 1089,1910 1116,1910 1142,1910 1169,1910 1195,1910 1221,1911 1248,1911 1274,1911 1301,1912 1301,1882 1274,1881 1248,1881 1221,1881 1195,1880 1169,1880 1142,1880 1116,1880 1089,1880 1063,1880 1037,1880 1010,1880 984,1880 957,1880 931,1880 905,1880 878,1880 852,1880 825,1880 799,1880 773,1880"/>
+                <Baseline points="773,1900 799,1900 825,1900 852,1900 878,1900 905,1900 931,1900 957,1900 984,1900 1010,1900 1037,1900 1063,1900 1089,1900 1116,1900 1142,1900 1169,1900 1195,1900 1221,1901 1248,1901 1274,1901 1301,1902"/>
+                <TextEquiv>
+                    <Unicode>le pedimos contritos y humildes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="771,1948 800,1948 830,1947 860,1947 890,1946 920,1946 949,1946 979,1946 1009,1946 1039,1946 1069,1946 1098,1947 1128,1947 1158,1947 1188,1947 1218,1947 1247,1947 1277,1948 1307,1948 1337,1948 1367,1948 1367,1918 1337,1918 1307,1918 1277,1918 1247,1917 1218,1917 1188,1917 1158,1917 1128,1917 1098,1917 1069,1916 1039,1916 1009,1916 979,1916 949,1916 920,1916 890,1916 860,1917 830,1917 800,1918 771,1918"/>
+                <Baseline points="771,1938 800,1938 830,1937 860,1937 890,1936 920,1936 949,1936 979,1936 1009,1936 1039,1936 1069,1936 1098,1937 1128,1937 1158,1937 1188,1937 1218,1937 1247,1937 1277,1938 1307,1938 1337,1938 1367,1938"/>
+                <TextEquiv>
+                    <Unicode>que nos dé su gracia para principiar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="910,1982 936,1982 963,1982 989,1983 1016,1983 1043,1983 1069,1983 1096,1983 1122,1983 1149,1982 1176,1981 1176,1951 1149,1952 1122,1953 1096,1953 1069,1953 1043,1953 1016,1953 989,1953 963,1952 936,1952 910,1952"/>
+                <Baseline points="910,1972 936,1972 963,1972 989,1973 1016,1973 1043,1973 1069,1973 1096,1973 1122,1973 1149,1972 1176,1971"/>
+                <TextEquiv>
+                    <Unicode>Para principiar:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="765,2019 790,2019 815,2019 840,2020 866,2020 891,2020 916,2020 942,2020 967,2020 992,2020 1018,2019 1043,2019 1068,2019 1094,2019 1119,2019 1144,2020 1170,2020 1195,2020 1220,2021 1246,2022 1246,1992 1220,1991 1195,1990 1170,1990 1144,1990 1119,1989 1094,1989 1068,1989 1043,1989 1018,1989 992,1990 967,1990 942,1990 916,1990 891,1990 866,1990 840,1990 815,1989 790,1989 765,1989"/>
+                <Baseline points="765,2009 790,2009 815,2009 840,2010 866,2010 891,2010 916,2010 942,2010 967,2010 992,2010 1018,2009 1043,2009 1068,2009 1094,2009 1119,2009 1144,2010 1170,2010 1195,2010 1220,2011 1246,2012"/>
+                <TextEquiv>
+                    <Unicode>alabanza á Dios y á su Madre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="763,2057 793,2058 824,2058 854,2058 885,2058 916,2058 946,2058 977,2058 1007,2058 1038,2058 1069,2058 1099,2057 1130,2057 1160,2057 1191,2057 1222,2057 1252,2057 1283,2057 1313,2057 1344,2058 1375,2058 1375,2028 1344,2028 1313,2027 1283,2027 1252,2027 1222,2027 1191,2027 1160,2027 1130,2027 1099,2027 1069,2028 1038,2028 1007,2028 977,2028 946,2028 916,2028 885,2028 854,2028 824,2028 793,2028 763,2027"/>
+                <Baseline points="763,2047 793,2048 824,2048 854,2048 885,2048 916,2048 946,2048 977,2048 1007,2048 1038,2048 1069,2048 1099,2047 1130,2047 1160,2047 1191,2047 1222,2047 1252,2047 1283,2047 1313,2047 1344,2048 1375,2048"/>
+                <TextEquiv>
+                    <Unicode>con un amor grande por todo el lugar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En el nombre de Dios poderoso, 
+á este Santo Cristo divina humildad,
+le pedimos contritos y humildes,
+que nos dé su gracia para principiar.
+Para principiar:
+alabanza á Dios y á su Madre,
+con un amor grande por todo el lugar.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
