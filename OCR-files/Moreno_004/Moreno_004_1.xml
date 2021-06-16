@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v3(htr_id=26984)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T15:19:53.745+02:00</Created>
+        <LastChange>2020-10-20T15:23:54.981+02:00</LastChange>
+        <TranskribusMetadata docId="521978" pageId="22227166" pageNr="1" tsid="46477476" status="IN_PROGRESS" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=UANYEROYEDIVEDORXRTQFFWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZUBWTHELEVRYXICZXVSVRNTP" imageId="17317073"/>
+    </Metadata>
+    <Page imageFilename="Moreno_004_1.jpeg" imageWidth="1752" imageHeight="2480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606468078206" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="179,325 179,2358 1457,2358 1457,325"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1079,388 1166,392 1207,377 1217,388 1286,392 1299,379 1377,375 1377,346 1296,300 1233,297 1195,317 1162,283 1082,277"/>
+                <Baseline points="1087,364 1112,365 1138,366 1164,367 1189,369 1215,369 1241,370 1267,371 1292,372 1318,372 1344,372 1370,372"/>
+                <TextEquiv>
+                    <Unicode>Núm. 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="477,548 530,524 589,547 655,541 690,516 759,522 789,549 828,542 857,565 912,532 1024,518 1049,535 1051,423 991,439 945,422 479,430"/>
+                <Baseline points="485,503 512,503 540,504 568,504 596,505 624,506 652,507 679,507 707,509 735,509 763,510 791,511 819,512 847,513 874,513 902,513 930,513 958,513 986,513 1014,512 1042,511"/>
+                <TextEquiv>
+                    <Unicode>SAlNETE NUENO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603200211484_437" custom="readingOrder {index:2;}">
+                <Coords points="202,710 1374,710 1374,923 202,923"/>
+                <TextEquiv>
+                    <Unicode>EL RECIBO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603200215376_441" custom="readingOrder {index:3;}">
+                <Coords points="81,1115 1485,1115 1485,1414 81,1414"/>
+                <TextEquiv>
+                    <Unicode>DEL PAGE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="509,2135 565,2137 595,2163 664,2140 691,2163 738,2144 770,2165 834,2123 885,2147 954,2130 1008,2151 1008,2068 803,2100 762,2082 648,2085 596,2049 510,2082"/>
+                <Baseline points="516,2123 541,2124 566,2125 592,2126 617,2127 643,2127 668,2128 694,2128 719,2129 745,2129 770,2129 796,2129 821,2129 847,2129 872,2129 898,2129 923,2129 949,2129 974,2129 1000,2129"/>
+                <TextEquiv>
+                    <Unicode>CARMONA:—1870.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="172,2296 1351,2297 1312,2235 1163,2220 305,2245 172,2203"/>
+                <Baseline points="179,2277 237,2276 295,2276 353,2277 412,2277 470,2277 528,2277 586,2277 645,2277 703,2278 761,2278 819,2278 878,2279 936,2279 994,2279 1052,2280 1111,2280 1169,2281 1227,2281 1285,2282 1344,2282"/>
+                <TextEquiv>
+                    <Unicode>Imprenta y librería de D. José Maria Moreno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="348,2355 654,2371 732,2343 835,2366 927,2346 978,2371 1077,2354 1123,2388 1163,2369 1163,2307 1119,2289 888,2313 834,2283 668,2316 525,2283 348,2296"/>
+                <Baseline points="355,2340 395,2340 435,2340 475,2341 515,2341 555,2341 595,2341 635,2341 675,2341 715,2342 755,2342 795,2342 835,2342 875,2343 915,2343 955,2343 995,2343 1035,2343 1075,2343 1115,2343 1155,2343"/>
+                <TextEquiv>
+                    <Unicode>Calle Madre de Dios, número 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 5.
+SAlNETE NUENO.
+EL RECIBO
+DEL PAGE
+CARMONA:—1870.
+Imprenta y librería de D. José Maria Moreno.
+Calle Madre de Dios, número 1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

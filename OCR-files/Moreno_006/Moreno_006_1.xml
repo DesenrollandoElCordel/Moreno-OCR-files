@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v3(htr_id=26984)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T15:43:32.530+02:00</Created>
+        <LastChange>2020-11-16T17:54:04.894+01:00</LastChange>
+        <TranskribusMetadata docId="521986" pageId="22227733" pageNr="1" tsid="48827371" status="FINAL" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=FXWTQRMLLGVHIFJMZMNPAOEA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CHZDQVXPVEAUQJWEDJEBEJHI" imageId="17317640"/>
+    </Metadata>
+    <Page imageFilename="Moreno_006_1.jpg" imageWidth="1752" imageHeight="2430">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606468243214" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="252,52 252,2128 1650,2128 1650,52"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1402,86 1426,99 1481,84 1510,97 1542,80 1573,95 1588,87 1617,92 1617,20 1597,23 1581,15 1552,37 1525,42 1480,20 1462,34 1432,29 1412,45 1402,43"/>
+                <Baseline points="1410,80 1438,78 1466,76 1495,76 1523,77 1552,77 1580,78 1609,77"/>
+                <TextEquiv>
+                    <Unicode>(Núm. 5.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:1;}">
+                <Coords points="273,915 1658,916 1657,835 1516,829 1425,882 1209,886 1135,837 273,874"/>
+                <Baseline points="282,917 350,918 418,918 487,917 555,916 624,915 692,913 760,912 829,910 897,909 966,907 1034,905 1102,904 1171,902 1239,901 1308,900 1376,900 1444,900 1513,900 1581,901 1650,903"/>
+                <TextEquiv>
+                    <Unicode>VILLANCICOS NUEVOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:2;}">
+                <Coords points="607,1037 1299,1033 1297,975 1234,955 606,982"/>
+                <Baseline points="616,1029 649,1028 683,1028 717,1027 750,1026 784,1025 818,1024 851,1023 885,1022 919,1021 953,1019 986,1019 1020,1018 1054,1017 1087,1017 1121,1017 1155,1017 1188,1018 1222,1018 1256,1020 1290,1022"/>
+                <TextEquiv>
+                    <Unicode>ALEGRES Y DIVERTIDOS, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:3;}">
+                <Coords points="339,1188 1566,1141 1460,1067 338,1123"/>
+                <Baseline points="347,1158 407,1157 468,1155 528,1154 589,1152 649,1151 710,1149 770,1148 831,1147 891,1145 952,1144 1012,1143 1073,1142 1133,1141 1194,1140 1254,1139 1315,1138 1375,1137 1436,1137 1496,1136 1557,1136"/>
+                <TextEquiv>
+                    <Unicode>para cantar en estas prózimas Navidades.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:4;}">
+                <Coords points="288,1417 495,1424 526,1410 575,1432 601,1419 661,1419 661,1380 623,1375 558,1336 511,1336 412,1378 320,1372 287,1355"/>
+                <Baseline points="296,1407 321,1406 346,1406 372,1406 397,1406 423,1405 448,1405 474,1405 499,1405 524,1405 550,1405 575,1404 601,1404 626,1404 652,1404"/>
+                <TextEquiv>
+                    <Unicode>De un ángel divino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:5;}">
+                <Coords points="250,1468 274,1470 298,1452 320,1471 366,1458 399,1470 440,1454 495,1468 512,1456 575,1467 587,1464 587,1419 301,1421 249,1403"/>
+                <Baseline points="258,1454 284,1453 311,1451 338,1451 364,1450 391,1450 418,1450 444,1449 471,1449 498,1449 524,1449 551,1449 578,1448"/>
+                <TextEquiv>
+                    <Unicode>la trompa sonora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:6;}">
+                <Coords points="244,1513 278,1502 355,1501 370,1513 450,1499 553,1509 608,1496 607,1465 539,1456 501,1466 439,1453 398,1469 373,1458 243,1467"/>
+                <Baseline points="252,1498 278,1497 305,1496 332,1495 359,1494 385,1494 412,1493 439,1493 466,1492 492,1492 519,1491 546,1491 573,1491 600,1492"/>
+                <TextEquiv>
+                    <Unicode>anuncia el destino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:7;}">
+                <Coords points="247,1550 317,1539 382,1561 403,1546 442,1558 523,1542 566,1559 589,1545 665,1554 665,1506 624,1501 247,1509"/>
+                <Baseline points="255,1540 280,1539 305,1539 330,1539 355,1538 380,1538 405,1538 430,1537 455,1537 480,1537 505,1537 530,1537 555,1537 580,1538 605,1538 630,1539 656,1539"/>
+                <TextEquiv>
+                    <Unicode>de Virgen que adora;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:8;}">
+                <Coords points="251,1603 289,1589 433,1597 549,1586 566,1600 660,1605 660,1561 617,1546 442,1557 411,1546 341,1554 317,1540 290,1563 251,1559"/>
+                <Baseline points="259,1586 285,1585 311,1584 337,1583 363,1582 389,1582 415,1581 441,1581 468,1581 494,1581 520,1580 546,1580 572,1580 598,1580 624,1579 651,1578"/>
+                <TextEquiv>
+                    <Unicode>y el Dios sacrosanto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:9;}">
+                <Coords points="251,1642 405,1634 443,1651 511,1628 583,1640 644,1626 766,1643 766,1603 738,1593 251,1601"/>
+                <Baseline points="260,1627 286,1627 312,1627 338,1627 364,1627 391,1626 417,1626 443,1626 469,1626 495,1626 522,1625 548,1625 574,1625 600,1625 626,1625 653,1625 679,1625 705,1625 731,1625 758,1626"/>
+                <TextEquiv>
+                    <Unicode>que duerme en su seno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:10;}">
+                <Coords points="255,1681 390,1693 478,1689 520,1672 592,1687 681,1673 681,1630 614,1644 566,1632 520,1650 334,1630 255,1644"/>
+                <Baseline points="263,1671 288,1671 314,1671 339,1670 365,1670 391,1670 416,1670 442,1670 468,1670 493,1670 519,1670 544,1670 570,1670 596,1670 621,1670 647,1669 673,1669"/>
+                <TextEquiv>
+                    <Unicode>vertiendo su encanto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:11;}">
+                <Coords points="251,1745 291,1740 316,1719 357,1730 467,1719 499,1729 540,1717 540,1696 475,1673 391,1693 251,1685"/>
+                <Baseline points="260,1715 287,1716 314,1716 341,1716 368,1716 396,1715 423,1714 450,1714 477,1714 504,1714 532,1715"/>
+                <TextEquiv>
+                    <Unicode>reposa sereno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:12;}">
+                <Coords points="291,1771 377,1761 439,1777 452,1765 568,1757 606,1773 630,1764 682,1777 681,1726 633,1732 607,1713 559,1735 465,1719 388,1723 371,1737 320,1721 291,1733"/>
+                <Baseline points="300,1760 326,1760 353,1760 379,1759 406,1759 432,1758 459,1758 486,1757 512,1757 539,1756 565,1756 592,1756 618,1756 645,1756 672,1756"/>
+                <TextEquiv>
+                    <Unicode>Las lágrimas vierte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:13;}">
+                <Coords points="247,1813 317,1809 341,1821 363,1810 406,1822 457,1803 481,1818 493,1808 603,1812 603,1779 563,1762 532,1776 507,1763 404,1778 380,1764 308,1773 275,1753 246,1760"/>
+                <Baseline points="255,1805 281,1805 307,1804 333,1804 359,1803 385,1803 411,1803 438,1802 464,1802 490,1802 516,1802 542,1802 568,1802 595,1802"/>
+                <TextEquiv>
+                    <Unicode>la Virgen María,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:14;}">
+                <Coords points="256,1857 323,1853 361,1866 419,1850 540,1852 559,1864 576,1848 597,1863 627,1858 627,1818 582,1808 497,1813 480,1829 447,1810 423,1828 370,1811 341,1823 256,1813"/>
+                <Baseline points="264,1850 289,1850 314,1849 339,1849 365,1848 390,1847 415,1847 441,1846 466,1846 491,1845 516,1845 542,1845 567,1846 592,1847 618,1847"/>
+                <TextEquiv>
+                    <Unicode>llorando la suerte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:15;}">
+                <Coords points="257,1902 288,1907 315,1889 350,1903 401,1898 421,1908 440,1898 483,1906 515,1896 581,1904 580,1865 539,1853 434,1862 419,1850 357,1867 338,1855 308,1866 256,1860"/>
+                <Baseline points="265,1893 290,1893 316,1893 341,1892 367,1892 392,1891 418,1890 443,1890 469,1889 494,1889 520,1889 545,1889 571,1890"/>
+                <TextEquiv>
+                    <Unicode>de la idolatría;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:16;}">
+                <Coords points="255,1955 304,1944 317,1956 349,1943 388,1952 422,1935 462,1952 475,1940 570,1940 568,1902 549,1899 497,1910 376,1897 361,1908 316,1889 283,1911 253,1905"/>
+                <Baseline points="264,1946 291,1943 318,1940 345,1938 372,1937 399,1935 426,1935 453,1934 480,1934 507,1934 534,1934 561,1933"/>
+                <TextEquiv>
+                    <Unicode>y gime llorosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:17;}">
+                <Coords points="258,1994 383,1995 453,1977 545,1997 583,1985 609,2000 684,1994 684,1963 593,1938 519,1953 477,1939 436,1951 417,1936 389,1952 258,1953"/>
+                <Baseline points="267,1980 292,1981 318,1980 343,1980 369,1980 394,1979 420,1979 445,1978 471,1978 496,1978 522,1977 547,1977 573,1977 598,1978 624,1978 649,1979 675,1980"/>
+                <TextEquiv>
+                    <Unicode>perdiendo la calma, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:18;}">
+                <Coords points="259,2036 308,2023 325,2038 379,2043 399,2030 623,2030 623,1999 586,1984 559,1997 473,1986 436,2001 393,1988 258,1995"/>
+                <Baseline points="267,2025 293,2026 320,2026 347,2025 374,2025 400,2024 427,2024 454,2023 481,2022 507,2022 534,2021 561,2021 588,2022 615,2022"/>
+                <TextEquiv>
+                    <Unicode>la Virgen hermosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:19;}">
+                <Coords points="257,2080 333,2074 360,2094 386,2075 412,2087 463,2070 519,2080 534,2066 718,2087 717,2042 652,2021 490,2041 447,2028 257,2036"/>
+                <Baseline points="265,2071 291,2071 317,2071 343,2070 369,2070 395,2070 421,2069 447,2069 473,2068 500,2068 526,2067 552,2067 578,2066 604,2066 630,2066 656,2065 682,2065 709,2065"/>
+                <TextEquiv>
+                    <Unicode>con pena en el alma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:20;}">
+                <Coords points="304,2135 326,2142 353,2126 384,2145 526,2129 540,2143 554,2132 615,2145 663,2126 722,2144 721,2086 697,2076 574,2084 534,2066 519,2080 467,2070 411,2086 389,2074 360,2094 337,2075 303,2079"/>
+                <Baseline points="313,2117 338,2116 363,2116 388,2115 413,2115 438,2114 463,2114 488,2113 513,2113 538,2113 563,2113 588,2112 613,2112 638,2112 663,2112 688,2112 713,2112"/>
+                <TextEquiv>
+                    <Unicode>Y el hijo tan bello,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:21;}">
+                <Coords points="967,1405 1065,1401 1123,1414 1140,1400 1210,1401 1220,1412 1251,1398 1277,1411 1354,1402 1353,1359 1278,1367 1206,1353 1186,1367 1105,1334 1037,1365 967,1371"/>
+                <Baseline points="976,1398 1002,1397 1028,1396 1055,1395 1081,1395 1107,1394 1134,1394 1160,1394 1186,1394 1213,1394 1239,1394 1265,1394 1292,1394 1318,1394 1345,1393"/>
+                <TextEquiv>
+                    <Unicode>nació pobremente, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:22;}">
+                <Coords points="969,1456 999,1457 1019,1436 1060,1458 1175,1444 1204,1459 1394,1438 1393,1409 1359,1401 1296,1412 1253,1397 1220,1411 1186,1400 1107,1415 1061,1400 969,1408"/>
+                <Baseline points="977,1443 1002,1441 1028,1440 1053,1440 1079,1439 1104,1438 1130,1438 1155,1438 1181,1438 1206,1438 1232,1438 1257,1437 1283,1437 1308,1437 1334,1436 1359,1435 1385,1434"/>
+                <TextEquiv>
+                    <Unicode>y un suave destello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:23;}">
+                <Coords points="979,1502 1150,1485 1241,1496 1287,1479 1310,1498 1440,1489 1439,1451 1417,1444 979,1456"/>
+                <Baseline points="987,1485 1013,1484 1039,1483 1065,1483 1091,1482 1117,1481 1143,1481 1169,1481 1195,1481 1222,1481 1248,1481 1274,1481 1300,1481 1326,1482 1352,1482 1378,1482 1404,1482 1431,1482"/>
+                <TextEquiv>
+                    <Unicode>cruzaba en su frente;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:24;}">
+                <Coords points="981,1547 1122,1527 1237,1551 1347,1532 1407,1542 1406,1492 1267,1492 1252,1508 1214,1486 980,1496"/>
+                <Baseline points="989,1529 1014,1529 1040,1528 1065,1528 1091,1528 1116,1527 1142,1527 1167,1527 1193,1527 1218,1526 1244,1526 1269,1526 1295,1525 1320,1525 1346,1525 1371,1524 1397,1524"/>
+                <TextEquiv>
+                    <Unicode>porque él ya predice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:25;}">
+                <Coords points="974,1580 1038,1588 1067,1566 1142,1586 1156,1575 1305,1585 1330,1574 1406,1585 1405,1543 1378,1548 1347,1531 1231,1548 1195,1534 974,1544"/>
+                <Baseline points="983,1573 1008,1573 1034,1572 1060,1571 1086,1570 1112,1569 1138,1569 1164,1569 1190,1568 1215,1568 1241,1568 1267,1568 1293,1569 1319,1569 1345,1569 1371,1570 1397,1570"/>
+                <TextEquiv>
+                    <Unicode>con tono de mando,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:26;}">
+                <Coords points="976,1633 1082,1616 1125,1634 1216,1618 1416,1622 1416,1586 1364,1575 1332,1589 976,1583"/>
+                <Baseline points="985,1618 1011,1617 1037,1615 1064,1615 1090,1614 1116,1613 1143,1613 1169,1613 1196,1612 1222,1612 1248,1612 1275,1612 1301,1612 1327,1612 1354,1612 1380,1612 1407,1611"/>
+                <TextEquiv>
+                    <Unicode>y al hombre bendice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:27;}">
+                <Coords points="984,1681 1052,1663 1092,1677 1158,1675 1177,1661 1408,1670 1408,1632 1375,1619 1129,1632 1084,1615 984,1633"/>
+                <Baseline points="992,1660 1017,1659 1042,1658 1068,1658 1093,1658 1119,1658 1144,1657 1170,1657 1195,1657 1220,1657 1246,1657 1271,1657 1297,1657 1322,1657 1348,1657 1373,1657 1399,1657"/>
+                <TextEquiv>
+                    <Unicode>que viene á salvarlo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:28;}">
+                <Coords points="1023,1708 1054,1720 1114,1708 1155,1717 1184,1703 1293,1715 1316,1706 1340,1722 1396,1723 1396,1672 1370,1667 1192,1674 1180,1664 1148,1677 1023,1669"/>
+                <Baseline points="1032,1703 1057,1703 1082,1702 1108,1702 1133,1702 1159,1701 1184,1701 1210,1701 1235,1701 1260,1701 1286,1701 1311,1702 1337,1702 1362,1703 1388,1704"/>
+                <TextEquiv>
+                    <Unicode>Coronas de flores,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:29;}">
+                <Coords points="980,1758 1112,1762 1144,1748 1175,1760 1333,1755 1333,1726 1300,1714 1288,1723 1271,1708 1115,1721 1079,1711 1066,1723 1012,1717 980,1700"/>
+                <Baseline points="988,1749 1013,1749 1039,1748 1065,1747 1091,1747 1117,1746 1143,1746 1168,1745 1194,1745 1220,1745 1246,1745 1272,1746 1298,1746 1324,1747"/>
+                <TextEquiv>
+                    <Unicode>coronas sencillas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:30;}">
+                <Coords points="981,1810 1053,1796 1068,1809 1114,1799 1152,1809 1193,1793 1374,1805 1374,1756 980,1759"/>
+                <Baseline points="990,1793 1015,1793 1040,1792 1065,1792 1090,1791 1115,1791 1140,1790 1165,1790 1190,1789 1215,1789 1240,1789 1265,1789 1290,1789 1315,1790 1340,1791 1366,1792"/>
+                <TextEquiv>
+                    <Unicode>ya son de colores;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:31;}">
+                <Coords points="980,1851 1134,1840 1239,1841 1268,1853 1300,1840 1324,1851 1336,1849 1336,1804 1190,1795 1161,1807 1108,1799 1090,1810 980,1810"/>
+                <Baseline points="989,1835 1015,1836 1041,1836 1067,1835 1093,1835 1119,1835 1145,1834 1171,1834 1197,1833 1223,1833 1249,1833 1275,1834 1301,1834 1328,1835"/>
+                <TextEquiv>
+                    <Unicode>ya son amarillas;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:32;}">
+                <Coords points="978,1900 1074,1883 1196,1897 1218,1885 1244,1900 1295,1882 1346,1897 1403,1885 1434,1900 1433,1842 1347,1841 1300,1860 1233,1840 978,1852"/>
+                <Baseline points="987,1884 1012,1883 1038,1881 1064,1880 1090,1880 1115,1879 1141,1879 1167,1878 1193,1878 1218,1878 1244,1878 1270,1878 1296,1878 1321,1878 1347,1878 1373,1878 1399,1878 1425,1877"/>
+                <TextEquiv>
+                    <Unicode>y esclaman los coros:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:33;}">
+                <Coords points="983,1944 1019,1943 1032,1931 1084,1943 1152,1930 1163,1939 1236,1931 1248,1941 1282,1927 1305,1941 1330,1935 1330,1891 1294,1896 1270,1883 1241,1897 1215,1885 1181,1899 1159,1886 1099,1902 1080,1888 1035,1885 983,1899"/>
+                <Baseline points="992,1925 1017,1925 1042,1925 1068,1925 1093,1925 1118,1924 1144,1924 1169,1923 1195,1923 1220,1922 1245,1922 1271,1923 1296,1923 1322,1924"/>
+                <TextEquiv>
+                    <Unicode>salud, claro dia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="983,1983 1079,1968 1147,1988 1219,1971 1247,1983 1270,1971 1356,1976 1355,1920 1318,1941 1282,1928 1253,1940 1177,1929 982,1944"/>
+                <Baseline points="991,1971 1016,1970 1041,1969 1067,1968 1092,1968 1118,1967 1143,1967 1169,1967 1194,1966 1219,1966 1245,1966 1270,1966 1296,1966 1321,1965 1347,1965"/>
+                <TextEquiv>
+                    <Unicode>pues nos da tesoros</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:35;}">
+                <Coords points="985,2026 1055,2016 1091,2029 1135,2018 1236,2026 1270,2015 1329,2025 1328,1985 1309,1991 1282,1972 1251,1986 1210,1973 1196,1985 1179,1973 1118,1986 1088,1973 984,1983"/>
+                <Baseline points="993,2017 1018,2015 1043,2013 1068,2011 1093,2010 1118,2010 1143,2010 1168,2010 1193,2010 1218,2011 1243,2011 1268,2011 1293,2010 1319,2009"/>
+                <TextEquiv>
+                    <Unicode>la Virgen María.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:36;}">
+                <Coords points="985,2078 1062,2080 1166,2058 1225,2076 1317,2067 1348,2060 1347,2010 1311,2026 1270,2015 1227,2028 1140,2019 1090,2030 1045,2012 984,2025"/>
+                <Baseline points="993,2063 1019,2060 1046,2058 1072,2057 1099,2056 1126,2055 1152,2055 1179,2055 1205,2055 1232,2055 1259,2055 1285,2055 1312,2054 1339,2052"/>
+                <TextEquiv>
+                    <Unicode>Venid angelitos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:37;}">
+                <Coords points="986,2129 1020,2135 1063,2121 1084,2138 1152,2137 1193,2113 1261,2124 1275,2112 1291,2124 1309,2111 1345,2125 1373,2117 1372,2064 985,2078"/>
+                <Baseline points="995,2107 1021,2106 1047,2105 1073,2104 1100,2104 1126,2103 1152,2103 1179,2102 1205,2102 1231,2102 1257,2102 1284,2102 1310,2102 1336,2102 1363,2102"/>
+                <TextEquiv>
+                    <Unicode>con alas hermosas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Núm. 5.)
+VILLANCICOS NUEVOS
+ALEGRES Y DIVERTIDOS, 
+para cantar en estas prózimas Navidades.
+De un ángel divino
+la trompa sonora
+anuncia el destino
+de Virgen que adora;
+y el Dios sacrosanto
+que duerme en su seno,
+vertiendo su encanto
+reposa sereno.
+Las lágrimas vierte
+la Virgen María,
+llorando la suerte
+de la idolatría;
+y gime llorosa
+perdiendo la calma, 
+la Virgen hermosa
+con pena en el alma.
+Y el hijo tan bello,
+nació pobremente, 
+y un suave destello
+cruzaba en su frente;
+porque él ya predice
+con tono de mando,
+y al hombre bendice
+que viene á salvarlo.
+Coronas de flores,
+coronas sencillas,
+ya son de colores;
+ya son amarillas;
+y esclaman los coros:
+salud, claro dia,
+pues nos da tesoros
+la Virgen María.
+Venid angelitos 
+con alas hermosas,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1605545642913_373" custom="readingOrder {index:1;}">
+            <Coords points="459,126 1414,126 1414,778 459,778"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

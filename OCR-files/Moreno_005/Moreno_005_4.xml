@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-18T15:05:54.761+02:00</Created>
+        <LastChange>2020-10-06T13:59:21.426+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: SpanishTraditionalSort
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="482203" pageId="19836117" pageNr="4" tsid="42982491" status="IN_PROGRESS" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=HBPXHGGGDMTCEIHAKHWYISRL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGZPQTZKMWGSZKAHJKXJPKXL" imageId="15368340"/>
+    </Metadata>
+    <Page imageFilename="Moreno_005_4.jpg" imageWidth="1765" imageHeight="2512">
+        <PrintSpace>
+            <Coords points="-17,21 1747,21 1747,2440 -17,2440"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1601985582106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1600950928938_866"/>
+                <RegionRefIndexed index="1" regionRef="region_1600949933074_517"/>
+                <RegionRefIndexed index="2" regionRef="region_1600949730961_471"/>
+                <RegionRefIndexed index="3" regionRef="region_1600950832713_841"/>
+                <RegionRefIndexed index="4" regionRef="region_1600949998429_536"/>
+                <RegionRefIndexed index="6" regionRef="region_1600950903152_858"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1600950928938_866" custom="readingOrder {index:0;}">
+            <Coords points="240,179 313,179 313,248 240,248"/>
+            <TextLine id="line_1600950933635_870" custom="readingOrder {index:0;}">
+                <Coords points="256,193 300,193 300,244 256,244"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1600949933074_517" custom="readingOrder {index:1;}">
+            <Coords points="168,250 712,250 712,1429 168,1429"/>
+            <TextLine id="line_1600950526527_691" custom="readingOrder {index:0;}">
+                <Coords points="203,246 731,246 731,295 203,295"/>
+                <TextEquiv>
+                    <Unicode>San José estaba contento,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950531273_695" custom="readingOrder {index:1;}">
+                <Coords points="163,307 581,307 581,353 163,353"/>
+                <TextEquiv>
+                    <Unicode>todo respira alegria,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950549625_705" custom="readingOrder {index:2;}">
+                <Coords points="162,367 745,367 745,410 162,410"/>
+                <TextEquiv>
+                    <Unicode>pues hubo vez que la Virgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950553721_709" custom="readingOrder {index:3;}">
+                <Coords points="165,423 527,423 527,468 165,468"/>
+                <TextEquiv>
+                    <Unicode>á carcajadas reia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950640891_713" custom="readingOrder {index:4;}">
+                <Coords points="201,556 693,556 693,603 201,603"/>
+                <TextEquiv>
+                    <Unicode>Muchachos con mantas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950644851_717" custom="readingOrder {index:5;}">
+                <Coords points="162,624 527,624 527,665 162,665"/>
+                <TextEquiv>
+                    <Unicode>zagales con palos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950648480_721" custom="readingOrder {index:6;}">
+                <Coords points="158,676 491,676 491,727 158,727"/>
+                <TextEquiv>
+                    <Unicode>al recien nacido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950652058_725" custom="readingOrder {index:7;}">
+                <Coords points="166,739 504,739 504,783 166,783"/>
+                <TextEquiv>
+                    <Unicode>le traen regalos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950656226_729" custom="readingOrder {index:8;}">
+                <Coords points="213,873 689,873 689,915 213,915"/>
+                <TextEquiv>
+                    <Unicode>Mientras la noche duró</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950660003_733" custom="readingOrder {index:9;}">
+                <Coords points="166,939 576,939 576,976 166,976"/>
+                <TextEquiv>
+                    <Unicode>no cesaron de llegar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950664518_737" custom="readingOrder {index:10;}">
+                <Coords points="166,995 615,995 615,1036 166,1036"/>
+                <TextEquiv>
+                    <Unicode>pastores y pastorcitas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950670046_741" custom="readingOrder {index:11;}">
+                <Coords points="170,1057 592,1057 592,1094 170,1094"/>
+                <TextEquiv>
+                    <Unicode>para el niño regalar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950697846_745" custom="readingOrder {index:12;}">
+                <Coords points="219,1182 644,1182 644,1231 219,1231"/>
+                <TextEquiv>
+                    <Unicode>Antes del amanecer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950702080_749" custom="readingOrder {index:13;}">
+                <Coords points="169,1239 697,1239 697,1293 169,1293"/>
+                <TextEquiv>
+                    <Unicode>llegó al portal un vaquero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950705985_753" custom="readingOrder {index:14;}">
+                <Coords points="171,1305 697,1305 697,1347 171,1347"/>
+                <TextEquiv>
+                    <Unicode>y al niño de Dios le trajo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950709496_757" custom="readingOrder {index:15;}">
+                <Coords points="169,1363 637,1363 637,1413 169,1413"/>
+                <TextEquiv>
+                    <Unicode>una vaca y un ternero.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>San José estaba contento,
+todo respira alegria,
+pues hubo vez que la Virgen
+á carcajadas reia.
+Muchachos con mantas,
+zagales con palos,
+al recien nacido
+le traen regalos.
+Mientras la noche duró
+no cesaron de llegar
+pastores y pastorcitas,
+para el niño regalar.
+Antes del amanecer
+llegó al portal un vaquero
+y al niño de Dios le trajo,
+una vaca y un ternero.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1600949730961_471" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="636,1462 1148,1462 1148,1719 636,1719"/>
+            <TextLine id="line_1600950809509_825" custom="readingOrder {index:0;}">
+                <Coords points="714,1466 1104,1466 1104,1519 714,1519"/>
+                <TextEquiv>
+                    <Unicode>Tocaban, cantaban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950812994_829" custom="readingOrder {index:1;}">
+                <Coords points="663,1534 1085,1534 1085,1577 663,1577"/>
+                <TextEquiv>
+                    <Unicode>con grande alegria,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950816962_833" custom="readingOrder {index:2;}">
+                <Coords points="666,1593 1130,1593 1130,1633 666,1633"/>
+                <TextEquiv>
+                    <Unicode>y el Rey de los cielos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950821439_837" custom="readingOrder {index:3;}">
+                <Coords points="668,1645 952,1645 952,1698 668,1698"/>
+                <TextEquiv>
+                    <Unicode>de verlos reia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tocaban, cantaban
+con grande alegria,
+y el Rey de los cielos
+de verlos reia.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1600950832713_841" custom="readingOrder {index:3;}">
+            <Coords points="758,1944 1037,1944 1037,2091 758,2091"/>
+            <TextLine id="line_1600950840588_845" custom="readingOrder {index:0;}">
+                <Coords points="771,1958 1022,1958 1022,2078 771,2078"/>
+                <TextEquiv>
+                    <Unicode>FIN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>FIN.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1600949998429_536" custom="readingOrder {index:4;}">
+            <Coords points="878,222 1599,222 1599,1424 878,1424"/>
+            <TextLine id="line_1600950720673_761" custom="readingOrder {index:0;}">
+                <Coords points="936,226 1463,226 1463,279 936,279"/>
+                <TextEquiv>
+                    <Unicode>Con una estrella por guia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950725322_765" custom="readingOrder {index:1;}">
+                <Coords points="888,284 1430,284 1430,341 888,341"/>
+                <TextEquiv>
+                    <Unicode>los Reyes magos vinieron,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950730107_769" custom="readingOrder {index:2;}">
+                <Coords points="892,352 1311,352 1311,385 892,385"/>
+                <TextEquiv>
+                    <Unicode>y todo cuanto tenian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950733315_773" custom="readingOrder {index:3;}">
+                <Coords points="892,401 1381,401 1381,453 892,453"/>
+                <TextEquiv>
+                    <Unicode>al niño se lo ofrecieron.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950738925_777" custom="readingOrder {index:4;}">
+                <Coords points="934,533 1447,533 1447,593 934,593"/>
+                <TextEquiv>
+                    <Unicode>Tocando cajas y trompas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950742398_781" custom="readingOrder {index:5;}">
+                <Coords points="890,607 1350,607 1350,646 890,646"/>
+                <TextEquiv>
+                    <Unicode>entraron en el portal,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950745887_785" custom="readingOrder {index:6;}">
+                <Coords points="890,659 1367,659 1367,710 890,710"/>
+                <TextEquiv>
+                    <Unicode>y cuando vieron á Dios</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950750853_789" custom="readingOrder {index:7;}">
+                <Coords points="890,717 1375,717 1375,768 890,768"/>
+                <TextEquiv>
+                    <Unicode>lo empezaron á adorar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950768239_793" custom="readingOrder {index:8;}">
+                <Coords points="941,853 1594,853 1594,908 941,908"/>
+                <TextEquiv>
+                    <Unicode>Que era mas que todo el mundo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950771938_797" custom="readingOrder {index:9;}">
+                <Coords points="891,914 1442,914 1442,965 891,965"/>
+                <TextEquiv>
+                    <Unicode>los tres Reyes conocieron,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950775859_801" custom="readingOrder {index:10;}">
+                <Coords points="896,978 1369,978 1369,1019 896,1019"/>
+                <TextEquiv>
+                    <Unicode>y sus armas y coronas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950779546_805" custom="readingOrder {index:11;}">
+                <Coords points="899,1027 1428,1027 1428,1083 899,1083"/>
+                <TextEquiv>
+                    <Unicode>á su presencia rindieron.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950783385_809" custom="readingOrder {index:12;}">
+                <Coords points="939,1166 1396,1166 1396,1219 939,1219"/>
+                <TextEquiv>
+                    <Unicode>Incienso, oro y mirra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950791370_813" custom="readingOrder {index:13;}">
+                <Coords points="901,1230 1398,1230 1398,1285 901,1285"/>
+                <TextEquiv>
+                    <Unicode>y gran parle de riqueza,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950796249_817" custom="readingOrder {index:14;}">
+                <Coords points="901,1337 1338,1337 1338,1283 901,1283"/>
+                <TextEquiv>
+                    <Unicode>le ofrecen al Salvador</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1600950800266_821" custom="readingOrder {index:15;}">
+                <Coords points="898,1396 1367,1396 1367,1339 898,1339"/>
+                <TextEquiv>
+                    <Unicode>admirando su pobreza.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Con una estrella por guia
+los Reyes magos vinieron,
+y todo cuanto tenian
+al niño se lo ofrecieron.
+Tocando cajas y trompas
+entraron en el portal,
+y cuando vieron á Dios
+lo empezaron á adorar.
+Que era mas que todo el mundo
+los tres Reyes conocieron,
+y sus armas y coronas
+á su presencia rindieron.
+Incienso, oro y mirra
+y gran parle de riqueza,
+le ofrecen al Salvador
+admirando su pobreza.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="0,93 16,93 16,483 0,483"/>
+        </SeparatorRegion>
+        <TextRegion id="region_1600950903152_858" custom="readingOrder {index:6;}">
+            <Coords points="168,2316 1615,2316 1615,2391 168,2391"/>
+            <TextLine id="line_1600950912166_862" custom="readingOrder {index:0;}">
+                <Coords points="182,2327 1611,2327 1611,2382 182,2382"/>
+                <TextEquiv>
+                    <Unicode>CARMONA:—Imp. de D. José. M.a Moreno, calle Madre Dios nùm. 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARMONA:—Imp. de D. José. M.a Moreno, calle Madre Dios nùm. 1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

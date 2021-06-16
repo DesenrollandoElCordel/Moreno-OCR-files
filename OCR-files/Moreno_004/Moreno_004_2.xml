@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v3(htr_id=26984)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-20T15:19:53.781+02:00</Created>
+        <LastChange>2020-10-20T15:24:23.909+02:00</LastChange>
+        <TranskribusMetadata docId="521978" pageId="22227168" pageNr="2" tsid="46477495" status="IN_PROGRESS" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=WZHBVYPOBYAVUDGEPGCMQOBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWJCXTCIJBGRUWEQUBCNHFMO" imageId="17317075"/>
+    </Metadata>
+    <Page imageFilename="Moreno_004_2.jpeg" imageWidth="1450" imageHeight="2408">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606468078245" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="434,583 434,2244 1279,2244 1279,583"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="428,636 1284,683 1286,627 1128,577 675,596 477,577 432,548"/>
+                <Baseline points="434,623 476,624 518,626 560,627 603,629 645,630 687,632 729,634 772,636 814,637 856,639 898,640 941,642 983,644 1025,646 1067,647 1110,649 1152,650 1194,652 1236,653 1279,655"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="608,969 677,978 743,968 759,977 797,964 852,986 878,975 915,997 961,977 962,960 910,925 869,926 835,896 809,914 767,915 707,899 686,917 647,900 611,901"/>
+                <Baseline points="614,957 640,959 666,960 692,962 719,963 745,964 771,966 798,967 824,969 850,970 877,971 903,973 929,974 956,975"/>
+                <TextEquiv>
+                    <Unicode>Doña Ana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="596,1050 632,1047 651,1055 690,1048 754,1058 768,1049 829,1066 831,1022 764,980 733,1004 709,982 688,986 673,976 636,978 598,995"/>
+                <Baseline points="602,1037 629,1038 657,1039 685,1040 713,1041 741,1042 769,1044 797,1046 825,1048"/>
+                <TextEquiv>
+                    <Unicode>Criada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="597,1135 706,1132 726,1147 787,1138 814,1157 861,1137 956,1162 979,1156 982,1088 878,1058 834,1076 811,1058 778,1057 722,1079 705,1060 670,1071 646,1051 600,1054"/>
+                <Baseline points="603,1117 629,1118 656,1120 682,1122 709,1123 735,1124 762,1125 788,1126 815,1127 841,1128 868,1129 894,1130 921,1131 947,1133 974,1134"/>
+                <TextEquiv>
+                    <Unicode>Don Tadeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="593,1218 639,1208 708,1231 754,1212 803,1233 855,1230 886,1251 918,1226 1040,1226 1042,1184 981,1154 953,1166 913,1148 813,1157 787,1138 750,1157 697,1140 672,1158 654,1140 596,1137"/>
+                <Baseline points="599,1196 624,1198 650,1200 675,1202 701,1204 727,1205 752,1207 778,1208 804,1209 829,1210 855,1210 881,1211 906,1212 932,1213 958,1214 983,1214 1009,1215 1035,1216"/>
+                <TextEquiv>
+                    <Unicode>Don Luquete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="599,1309 643,1320 663,1339 693,1322 721,1325 741,1307 782,1310 819,1331 851,1307 903,1313 907,1250 882,1253 862,1236 825,1229 798,1239 772,1219 733,1214 707,1233 662,1233 631,1213 603,1220"/>
+                <Baseline points="606,1278 632,1281 659,1282 685,1283 712,1284 739,1285 765,1286 792,1287 819,1288 845,1290 872,1293 899,1298"/>
+                <TextEquiv>
+                    <Unicode>Un Page.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PERSONAS.
+Doña Ana.
+Criada.
+Don Tadeo.
+Don Luquete.
+Un Page.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

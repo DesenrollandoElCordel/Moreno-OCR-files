@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T15:54:01.623+01:00</Created>
+        <LastChange>2020-12-08T16:07:36.047+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525402" pageId="22319933" pageNr="81" tsid="50192177" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=AOERNHJHSDTJUTBMAFKIVZLW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTNGLIRHCBNDJJBPJMBDCAQW" imageId="17389448"/>
+    </Metadata>
+    <Page imageFilename="Moreno_376_1.jpeg" imageWidth="925" imageHeight="1293">
+        <PrintSpace>
+            <Coords points="0,0 924,0 924,1251 0,1251"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607440150991" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="604,71 725,71 725,100 604,100"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="604,144 633,143 663,143 692,144 722,145 722,0 692,0 663,0 633,0 604,0"/>
+                <Baseline points="604,94 633,93 663,93 692,94 722,95"/>
+                <TextEquiv>
+                    <Unicode>Núm. 339.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 339.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="198,97 476,94 473,522 195,525"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="117,532 783,532 783,614 117,614"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="306,565 333,565 360,566 387,566 414,567 441,567 468,568 495,568 522,569 549,569 576,570 604,571 604,541 576,540 549,539 522,539 495,538 468,538 441,537 414,537 387,536 360,536 333,535 306,535"/>
+                <Baseline points="306,555 333,555 360,556 387,556 414,557 441,557 468,558 495,558 522,559 549,559 576,560 604,561"/>
+                <TextEquiv>
+                    <Unicode>COPLAS NUEVAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="123,597 155,599 188,600 220,601 253,602 286,603 318,604 351,605 383,606 416,606 449,607 481,608 514,608 546,609 579,610 612,611 644,612 677,613 709,614 742,615 775,616 775,586 742,585 709,584 677,583 644,582 612,581 579,580 546,579 514,578 481,578 449,577 416,576 383,576 351,575 318,574 286,573 253,572 220,571 188,570 155,569 123,567"/>
+                <Baseline points="123,587 155,589 188,590 220,591 253,592 286,593 318,594 351,595 383,596 416,596 449,597 481,598 514,598 546,599 579,600 612,601 644,602 677,603 709,604 742,605 775,606"/>
+                <TextEquiv>
+                    <Unicode>PARA CANTAR LOS AFICIONADOS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>COPLAS NUEVAS
+PARA CANTAR LOS AFICIONADOS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="81,624 431,624 431,1170 81,1170"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="131,653 158,655 186,656 213,658 241,658 268,659 296,659 323,660 351,661 379,662 379,632 351,631 323,630 296,629 268,629 241,628 213,628 186,626 158,625 131,623"/>
+                <Baseline points="131,643 158,645 186,646 213,648 241,648 268,649 296,649 323,650 351,651 379,652"/>
+                <TextEquiv>
+                    <Unicode>En una maceta hermosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="101,680 127,680 153,681 179,681 206,681 232,682 258,682 284,683 311,684 337,685 363,686 390,687 390,657 363,656 337,655 311,654 284,653 258,652 232,652 206,651 179,651 153,651 127,650 101,650"/>
+                <Baseline points="101,670 127,670 153,671 179,671 206,671 232,672 258,672 284,673 311,674 337,675 363,676 390,677"/>
+                <TextEquiv>
+                    <Unicode>yo sembré, y otro sembró,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="103,702 128,702 154,703 179,704 205,704 231,705 256,706 282,706 308,706 308,676 282,676 256,676 231,675 205,674 179,674 154,673 128,672 103,672"/>
+                <Baseline points="103,692 128,692 154,693 179,694 205,694 231,695 256,696 282,696 308,696"/>
+                <TextEquiv>
+                    <Unicode>solo una rosa se dió.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="108,726 134,727 161,727 187,728 214,729 241,730 267,731 294,732 321,733 347,733 374,734 401,734 401,704 374,704 347,703 321,703 294,702 267,701 241,700 214,699 187,698 161,697 134,697 108,696"/>
+                <Baseline points="108,716 134,717 161,717 187,718 214,719 241,720 267,721 294,722 321,723 347,723 374,724 401,724"/>
+                <TextEquiv>
+                    <Unicode>¿de quién podrá ser la rosa?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="129,753 154,752 179,752 204,753 229,754 254,755 279,756 304,757 329,757 354,758 379,757 379,727 354,728 329,727 304,727 279,726 254,725 229,724 204,723 179,722 154,722 129,723"/>
+                <Baseline points="129,743 154,742 179,742 204,743 229,744 254,745 279,746 304,747 329,747 354,748 379,747"/>
+                <TextEquiv>
+                    <Unicode>Quise para mayor pena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="106,776 131,776 156,776 181,776 206,776 231,777 256,778 281,779 306,781 332,782 332,752 306,751 281,749 256,748 231,747 206,746 181,746 156,746 131,746 106,746"/>
+                <Baseline points="106,766 131,766 156,766 181,766 206,766 231,767 256,768 281,769 306,771 332,772"/>
+                <TextEquiv>
+                    <Unicode>y para mas confusion,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="100,801 125,799 150,799 175,799 200,800 225,801 250,802 275,804 300,804 326,803 326,773 300,774 275,774 250,772 225,771 200,770 175,769 150,769 125,769 100,771"/>
+                <Baseline points="100,791 125,789 150,789 175,789 200,790 225,791 250,792 275,794 300,794 326,793"/>
+                <TextEquiv>
+                    <Unicode>poner toda mi aficion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="98,823 123,824 148,824 174,824 199,825 224,825 250,826 275,827 300,829 326,830 326,800 300,799 275,797 250,796 224,795 199,795 174,794 148,794 123,794 98,793"/>
+                <Baseline points="98,813 123,814 148,814 174,814 199,815 224,815 250,816 275,817 300,819 326,820"/>
+                <TextEquiv>
+                    <Unicode>en una maceta agena;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="100,847 127,847 154,848 181,848 208,849 235,850 262,851 289,852 316,853 343,855 370,856 370,826 343,825 316,823 289,822 262,821 235,820 208,819 181,818 154,818 127,817 100,817"/>
+                <Baseline points="100,837 127,837 154,838 181,838 208,839 235,840 262,841 289,842 316,843 343,845 370,846"/>
+                <TextEquiv>
+                    <Unicode>como la tierra era buena,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="104,870 129,871 155,871 181,872 207,873 233,873 258,874 284,875 310,876 336,877 362,879 362,849 336,847 310,846 284,845 258,844 233,843 207,843 181,842 155,841 129,841 104,840"/>
+                <Baseline points="104,860 129,861 155,861 181,862 207,863 233,863 258,864 284,865 310,866 336,867 362,869"/>
+                <TextEquiv>
+                    <Unicode>nueva fecunda y viciosa, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="94,894 119,895 145,896 171,897 197,897 223,898 249,899 275,899 301,900 327,901 353,903 379,904 379,874 353,873 327,871 301,870 275,869 249,869 223,868 197,867 171,867 145,866 119,865 94,864"/>
+                <Baseline points="94,884 119,885 145,886 171,887 197,887 223,888 249,889 275,889 301,890 327,891 353,893 379,894"/>
+                <TextEquiv>
+                    <Unicode>busqué la ocasion dichosa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="107,921 134,921 161,920 188,921 215,921 243,922 270,923 297,924 324,925 352,927 352,897 324,895 297,894 270,893 243,892 215,891 188,891 161,890 134,891 107,891"/>
+                <Baseline points="107,911 134,911 161,910 188,911 215,911 243,912 270,913 297,914 324,915 352,917"/>
+                <TextEquiv>
+                    <Unicode>y tambien ancho lugar, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="97,945 124,945 152,944 179,944 207,945 234,946 262,947 289,948 317,949 345,949 345,919 317,919 289,918 262,917 234,916 207,915 179,914 152,914 124,915 97,915"/>
+                <Baseline points="97,935 124,935 152,934 179,934 207,935 234,936 262,937 289,938 317,939 345,939"/>
+                <TextEquiv>
+                    <Unicode>por la semilla sembrar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="101,966 126,967 151,968 177,969 202,969 228,970 253,971 278,972 304,973 329,974 355,976 355,946 329,944 304,943 278,942 253,941 228,940 202,939 177,939 151,938 126,937 101,936"/>
+                <Baseline points="101,956 126,957 151,958 177,959 202,959 228,960 253,961 278,962 304,963 329,964 355,966"/>
+                <TextEquiv>
+                    <Unicode>en una maceta hermosa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="122,993 147,992 173,992 199,992 225,994 251,995 276,996 302,997 328,998 354,999 380,999 406,999 406,969 380,969 354,969 328,968 302,967 276,966 251,965 225,964 199,962 173,962 147,962 122,963"/>
+                <Baseline points="122,983 147,982 173,982 199,982 225,984 251,985 276,986 302,987 328,988 354,989 380,989 406,989"/>
+                <TextEquiv>
+                    <Unicode>Que otro sembró considero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="103,1018 130,1017 157,1016 185,1017 212,1017 239,1019 267,1020 294,1021 321,1022 349,1022 349,992 321,992 294,991 267,990 239,989 212,987 185,987 157,986 130,987 103,988"/>
+                <Baseline points="103,1008 130,1007 157,1006 185,1007 212,1007 239,1009 267,1010 294,1011 321,1012 349,1012"/>
+                <TextEquiv>
+                    <Unicode>(gran confusion es la mia)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="97,1039 122,1040 148,1040 174,1040 200,1041 226,1042 252,1043 278,1044 304,1045 330,1047 356,1048 382,1050 382,1020 356,1018 330,1017 304,1015 278,1014 252,1013 226,1012 200,1011 174,1010 148,1010 122,1010 97,1009"/>
+                <Baseline points="97,1029 122,1030 148,1030 174,1030 200,1031 226,1032 252,1033 278,1034 304,1035 330,1037 356,1038 382,1040"/>
+                <TextEquiv>
+                    <Unicode>si antes que yo sembraria,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="101,1063 128,1064 155,1064 182,1065 209,1066 237,1067 264,1069 291,1070 318,1070 345,1071 373,1072 373,1042 345,1041 318,1040 291,1040 264,1039 237,1037 209,1036 182,1035 155,1034 128,1034 101,1033"/>
+                <Baseline points="101,1053 128,1054 155,1054 182,1055 209,1056 237,1057 264,1059 291,1060 318,1060 345,1061 373,1062"/>
+                <TextEquiv>
+                    <Unicode>ó si sembré yo primero:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l19" custom="readingOrder {index:18;}">
+                <Coords points="96,1087 121,1087 146,1088 172,1089 197,1090 222,1090 248,1092 273,1092 298,1094 324,1095 324,1065 298,1064 273,1062 248,1062 222,1060 197,1060 172,1059 146,1058 121,1057 96,1057"/>
+                <Baseline points="96,1077 121,1077 146,1078 172,1079 197,1080 222,1080 248,1082 273,1082 298,1084 324,1085"/>
+                <TextEquiv>
+                    <Unicode>mas él como jardinero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l20" custom="readingOrder {index:19;}">
+                <Coords points="91,1111 117,1111 144,1112 171,1112 198,1113 225,1115 251,1116 278,1117 305,1118 332,1119 359,1121 386,1122 386,1092 359,1091 332,1089 305,1088 278,1087 251,1086 225,1085 198,1083 171,1082 144,1082 117,1081 91,1081"/>
+                <Baseline points="91,1101 117,1101 144,1102 171,1102 198,1103 225,1105 251,1106 278,1107 305,1108 332,1109 359,1111 386,1112"/>
+                <TextEquiv>
+                    <Unicode>sembrar pudo antes que yo; </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l21" custom="readingOrder {index:20;}">
+                <Coords points="98,1135 124,1136 150,1137 176,1137 202,1138 228,1139 254,1140 280,1142 306,1143 333,1146 333,1116 306,1113 280,1112 254,1110 228,1109 202,1108 176,1107 150,1107 124,1106 98,1105"/>
+                <Baseline points="98,1125 124,1126 150,1127 176,1127 202,1128 228,1129 254,1130 280,1132 306,1133 333,1136"/>
+                <TextEquiv>
+                    <Unicode>pero no lo afirmó, no,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l22" custom="readingOrder {index:21;}">
+                <Coords points="97,1160 122,1160 148,1161 173,1162 199,1162 225,1164 250,1165 276,1166 302,1168 327,1168 353,1169 379,1169 379,1139 353,1139 327,1138 302,1138 276,1136 250,1135 225,1134 199,1132 173,1132 148,1131 122,1130 97,1130"/>
+                <Baseline points="97,1150 122,1150 148,1151 173,1152 199,1152 225,1154 250,1155 276,1156 302,1158 327,1158 353,1159 379,1159"/>
+                <TextEquiv>
+                    <Unicode>de que él el primero fué;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En una maceta hermosa
+yo sembré, y otro sembró,
+solo una rosa se dió.
+¿de quién podrá ser la rosa?
+Quise para mayor pena
+y para mas confusion,
+poner toda mi aficion
+en una maceta agena;
+como la tierra era buena,
+nueva fecunda y viciosa, 
+busqué la ocasion dichosa,
+y tambien ancho lugar, 
+por la semilla sembrar
+en una maceta hermosa.
+Que otro sembró considero
+(gran confusion es la mia)
+si antes que yo sembraria,
+ó si sembré yo primero:
+mas él como jardinero
+sembrar pudo antes que yo; 
+pero no lo afirmó, no,
+de que él el primero fué;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;}">
+            <Coords points="446,633 816,633 816,1184 446,1184"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="466,664 492,664 519,665 546,666 573,667 600,668 627,669 654,670 681,670 708,671 708,641 681,640 654,640 627,639 600,638 573,637 546,636 519,635 492,634 466,634"/>
+                <Baseline points="466,654 492,654 519,655 546,656 573,657 600,658 627,659 654,660 681,660 708,661"/>
+                <TextEquiv>
+                    <Unicode>solo puedo decir, que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="473,689 499,689 526,690 552,691 579,691 605,693 632,694 658,695 685,695 711,696 738,696 738,666 711,666 685,665 658,665 632,664 605,663 579,661 552,661 526,660 499,659 473,659"/>
+                <Baseline points="473,679 499,679 526,680 552,681 579,681 605,683 632,684 658,685 685,685 711,686 738,686"/>
+                <TextEquiv>
+                    <Unicode>yo sembré y otro sembró.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="492,714 518,714 544,715 570,715 597,716 623,717 649,718 675,718 702,719 728,721 754,722 780,723 807,724 807,694 780,693 754,692 728,691 702,689 675,688 649,688 623,687 597,686 570,685 544,685 518,684 492,684"/>
+                <Baseline points="492,704 518,704 544,705 570,705 597,706 623,707 649,708 675,708 702,709 728,711 754,712 780,713 807,714"/>
+                <TextEquiv>
+                    <Unicode>Siendo dos los sembradores, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="471,736 497,738 524,738 551,739 578,739 604,740 631,741 658,742 685,744 712,745 712,715 685,714 658,712 631,711 604,710 578,709 551,709 524,708 497,708 471,706"/>
+                <Baseline points="471,726 497,728 524,728 551,729 578,729 604,730 631,731 658,732 685,734 712,735"/>
+                <TextEquiv>
+                    <Unicode>claro se deja entender, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="471,761 497,762 523,762 549,763 576,764 602,764 628,765 654,766 681,767 681,737 654,736 628,735 602,734 576,734 549,733 523,732 497,732 471,731"/>
+                <Baseline points="471,751 497,752 523,752 549,753 576,754 602,754 628,755 654,756 681,757"/>
+                <TextEquiv>
+                    <Unicode>que no podia nacer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="464,786 489,786 515,787 540,787 566,788 592,789 617,789 643,790 669,791 694,792 720,793 746,794 746,764 720,763 694,762 669,761 643,760 617,759 592,759 566,758 540,757 515,757 489,756 464,756"/>
+                <Baseline points="464,776 489,776 515,777 540,777 566,778 592,779 617,779 643,780 669,781 694,782 720,783 746,784"/>
+                <TextEquiv>
+                    <Unicode>una flor, sino dos flores:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="459,809 484,809 509,810 534,810 560,811 585,812 610,812 635,814 661,814 686,815 711,815 737,816 737,786 711,785 686,785 661,784 635,784 610,782 585,782 560,781 534,780 509,780 484,779 459,779"/>
+                <Baseline points="459,799 484,799 509,800 534,800 560,801 585,802 610,802 635,804 661,804 686,805 711,805 737,806"/>
+                <TextEquiv>
+                    <Unicode>aquí crecen mis temores</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l8" custom="readingOrder {index:7;}">
+                <Coords points="468,832 495,833 522,834 549,835 576,836 603,837 630,837 657,838 684,839 711,841 738,842 765,844 792,846 792,816 765,814 738,812 711,811 684,809 657,808 630,807 603,807 576,806 549,805 522,804 495,803 468,802"/>
+                <Baseline points="468,822 495,823 522,824 549,825 576,826 603,827 630,827 657,828 684,829 711,831 738,832 765,834 792,836"/>
+                <TextEquiv>
+                    <Unicode>viendo que cuando él sembró, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l9" custom="readingOrder {index:8;}">
+                <Coords points="464,857 489,858 515,859 541,860 566,861 592,861 618,862 643,863 669,864 695,864 695,834 669,834 643,833 618,832 592,831 566,831 541,830 515,829 489,828 464,827"/>
+                <Baseline points="464,847 489,848 515,849 541,850 566,851 592,851 618,852 643,853 669,854 695,854"/>
+                <TextEquiv>
+                    <Unicode>ninguna flor le nació</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l10" custom="readingOrder {index:9;}">
+                <Coords points="467,882 492,883 517,883 542,884 567,885 593,885 618,886 643,887 668,888 693,889 719,890 719,860 693,859 668,858 643,857 618,856 593,855 567,855 542,854 517,853 492,853 467,852"/>
+                <Baseline points="467,872 492,873 517,873 542,874 567,875 593,875 618,876 643,877 668,878 693,879 719,880"/>
+                <TextEquiv>
+                    <Unicode>siendo maceta tan bella, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l11" custom="readingOrder {index:10;}">
+                <Coords points="474,906 500,907 527,907 553,908 580,908 606,909 633,910 659,911 686,912 712,913 739,914 766,915 766,885 739,884 712,883 686,882 659,881 633,880 606,879 580,878 553,878 527,877 500,877 474,876"/>
+                <Baseline points="474,896 500,897 527,897 553,898 580,898 606,899 633,900 659,901 686,902 712,903 739,904 766,905"/>
+                <TextEquiv>
+                    <Unicode> al sembrar los dos en ella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l12" custom="readingOrder {index:11;}">
+                <Coords points="465,930 490,930 515,931 540,932 565,933 590,934 615,935 640,936 665,937 690,938 690,908 665,907 640,906 615,905 590,904 565,903 540,902 515,901 490,900 465,900"/>
+                <Baseline points="465,920 490,920 515,921 540,922 565,923 590,924 615,925 640,926 665,927 690,928"/>
+                <TextEquiv>
+                    <Unicode>solo una rosa se dió.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l13" custom="readingOrder {index:12;}">
+                <Coords points="486,955 513,956 540,956 568,957 595,958 623,959 650,960 678,961 705,962 733,963 733,933 705,932 678,931 650,930 623,929 595,928 568,927 540,926 513,926 486,925"/>
+                <Baseline points="486,945 513,946 540,946 568,947 595,948 623,949 650,950 678,951 705,952 733,953"/>
+                <TextEquiv>
+                    <Unicode>Nunca de los dos podia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l14" custom="readingOrder {index:13;}">
+                <Coords points="462,978 487,979 513,980 539,980 565,981 591,982 617,983 643,984 669,986 695,987 695,957 669,956 643,954 617,953 591,952 565,951 539,950 513,950 487,949 462,948"/>
+                <Baseline points="462,968 487,969 513,970 539,970 565,971 591,972 617,973 643,974 669,976 695,977"/>
+                <TextEquiv>
+                    <Unicode>solo una rosa brotar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l15" custom="readingOrder {index:14;}">
+                <Coords points="465,1006 490,1005 515,1004 541,1004 566,1004 591,1005 617,1006 642,1008 668,1010 668,980 642,978 617,976 591,975 566,974 541,974 515,974 490,975 465,976"/>
+                <Baseline points="465,996 490,995 515,994 541,994 566,994 591,995 617,996 642,998 668,1000"/>
+                <TextEquiv>
+                    <Unicode>y quisiera averiguar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l16" custom="readingOrder {index:15;}">
+                <Coords points="461,1028 487,1028 513,1028 539,1029 565,1030 591,1031 618,1032 644,1033 670,1035 696,1036 722,1037 749,1038 749,1008 722,1007 696,1006 670,1005 644,1003 618,1002 591,1001 565,1000 539,999 513,998 487,998 461,998"/>
+                <Baseline points="461,1018 487,1018 513,1018 539,1019 565,1020 591,1021 618,1022 644,1023 670,1025 696,1026 722,1027 749,1028"/>
+                <TextEquiv>
+                    <Unicode>de quién de los dos seria;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l17" custom="readingOrder {index:16;}">
+                <Coords points="466,1052 492,1052 519,1052 546,1053 573,1053 600,1054 627,1056 654,1057 681,1058 708,1059 735,1060 735,1030 708,1029 681,1028 654,1027 627,1026 600,1024 573,1023 546,1023 519,1022 492,1022 466,1022"/>
+                <Baseline points="466,1042 492,1042 519,1042 546,1043 573,1043 600,1044 627,1046 654,1047 681,1048 708,1049 735,1050"/>
+                <TextEquiv>
+                    <Unicode>pues si de él nada nacia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l18" custom="readingOrder {index:17;}">
+                <Coords points="468,1075 493,1076 519,1076 545,1077 571,1078 597,1079 622,1080 648,1081 674,1083 700,1084 726,1085 726,1055 700,1054 674,1053 648,1051 622,1050 597,1049 571,1048 545,1047 519,1046 493,1046 468,1045"/>
+                <Baseline points="468,1065 493,1066 519,1066 545,1067 571,1068 597,1069 622,1070 648,1071 674,1073 700,1074 726,1075"/>
+                <TextEquiv>
+                    <Unicode>por su semilla enconosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l19" custom="readingOrder {index:18;}">
+                <Coords points="466,1099 493,1100 521,1101 549,1102 576,1103 604,1105 632,1106 659,1107 687,1108 715,1109 715,1079 687,1078 659,1077 632,1076 604,1075 576,1073 549,1072 521,1071 493,1070 466,1069"/>
+                <Baseline points="466,1089 493,1090 521,1091 549,1092 576,1093 604,1095 632,1096 659,1097 687,1098 715,1099"/>
+                <TextEquiv>
+                    <Unicode>ó su siembra maliciosa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l20" custom="readingOrder {index:19;}">
+                <Coords points="461,1124 488,1124 515,1125 542,1126 569,1127 596,1128 623,1130 650,1130 677,1131 704,1132 731,1133 759,1133 759,1103 731,1103 704,1102 677,1101 650,1100 623,1100 596,1098 569,1097 542,1096 515,1095 488,1094 461,1094"/>
+                <Baseline points="461,1114 488,1114 515,1115 542,1116 569,1117 596,1118 623,1120 650,1120 677,1121 704,1122 731,1123 759,1123"/>
+                <TextEquiv>
+                    <Unicode>siendo los dos sembradores, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l21" custom="readingOrder {index:20;}">
+                <Coords points="468,1149 493,1149 519,1150 544,1150 570,1151 595,1152 621,1153 646,1154 672,1155 698,1155 698,1125 672,1125 646,1124 621,1123 595,1122 570,1121 544,1120 519,1120 493,1119 468,1119"/>
+                <Baseline points="468,1139 493,1139 519,1140 544,1140 570,1141 595,1142 621,1143 646,1144 672,1145 698,1145"/>
+                <TextEquiv>
+                    <Unicode>por esto digo, señores:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l22" custom="readingOrder {index:21;}">
+                <Coords points="457,1174 483,1175 509,1175 535,1176 561,1177 587,1177 614,1178 640,1179 666,1180 692,1181 718,1182 745,1183 745,1153 718,1152 692,1151 666,1150 640,1149 614,1148 587,1147 561,1147 535,1146 509,1145 483,1145 457,1144"/>
+                <Baseline points="457,1164 483,1165 509,1165 535,1166 561,1167 587,1167 614,1168 640,1169 666,1170 692,1171 718,1172 745,1173"/>
+                <TextEquiv>
+                    <Unicode>¿de quién podrá ser la rosa?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>solo puedo decir, que
+yo sembré y otro sembró.
+Siendo dos los sembradores, 
+claro se deja entender, 
+que no podia nacer
+una flor, sino dos flores:
+aquí crecen mis temores
+viendo que cuando él sembró, 
+ninguna flor le nació
+siendo maceta tan bella, 
+ al sembrar los dos en ella
+solo una rosa se dió.
+Nunca de los dos podia
+solo una rosa brotar,
+y quisiera averiguar
+de quién de los dos seria;
+pues si de él nada nacia
+por su semilla enconosa
+ó su siembra maliciosa,
+siendo los dos sembradores, 
+por esto digo, señores:
+¿de quién podrá ser la rosa?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1607095511307_8063" custom="readingOrder {index:5;}">
+            <Coords points="714,538 483,538 483,193 714,193"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
