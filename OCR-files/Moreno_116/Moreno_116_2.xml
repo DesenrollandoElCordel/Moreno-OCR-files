@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-09T10:43:44.744+01:00</Created>
+        <LastChange>2020-11-10T15:29:39.069+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525371" pageId="22317997" pageNr="126" tsid="48494482" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=YRBOPRDLFMWLMPPPAZHLLPRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FETXPZOLLZGLLGVWCNCYHQWJ" imageId="17387520"/>
+    </Metadata>
+    <Page imageFilename="Moreno_116_2.jpg" imageWidth="1765" imageHeight="2512">
+        <PrintSpace>
+            <Coords points="0,0 1765,0 1765,2512 0,2512"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606755300454" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="726,974 1108,974 1108,1058 726,1058"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="727,1094 753,1094 779,1093 805,1093 831,1092 857,1091 883,1090 909,1090 935,1089 961,1089 987,1088 1013,1088 1039,1088 1065,1088 1091,1089 1091,939 1065,938 1039,938 1013,938 987,938 961,939 935,939 909,940 883,940 857,941 831,942 805,943 779,943 753,944 727,944"/>
+                <Baseline points="727,1044 753,1044 779,1043 805,1043 831,1042 857,1041 883,1040 909,1040 935,1039 961,1039 987,1038 1013,1038 1039,1038 1065,1038 1091,1039"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PERSONAS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="518,1144 1108,1144 1108,1520 518,1520"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="518,1240 547,1239 576,1238 605,1237 634,1236 663,1235 692,1234 721,1233 750,1233 779,1232 808,1231 837,1231 866,1230 895,1229 924,1228 953,1227 982,1227 1011,1226 1040,1225 1069,1223 1099,1222 1099,1173 1069,1174 1040,1176 1011,1177 982,1178 953,1178 924,1179 895,1180 866,1181 837,1182 808,1182 779,1183 750,1184 721,1184 692,1185 663,1186 634,1187 605,1188 576,1189 547,1190 518,1191"/>
+                <Baseline points="518,1224 547,1223 576,1222 605,1221 634,1220 663,1219 692,1218 721,1217 750,1217 779,1216 808,1215 837,1215 866,1214 895,1213 924,1212 953,1211 982,1211 1011,1210 1040,1209 1069,1207 1099,1206"/>
+                <TextEquiv>
+                    <Unicode>ANTON, esposo de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="520,1308 546,1307 573,1307 600,1306 627,1306 654,1305 681,1305 708,1306 708,1257 681,1256 654,1256 627,1257 600,1257 573,1258 546,1258 520,1259"/>
+                <Baseline points="520,1292 546,1291 573,1291 600,1290 627,1290 654,1289 681,1289 708,1290"/>
+                <TextEquiv>
+                    <Unicode>GILA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="525,1378 551,1379 577,1379 604,1379 630,1378 657,1377 683,1376 709,1375 736,1374 762,1373 789,1372 815,1372 841,1372 868,1372 894,1373 921,1375 921,1324 894,1322 868,1321 841,1321 815,1321 789,1321 762,1322 736,1323 709,1324 683,1325 657,1326 630,1327 604,1328 577,1328 551,1328 525,1327"/>
+                <Baseline points="525,1361 551,1362 577,1362 604,1362 630,1361 657,1360 683,1359 709,1358 736,1357 762,1356 789,1355 815,1355 841,1355 868,1355 894,1356 921,1358"/>
+                <TextEquiv>
+                    <Unicode>SACRISTAN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="517,1453 543,1452 570,1451 596,1450 623,1449 650,1447 676,1446 703,1445 729,1444 756,1444 783,1443 809,1443 836,1444 863,1444 863,1393 836,1393 809,1392 783,1392 756,1393 729,1393 703,1394 676,1395 650,1396 623,1398 596,1399 570,1400 543,1401 517,1402"/>
+                <Baseline points="517,1436 543,1435 570,1434 596,1433 623,1432 650,1430 676,1429 703,1428 729,1427 756,1427 783,1426 809,1426 836,1427 863,1427"/>
+                <TextEquiv>
+                    <Unicode>ALCALDE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="525,1525 552,1524 580,1523 607,1522 635,1520 662,1519 690,1517 717,1517 745,1517 773,1517 773,1466 745,1466 717,1466 690,1466 662,1468 635,1469 607,1471 580,1472 552,1473 525,1474"/>
+                <Baseline points="525,1508 552,1507 580,1506 607,1505 635,1503 662,1502 690,1500 717,1500 745,1500 773,1500"/>
+                <TextEquiv>
+                    <Unicode>PAYOS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ANTON, esposo de
+GILA.
+SACRISTAN.
+ALCALDE.
+PAYOS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
