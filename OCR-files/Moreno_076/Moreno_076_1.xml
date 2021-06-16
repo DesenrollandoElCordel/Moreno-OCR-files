@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-27T16:22:02.787+01:00</Created>
+        <LastChange>2020-12-08T13:57:47.611+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525366" pageId="22317783" pageNr="65" tsid="50185574" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=KNGQMYOSEPEBLXRRPLLSUMQF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ASWXOJRNVWZBDOODJXYLDMKE" imageId="17387306"/>
+    </Metadata>
+    <Page imageFilename="Moreno_076_1.jpeg" imageWidth="1752" imageHeight="2480">
+        <PrintSpace>
+            <Coords points="0,0 1622,0 1622,2364 0,2364"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607435573675" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+                <RegionRefIndexed index="5" regionRef="r_6_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="1289,259 1537,259 1537,318 1289,318"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1308,303 1357,301 1390,316 1418,305 1432,314 1465,310 1481,321 1499,312 1540,316 1542,264 1468,263 1449,275 1417,279 1373,264 1337,232 1312,234"/>
+                <Baseline points="1315,296 1342,298 1369,301 1397,303 1424,304 1451,305 1479,306 1506,306 1534,305"/>
+                <TextEquiv>
+                    <Unicode>Número 87.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Número 87.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="440,312 1395,312 1395,1671 440,1671"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="405,1677 1480,1677 1480,2044 405,2044"/>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:0;}">
+                <Coords points="649,1755 868,1767 1001,1748 1177,1768 1176,1714 1103,1692 927,1688 893,1711 854,1693 649,1704"/>
+                <Baseline points="655,1740 680,1741 706,1742 732,1743 758,1743 783,1743 809,1743 835,1743 861,1743 886,1742 912,1742 938,1741 964,1741 989,1740 1015,1740 1041,1740 1067,1740 1092,1740 1118,1741 1144,1742 1170,1743"/>
+                <TextEquiv>
+                    <Unicode>ROMANCE ESPIRITUAL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:1;}">
+                <Coords points="641,1854 693,1861 735,1836 771,1865 854,1863 898,1836 983,1825 1052,1858 1161,1859 1198,1846 1198,1768 1028,1752 983,1798 944,1789 889,1810 640,1798"/>
+                <Baseline points="647,1833 674,1833 701,1833 728,1833 756,1833 783,1833 810,1832 837,1832 865,1832 892,1831 919,1831 946,1830 974,1830 1001,1829 1028,1829 1055,1829 1083,1829 1110,1829 1137,1829 1164,1830 1192,1831"/>
+                <TextEquiv>
+                    <Unicode>QUE ESPLICA LOS MISTERIOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:2;}">
+                <Coords points="407,1957 1368,1970 1430,1950 1431,1862 1132,1857 1064,1897 935,1851 907,1876 407,1866"/>
+                <Baseline points="413,1938 463,1940 514,1941 564,1942 615,1943 665,1944 716,1944 766,1944 817,1944 867,1943 918,1943 969,1943 1019,1943 1070,1942 1120,1942 1171,1943 1221,1943 1272,1944 1322,1945 1373,1947 1424,1948"/>
+                <TextEquiv>
+                    <Unicode>DE LA SANTISIMA TRINIDAD,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:3;}">
+                <Coords points="607,2048 672,2061 770,2039 864,2062 931,2040 1055,2061 1159,2046 1211,2065 1211,2007 1153,1972 1106,1999 607,1994"/>
+                <Baseline points="614,2034 643,2035 673,2035 702,2035 732,2035 761,2035 791,2035 820,2035 850,2035 879,2035 909,2035 938,2034 968,2034 997,2034 1027,2034 1056,2035 1086,2035 1115,2035 1145,2036 1174,2037 1204,2038"/>
+                <TextEquiv>
+                    <Unicode>POR FRANCISCO GALLEGOS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ROMANCE ESPIRITUAL
+QUE ESPLICA LOS MISTERIOS
+DE LA SANTISIMA TRINIDAD,
+POR FRANCISCO GALLEGOS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="693,2079 1135,2079 1135,2124 693,2124"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="689,2150 740,2140 879,2155 1029,2132 1077,2151 1136,2144 1136,2068 1029,2054 955,2079 910,2059 845,2063 819,2045 749,2061 729,2042 690,2048"/>
+                <Baseline points="696,2111 721,2111 747,2112 772,2113 798,2113 823,2113 849,2113 874,2113 900,2113 925,2113 951,2113 976,2113 1002,2113 1027,2113 1053,2114 1078,2114 1104,2115 1130,2116"/>
+                <TextEquiv>
+                    <Unicode>PRIMERA PARTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PRIMERA PARTE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;}">
+            <Coords points="196,2152 803,2152 803,2361 196,2361"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="234,2193 473,2211 632,2192 785,2214 800,2150 558,2158 471,2141 299,2164 234,2146"/>
+                <Baseline points="240,2191 267,2191 295,2192 322,2192 350,2192 378,2193 405,2193 433,2193 461,2193 488,2193 516,2193 544,2194 571,2194 599,2194 627,2195 654,2195 682,2196 710,2197 737,2198 765,2199 793,2200"/>
+                <TextEquiv>
+                    <Unicode>No os admirè el conocer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="197,2251 732,2259 733,2206 717,2203 198,2200"/>
+                <Baseline points="204,2240 230,2240 256,2241 282,2241 308,2241 334,2242 360,2242 386,2242 412,2242 438,2242 465,2243 491,2243 517,2243 543,2244 569,2244 595,2245 621,2245 647,2246 673,2247 699,2248 726,2249"/>
+                <TextEquiv>
+                    <Unicode>mí envejecida apariencia;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="190,2300 300,2296 337,2316 415,2291 475,2312 501,2290 548,2309 714,2308 714,2260 699,2252 636,2264 489,2247 368,2267 191,2248"/>
+                <Baseline points="196,2291 221,2291 247,2291 272,2291 298,2291 324,2291 349,2291 375,2291 400,2291 426,2291 452,2291 477,2292 503,2292 528,2293 554,2293 580,2294 605,2295 631,2295 656,2296 682,2297 708,2298"/>
+                <TextEquiv>
+                    <Unicode>sabed que soy Jeremias,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="195,2353 236,2374 272,2354 432,2373 505,2348 556,2373 584,2354 691,2356 692,2307 672,2319 651,2301 549,2309 500,2291 474,2311 418,2294 333,2320 299,2297 251,2308 196,2296"/>
+                <Baseline points="202,2339 227,2340 252,2341 278,2341 303,2341 328,2342 354,2342 379,2342 404,2342 430,2343 455,2343 481,2343 506,2344 531,2344 557,2345 582,2345 607,2346 633,2347 658,2348 684,2349"/>
+                <TextEquiv>
+                    <Unicode>aquel antíguo Profeta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>No os admirè el conocer
+mí envejecida apariencia;
+sabed que soy Jeremias,
+aquel antíguo Profeta,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;}">
+            <Coords points="924,2157 1537,2157 1537,2364 924,2364"/>
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="929,2213 977,2218 1013,2195 1500,2214 1519,2206 1520,2151 1416,2164 1344,2136 1075,2166 1040,2136 930,2166"/>
+                <Baseline points="936,2197 964,2197 993,2197 1022,2197 1051,2197 1080,2197 1108,2197 1137,2197 1166,2198 1195,2198 1224,2199 1252,2199 1281,2200 1310,2200 1339,2201 1368,2201 1396,2202 1425,2202 1454,2203 1483,2203 1512,2203"/>
+                <TextEquiv>
+                    <Unicode>que desde la oscura carceb,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="928,2260 1022,2243 1121,2265 1158,2251 1191,2269 1234,2248 1455,2264 1495,2249 1495,2206 1440,2222 1375,2202 1333,2218 1216,2199 928,2218"/>
+                <Baseline points="934,2245 961,2245 989,2245 1017,2245 1044,2245 1072,2245 1100,2245 1127,2246 1155,2246 1183,2246 1211,2247 1238,2247 1266,2248 1294,2248 1321,2248 1349,2249 1377,2249 1404,2249 1432,2249 1460,2249 1488,2249"/>
+                <TextEquiv>
+                    <Unicode>con voz y lágrimas tiernas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="925,2308 1190,2307 1214,2290 1264,2306 1416,2306 1440,2299 1441,2261 1333,2250 1191,2269 1153,2252 1104,2268 1027,2250 1009,2268 993,2255 926,2267"/>
+                <Baseline points="932,2297 957,2296 982,2296 1007,2296 1032,2295 1057,2295 1082,2295 1107,2296 1132,2296 1157,2296 1183,2296 1208,2297 1233,2297 1258,2297 1283,2297 1308,2298 1333,2298 1358,2298 1383,2297 1408,2297 1434,2297"/>
+                <TextEquiv>
+                    <Unicode>anunciaba las desdichas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="918,2355 953,2371 995,2351 1066,2369 1218,2352 1453,2373 1537,2355 1537,2312 1294,2317 1212,2299 918,2315"/>
+                <Baseline points="924,2347 954,2346 984,2346 1014,2346 1045,2346 1075,2346 1105,2346 1136,2347 1166,2347 1196,2347 1227,2347 1257,2348 1287,2348 1317,2348 1348,2349 1378,2349 1408,2349 1439,2349 1469,2349 1499,2349 1530,2349"/>
+                <TextEquiv>
+                    <Unicode>antes que al mundo vinieran.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>que desde la oscura carceb,
+con voz y lágrimas tiernas
+anunciaba las desdichas
+antes que al mundo vinieran.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
