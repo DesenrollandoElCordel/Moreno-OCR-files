@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-27T16:22:28.951+01:00</Created>
+        <LastChange>2020-12-08T14:42:29.569+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525366" pageId="22317854" pageNr="132" tsid="50186391" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=FXBNDHWZFOSHHQIQIMWHSDRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WANWNZVBVFITXTTACUREMQUM" imageId="17387377"/>
+    </Metadata>
+    <Page imageFilename="Moreno_086_4.jpg" imageWidth="1765" imageHeight="2512">
+        <PrintSpace>
+            <Coords points="0,0 1765,0 1765,2512 0,2512"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607435578507" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="206,227 1619,227 1619,2198 206,2198"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="207,404 1502,372 1557,355 1555,232 875,211 204,254"/>
+                <Baseline points="214,368 280,367 347,366 414,365 481,364 547,363 614,361 681,360 748,358 814,356 881,354 948,353 1015,351 1081,350 1148,349 1215,348 1282,348 1348,347 1415,348 1482,348 1549,349"/>
+                <TextEquiv>
+                    <Unicode>CORONA DE ROSAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="276,491 1548,454 1578,411 1245,372 925,420 745,381 669,423 275,426"/>
+                <Baseline points="285,464 349,461 413,459 477,457 542,456 606,454 670,452 734,450 799,449 863,448 927,446 991,445 1056,444 1120,443 1184,442 1248,441 1313,440 1377,440 1441,439 1505,438 1570,438"/>
+                <TextEquiv>
+                    <Unicode>para que sus devotos adornen á María San-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;}">
+                <Coords points="270,536 1235,513 1284,542 1302,479 682,455 269,497"/>
+                <Baseline points="278,534 328,532 379,530 430,529 481,527 531,526 582,525 633,524 684,524 734,523 785,522 836,521 887,521 937,520 988,519 1039,518 1090,517 1140,516 1191,515 1242,513 1293,512"/>
+                <TextEquiv>
+                    <Unicode>tísima nuestra Madre y Señora.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l4" custom="readingOrder {index:3;}">
+                <Coords points="596,651 634,635 723,652 871,633 921,652 953,633 1036,638 1034,556 1012,553 963,579 901,574 863,592 823,572 707,601 595,584"/>
+                <Baseline points="604,632 630,631 656,631 683,630 709,630 736,629 762,628 789,628 815,627 841,627 868,626 894,626 921,626 947,625 974,625 1000,625 1027,625"/>
+                <TextEquiv>
+                    <Unicode>Para alabar á María</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l5" custom="readingOrder {index:4;}">
+                <Coords points="605,695 741,718 832,692 951,708 982,687 1040,707 1069,689 1176,690 1175,643 1120,634 954,636 921,655 845,637 605,645"/>
+                <Baseline points="613,684 640,684 668,684 696,684 723,684 751,683 779,683 806,683 834,682 862,682 890,682 917,682 945,681 973,681 1000,680 1028,680 1056,679 1083,679 1111,678 1139,678 1167,677"/>
+                <TextEquiv>
+                    <Unicode>Dadnos gracia en este dia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l6" custom="readingOrder {index:5;}">
+                <Coords points="550,788 630,803 693,788 769,806 815,785 838,807 904,785 927,799 1008,789 1007,746 962,748 929,728 809,742 694,726 632,744 550,735"/>
+                <Baseline points="559,787 584,787 610,787 636,786 662,786 688,786 714,785 740,785 766,784 791,784 817,784 843,783 869,783 895,783 921,782 947,782 973,782 999,782"/>
+                <TextEquiv>
+                    <Unicode>Maria Reina gloriosa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l7" custom="readingOrder {index:6;}">
+                <Coords points="553,876 620,879 752,830 826,838 871,875 969,838 1182,849 1181,785 1118,801 1025,773 994,794 845,807 552,794"/>
+                <Baseline points="561,841 591,840 622,840 652,839 683,839 714,838 744,838 775,838 805,837 836,837 867,837 897,837 928,836 958,836 989,835 1020,835 1050,834 1081,834 1111,833 1142,832 1173,831"/>
+                <TextEquiv>
+                    <Unicode>Mi amor te ofrece esta rosa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l8" custom="readingOrder {index:7;}">
+                <Coords points="272,969 1021,946 1219,986 1383,944 1590,977 1600,870 1219,893 1128,860 915,914 755,870 270,888"/>
+                <Baseline points="280,962 345,960 411,957 476,956 542,954 608,952 673,951 739,950 805,949 870,948 936,947 1002,946 1067,945 1133,944 1199,944 1264,943 1330,942 1396,941 1461,941 1527,940 1593,939"/>
+                <TextEquiv>
+                    <Unicode>Ahora se rezará un Ave María con Gloria Patri, y lo mismo en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l9" custom="readingOrder {index:8;}">
+                <Coords points="219,1020 278,1041 326,1016 448,1032 618,1006 739,1033 793,1013 847,1041 931,1012 930,967 218,979"/>
+                <Baseline points="227,1015 261,1014 296,1013 331,1012 366,1012 400,1011 435,1010 470,1009 505,1008 539,1007 574,1006 609,1005 644,1005 678,1004 713,1003 748,1003 783,1002 817,1002 852,1002 887,1001 922,1002"/>
+                <TextEquiv>
+                    <Unicode>cada uno de los versos siguientes:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l10" custom="readingOrder {index:9;}">
+                <Coords points="535,1125 1462,1113 1584,1100 1604,1060 534,1053"/>
+                <Baseline points="543,1109 595,1108 648,1107 700,1106 753,1105 806,1104 858,1103 911,1102 963,1102 1016,1101 1069,1100 1121,1100 1174,1099 1226,1098 1279,1098 1332,1097 1384,1096 1437,1095 1489,1095 1542,1094 1595,1093"/>
+                <TextEquiv>
+                    <Unicode>En tu Cencepcion dichosa, mi amor te ofrece etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l11" custom="readingOrder {index:10;}">
+                <Coords points="539,1169 1328,1176 1327,1116 1276,1111 538,1122"/>
+                <Baseline points="547,1161 585,1161 624,1160 662,1160 701,1159 740,1159 778,1158 817,1157 855,1157 894,1156 933,1155 971,1155 1010,1154 1048,1154 1087,1153 1126,1153 1164,1153 1203,1153 1241,1152 1280,1153 1319,1153"/>
+                <TextEquiv>
+                    <Unicode>Niña la mas primorosa, mí amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l12" custom="readingOrder {index:11;}">
+                <Coords points="534,1218 1254,1220 1292,1216 1292,1172 534,1182"/>
+                <Baseline points="542,1215 579,1215 616,1214 653,1213 690,1212 727,1212 764,1211 801,1210 838,1210 875,1209 912,1208 949,1208 986,1207 1023,1207 1060,1206 1097,1206 1134,1206 1171,1206 1208,1206 1245,1206 1283,1206"/>
+                <TextEquiv>
+                    <Unicode>Princesa Magestuosa, mi amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l13" custom="readingOrder {index:12;}">
+                <Coords points="538,1284 1272,1267 1285,1215 1063,1214 1002,1244 851,1214 692,1239 537,1227"/>
+                <Baseline points="547,1269 583,1268 620,1267 656,1266 693,1266 729,1265 766,1264 802,1263 839,1263 875,1262 912,1261 948,1261 985,1260 1021,1260 1058,1259 1094,1259 1131,1258 1167,1258 1204,1258 1240,1258 1277,1257"/>
+                <TextEquiv>
+                    <Unicode>Emperatriz Poderosa, mi amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l14" custom="readingOrder {index:13;}">
+                <Coords points="540,1336 1327,1322 1326,1277 1266,1263 1048,1290 539,1283"/>
+                <Baseline points="549,1321 587,1320 626,1320 664,1319 703,1319 741,1318 780,1317 818,1317 857,1316 895,1315 934,1315 972,1315 1011,1314 1049,1313 1088,1313 1126,1312 1165,1312 1203,1311 1242,1311 1280,1311 1319,1310"/>
+                <TextEquiv>
+                    <Unicode>Santa la mas milagrosa, mi amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l15" custom="readingOrder {index:14;}">
+                <Coords points="544,1383 1369,1381 1410,1370 1410,1329 544,1336"/>
+                <Baseline points="552,1377 594,1375 636,1374 679,1373 721,1372 764,1371 806,1370 849,1369 891,1369 934,1368 976,1368 1018,1367 1061,1367 1103,1366 1146,1366 1188,1366 1231,1365 1273,1365 1316,1364 1358,1363 1401,1363"/>
+                <TextEquiv>
+                    <Unicode>Luz de los Cielos hermosa, mí amor etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l16" custom="readingOrder {index:15;}">
+                <Coords points="544,1442 1386,1427 1385,1382 1334,1374 1163,1371 1100,1398 921,1371 543,1386"/>
+                <Baseline points="552,1428 593,1427 634,1426 675,1425 717,1424 758,1423 799,1423 840,1422 882,1421 923,1421 964,1420 1005,1420 1047,1420 1088,1419 1129,1419 1170,1419 1212,1418 1253,1418 1294,1418 1335,1417 1377,1417"/>
+                <TextEquiv>
+                    <Unicode>Mujer fuerte y victoriosa, mi amor etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l17" custom="readingOrder {index:16;}">
+                <Coords points="543,1489 1423,1483 1441,1433 542,1442"/>
+                <Baseline points="551,1481 595,1480 639,1479 683,1478 727,1477 771,1477 815,1476 859,1475 903,1475 947,1474 992,1474 1036,1473 1080,1473 1124,1472 1168,1472 1212,1471 1256,1471 1300,1471 1344,1470 1388,1470 1433,1470"/>
+                <TextEquiv>
+                    <Unicode>De Dios Padre Hija amorosa, mi amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l18" custom="readingOrder {index:17;}">
+                <Coords points="540,1540 1100,1549 1370,1523 1369,1485 1326,1482 1149,1483 1095,1509 1000,1480 539,1489"/>
+                <Baseline points="548,1534 588,1533 629,1532 669,1531 710,1531 751,1530 791,1530 832,1529 873,1529 913,1528 954,1528 995,1528 1035,1527 1076,1527 1117,1526 1157,1526 1198,1525 1239,1525 1279,1524 1320,1523 1361,1522"/>
+                <TextEquiv>
+                    <Unicode>De Jesus Madre Piadosa, mi amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l19" custom="readingOrder {index:18;}">
+                <Coords points="543,1594 1169,1604 1311,1575 1401,1598 1409,1537 542,1546"/>
+                <Baseline points="551,1587 593,1586 636,1586 678,1585 721,1584 763,1584 806,1583 848,1583 891,1582 933,1582 976,1581 1018,1581 1061,1580 1103,1580 1146,1579 1188,1579 1231,1578 1273,1578 1316,1578 1358,1577 1401,1577"/>
+                <TextEquiv>
+                    <Unicode>Del Santo Espíritu Esposa, mi amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l20" custom="readingOrder {index:19;}">
+                <Coords points="546,1655 1330,1656 1343,1600 545,1593"/>
+                <Baseline points="554,1641 593,1641 632,1640 671,1639 710,1639 749,1638 788,1638 827,1637 866,1636 905,1636 944,1635 983,1635 1022,1634 1061,1634 1100,1633 1139,1633 1178,1632 1217,1632 1256,1631 1295,1631 1335,1630"/>
+                <TextEquiv>
+                    <Unicode>Madre la mas amorosa, mí amor etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l21" custom="readingOrder {index:20;}">
+                <Coords points="602,1751 724,1749 761,1766 840,1746 900,1764 920,1748 1154,1739 1153,1696 1033,1683 925,1708 868,1704 809,1672 712,1706 644,1687 602,1705"/>
+                <Baseline points="611,1743 637,1743 664,1742 691,1741 717,1741 744,1740 771,1740 797,1739 824,1739 851,1738 878,1738 904,1737 931,1737 958,1737 984,1736 1011,1736 1038,1736 1064,1736 1091,1736 1118,1735 1145,1735"/>
+                <TextEquiv>
+                    <Unicode>Guirnalda de rosas bellas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l22" custom="readingOrder {index:21;}">
+                <Coords points="600,1810 1214,1800 1234,1793 1234,1742 600,1754"/>
+                <Baseline points="608,1796 638,1795 669,1794 700,1794 731,1793 762,1793 793,1792 823,1792 854,1792 885,1791 916,1791 947,1791 978,1790 1009,1790 1039,1790 1070,1790 1101,1790 1132,1789 1163,1789 1194,1789 1225,1788"/>
+                <TextEquiv>
+                    <Unicode>Pongo en tus sienes gloriosas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l23" custom="readingOrder {index:22;}">
+                <Coords points="603,1861 816,1869 854,1855 899,1871 1079,1849 1079,1818 1020,1796 984,1814 742,1799 603,1814"/>
+                <Baseline points="612,1848 637,1848 663,1847 688,1847 714,1847 739,1847 765,1846 790,1846 816,1846 841,1845 867,1845 892,1845 918,1844 943,1844 969,1844 994,1844 1020,1844 1045,1844 1071,1844"/>
+                <TextEquiv>
+                    <Unicode>María, logre por ellas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l24" custom="readingOrder {index:23;}">
+                <Coords points="598,1896 687,1917 955,1900 985,1918 1052,1903 1071,1920 1094,1903 1151,1914 1151,1866 979,1853 963,1869 712,1858 663,1875 635,1858 597,1875"/>
+                <Baseline points="607,1906 633,1905 660,1903 687,1902 714,1901 740,1900 767,1900 794,1899 821,1898 847,1898 874,1897 901,1897 928,1897 954,1897 981,1897 1008,1897 1035,1897 1061,1897 1088,1897 1115,1897 1142,1898"/>
+                <TextEquiv>
+                    <Unicode>Quien te corona de rosas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l25" custom="readingOrder {index:24;}">
+                <Coords points="613,1967 782,1987 874,1959 916,1989 987,1957 1017,1974 1194,1957 1193,1915 1126,1902 1070,1920 1040,1903 989,1921 959,1901 863,1923 612,1915"/>
+                <Baseline points="621,1953 649,1954 677,1954 705,1954 733,1954 762,1954 790,1953 818,1953 846,1952 874,1952 903,1951 931,1951 959,1950 987,1950 1015,1950 1044,1949 1072,1949 1100,1949 1128,1949 1156,1950 1185,1950"/>
+                <TextEquiv>
+                    <Unicode>Vértela puesta de estrellas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l26" custom="readingOrder {index:25;}">
+                <Coords points="290,2077 1472,2045 1541,2076 1614,2051 1614,2008 473,2039 288,2005"/>
+                <Baseline points="298,2074 363,2071 428,2069 494,2067 559,2064 625,2063 690,2062 755,2060 821,2060 886,2059 952,2058 1017,2057 1082,2057 1148,2056 1213,2055 1279,2054 1344,2053 1409,2052 1475,2051 1540,2049 1606,2047"/>
+                <TextEquiv>
+                    <Unicode>El Ezcmo. Sr. Cardenal Arzobispo de Sevilla, é Hllmos. Seño-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l27" custom="readingOrder {index:26;}">
+                <Coords points="235,2135 1430,2137 1603,2120 1618,2065 234,2092"/>
+                <Baseline points="244,2128 312,2126 380,2123 448,2121 517,2120 585,2118 653,2117 722,2116 790,2115 858,2113 927,2112 995,2111 1063,2111 1131,2110 1200,2109 1268,2108 1336,2107 1405,2106 1473,2105 1541,2104 1610,2103"/>
+                <TextEquiv>
+                    <Unicode>res Obispos de Córdoba y Ceuta, han concedido varias indulgencias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l28" custom="readingOrder {index:27;}">
+                <Coords points="229,2191 1497,2188 1620,2165 1620,2117 228,2130"/>
+                <Baseline points="237,2181 305,2179 374,2177 443,2175 511,2173 580,2172 649,2170 717,2169 786,2168 855,2167 924,2166 992,2165 1061,2164 1130,2163 1198,2162 1267,2161 1336,2160 1404,2160 1473,2159 1542,2158 1611,2156"/>
+                <TextEquiv>
+                    <Unicode>á esta devocion, que por todas ascienden á mas de cuatro mil dias.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CORONA DE ROSAS.
+para que sus devotos adornen á María San-
+tísima nuestra Madre y Señora.
+Para alabar á María
+Dadnos gracia en este dia.
+Maria Reina gloriosa,
+Mi amor te ofrece esta rosa.
+Ahora se rezará un Ave María con Gloria Patri, y lo mismo en
+cada uno de los versos siguientes:
+En tu Cencepcion dichosa, mi amor te ofrece etc. 
+Niña la mas primorosa, mí amor etc. 
+Princesa Magestuosa, mi amor etc. 
+Emperatriz Poderosa, mi amor etc. 
+Santa la mas milagrosa, mi amor etc. 
+Luz de los Cielos hermosa, mí amor etc.
+Mujer fuerte y victoriosa, mi amor etc.
+De Dios Padre Hija amorosa, mi amor etc. 
+De Jesus Madre Piadosa, mi amor etc. 
+Del Santo Espíritu Esposa, mi amor etc. 
+Madre la mas amorosa, mí amor etc. 
+Guirnalda de rosas bellas
+Pongo en tus sienes gloriosas
+María, logre por ellas
+Quien te corona de rosas 
+Vértela puesta de estrellas.
+El Ezcmo. Sr. Cardenal Arzobispo de Sevilla, é Hllmos. Seño-
+res Obispos de Córdoba y Ceuta, han concedido varias indulgencias
+á esta devocion, que por todas ascienden á mas de cuatro mil dias.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="288,2233 1596,2233 1596,2309 288,2309"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="285,2306 1571,2299 1598,2245 284,2258"/>
+                <Baseline points="294,2295 358,2293 423,2292 488,2290 553,2289 617,2288 682,2286 747,2285 812,2284 876,2283 941,2283 1006,2282 1071,2281 1135,2280 1200,2280 1265,2279 1330,2278 1394,2277 1459,2276 1524,2275 1589,2274"/>
+                <TextEquiv>
+                    <Unicode>REIMPRESO EN CARMONA:—Imp. de D. José M.a. Moreno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>REIMPRESO EN CARMONA:—Imp. de D. José M.a. Moreno.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

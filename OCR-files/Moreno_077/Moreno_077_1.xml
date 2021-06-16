@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-27T16:22:06.165+01:00</Created>
+        <LastChange>2021-06-14T17:19:45.224+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525366" pageId="22317791" pageNr="73" tsid="59088660" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=FNMTOZECDYKYHTIWTJTKEODD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BUKXURDIQJCONXNGUCUSOTYM" imageId="17387314"/>
+    </Metadata>
+    <Page imageFilename="Moreno_077_1.jpg" imageWidth="1737" imageHeight="2508">
+        <PrintSpace>
+            <Coords points="82,0 1737,0 1737,2381 82,2381"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1623684012783" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1606753333233_1720"/>
+                <RegionRefIndexed index="1" regionRef="region_1606753329585_1716"/>
+                <RegionRefIndexed index="3" regionRef="r_2_1"/>
+                <RegionRefIndexed index="4" regionRef="r_3_1"/>
+                <RegionRefIndexed index="5" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="region_1606753333233_1720" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1247,260 1442,260 1442,314 1247,314"/>
+            <TextLine id="region_1606753333233_1720l1" custom="readingOrder {index:0;}">
+                <Coords points="1244,314 1269,320 1276,314 1285,321 1342,312 1358,319 1377,308 1404,322 1423,313 1430,320 1446,318 1446,265 1409,265 1382,246 1345,253 1327,243 1315,250 1292,236 1244,245"/>
+                <Baseline points="1253,305 1279,307 1305,308 1331,307 1358,306 1384,305 1410,305 1437,307"/>
+                <TextEquiv>
+                    <Unicode>Núm. 88.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 88.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="region_1606753329585_1716" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="266,338 1388,338 1388,397 266,397"/>
+            <TextLine id="region_1606753329585_1716l1" custom="readingOrder {index:0;}">
+                <Coords points="281,412 899,412 1035,393 1101,420 1192,387 1216,410 1249,407 1293,383 1380,415 1392,312 1341,328 1208,313 1083,339 1047,322 1013,342 982,321 949,343 881,318 279,343"/>
+                <Baseline points="841,389 868,389 895,390 922,390 949,390 976,390 1003,389 1031,389 1058,388 1085,388 1112,387 1139,386 1166,385 1193,384 1221,383 1248,382 1275,382 1302,381 1329,380 1356,380 1384,380"/>
+                <TextEquiv>
+                    <Unicode>DOÑA TERESA EN LA GUEVA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DOÑA TERESA EN LA GUEVA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_1" custom="readingOrder {index:2;}">
+            <Coords points="87,418 1121,408 1126,1288 92,1298"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:3;}">
+            <Coords points="153,1326 1575,1326 1575,1642 153,1642"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="147,1405 1579,1363 1562,1318 926,1341 856,1306 146,1355"/>
+                <Baseline points="156,1396 226,1394 297,1392 368,1391 438,1389 509,1388 580,1386 650,1385 721,1383 792,1382 863,1380 933,1379 1004,1377 1075,1376 1145,1374 1216,1372 1287,1370 1357,1369 1428,1366 1499,1364 1570,1362"/>
+                <TextEquiv>
+                    <Unicode>RELACION DE LOS VARIOS SUCESOS DE DON MANUEL DE CONTRERAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="154,1454 1579,1421 1544,1369 153,1408"/>
+                <Baseline points="163,1441 233,1439 303,1438 374,1436 444,1434 514,1432 585,1431 655,1429 725,1428 796,1426 866,1425 936,1424 1007,1422 1077,1421 1147,1419 1218,1417 1288,1416 1358,1413 1429,1411 1499,1409 1570,1406"/>
+                <TextEquiv>
+                    <Unicode>y doña Teresa de Rivera; en que se declara como don Manuel sacó á doña</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="156,1509 1512,1483 1580,1424 154,1456"/>
+                <Baseline points="164,1485 234,1483 304,1481 375,1479 445,1478 515,1476 586,1475 656,1473 726,1472 797,1470 867,1469 937,1468 1008,1466 1078,1465 1148,1463 1219,1461 1289,1460 1359,1458 1430,1456 1500,1454 1571,1451"/>
+                <TextEquiv>
+                    <Unicode>Teresa de su convento de la ciudad de Salamanca, y partiendo á Córdoba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="279,1549 1524,1514 1492,1467 278,1494"/>
+                <Baseline points="288,1528 349,1526 410,1524 471,1522 533,1520 594,1519 655,1518 717,1516 778,1515 839,1514 901,1513 962,1512 1023,1511 1084,1510 1146,1508 1207,1507 1268,1505 1330,1504 1391,1502 1452,1499 1514,1497"/>
+                <TextEquiv>
+                    <Unicode>fué muerto en Sierra-Morena por un hermano de doña Teresa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="574,1637 787,1652 894,1615 981,1644 1170,1630 1169,1538 996,1576 973,1555 865,1570 831,1544 626,1570 573,1552"/>
+                <Baseline points="582,1622 612,1621 642,1621 673,1621 703,1620 734,1619 764,1619 795,1618 825,1618 856,1617 886,1616 917,1616 947,1615 978,1615 1008,1614 1039,1613 1069,1613 1100,1613 1130,1613 1161,1612"/>
+                <TextEquiv>
+                    <Unicode>PRIMERA PARTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RELACION DE LOS VARIOS SUCESOS DE DON MANUEL DE CONTRERAS
+y doña Teresa de Rivera; en que se declara como don Manuel sacó á doña
+Teresa de su convento de la ciudad de Salamanca, y partiendo á Córdoba
+fué muerto en Sierra-Morena por un hermano de doña Teresa.
+PRIMERA PARTE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:4;}">
+            <Coords points="162,1683 682,1683 682,2381 162,2381"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="207,1743 339,1729 388,1750 516,1729 552,1746 582,1731 612,1746 683,1741 682,1697 653,1689 316,1703 206,1681"/>
+                <Baseline points="215,1731 240,1730 265,1730 291,1729 316,1729 342,1728 367,1727 393,1727 418,1726 444,1725 469,1724 494,1724 520,1723 545,1723 571,1722 596,1722 622,1722 647,1721 673,1721"/>
+                <TextEquiv>
+                    <Unicode>En las ásperas montañas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="162,1797 246,1783 286,1801 314,1786 457,1794 550,1774 666,1794 665,1744 599,1734 391,1749 335,1729 161,1748"/>
+                <Baseline points="170,1780 195,1780 221,1779 246,1779 272,1778 298,1778 323,1777 349,1776 375,1775 400,1775 426,1774 451,1773 477,1772 503,1772 528,1771 554,1771 580,1770 605,1770 631,1770 657,1771"/>
+                <TextEquiv>
+                    <Unicode>de Guadalupe, que vuelan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="162,1845 342,1831 390,1846 473,1826 503,1843 570,1828 648,1842 662,1840 661,1794 590,1778 509,1797 477,1784 292,1798 265,1783 161,1801"/>
+                <Baseline points="171,1829 196,1829 221,1828 247,1828 272,1827 297,1826 323,1825 348,1824 373,1824 399,1823 424,1822 450,1821 475,1821 500,1820 526,1820 551,1820 576,1820 602,1820 627,1821 653,1821"/>
+                <TextEquiv>
+                    <Unicode>por el mundo sus noticias, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="159,1894 628,1876 627,1835 598,1832 158,1847"/>
+                <Baseline points="167,1878 192,1877 217,1877 242,1876 267,1875 292,1875 317,1874 342,1873 367,1872 393,1871 418,1870 443,1870 468,1869 493,1869 518,1868 543,1868 568,1868 593,1868 619,1868"/>
+                <TextEquiv>
+                    <Unicode>cuya intrincada aspereza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="165,1941 427,1926 475,1939 543,1923 576,1935 628,1928 627,1880 164,1898"/>
+                <Baseline points="174,1926 200,1925 226,1925 252,1924 278,1923 305,1923 331,1922 357,1921 383,1921 410,1920 436,1920 462,1919 488,1918 515,1918 541,1917 567,1917 593,1916 620,1916"/>
+                <TextEquiv>
+                    <Unicode>quiere competir al cielo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="165,1995 243,1976 269,1988 303,1976 407,1991 501,1973 582,1986 633,1972 633,1938 501,1924 472,1940 427,1926 164,1949"/>
+                <Baseline points="174,1974 199,1973 224,1973 249,1972 274,1972 299,1971 324,1971 349,1970 374,1970 399,1969 424,1968 449,1967 474,1967 499,1966 524,1966 549,1965 574,1965 599,1964 624,1964"/>
+                <TextEquiv>
+                    <Unicode>sus marañadas guedejas:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="174,2033 233,2021 257,2033 602,2027 601,1985 549,1975 413,1989 298,1980 233,1998 173,1990"/>
+                <Baseline points="182,2022 207,2021 233,2021 259,2020 284,2019 310,2018 336,2018 361,2017 387,2016 413,2016 438,2015 464,2015 490,2015 515,2014 541,2014 567,2014 593,2014"/>
+                <TextEquiv>
+                    <Unicode>en este áspero desierto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="175,2086 445,2073 483,2087 564,2071 647,2083 668,2074 668,2039 499,2021 402,2026 381,2043 317,2026 250,2042 174,2033"/>
+                <Baseline points="183,2069 208,2069 233,2069 258,2069 283,2068 308,2068 333,2067 358,2066 383,2065 408,2064 433,2064 458,2063 483,2062 508,2062 533,2061 558,2061 583,2061 608,2062 633,2062 659,2063"/>
+                <TextEquiv>
+                    <Unicode>entre sus robles y breños, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="167,2136 265,2143 282,2124 352,2119 372,2134 416,2119 463,2134 490,2115 636,2129 634,2069 474,2087 447,2074 417,2087 289,2076 166,2097"/>
+                <Baseline points="176,2120 201,2120 226,2119 251,2118 276,2118 301,2117 326,2116 351,2116 376,2115 401,2114 426,2114 451,2113 476,2112 501,2111 526,2111 551,2110 576,2109 601,2109 626,2108"/>
+                <TextEquiv>
+                    <Unicode>un pastor que ya dejaba </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="169,2169 302,2173 323,2187 427,2164 483,2186 562,2175 621,2187 620,2134 591,2122 499,2134 435,2123 420,2138 292,2122 266,2141 168,2137"/>
+                <Baseline points="178,2166 203,2167 228,2167 254,2166 279,2166 305,2166 330,2165 356,2164 381,2164 407,2163 432,2163 458,2162 483,2161 509,2161 534,2160 560,2160 585,2160 611,2159"/>
+                <TextEquiv>
+                    <Unicode>en su aprisco las obejas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="167,2235 225,2239 251,2220 329,2219 377,2234 393,2219 453,2226 467,2213 540,2225 538,2179 526,2176 485,2186 426,2165 358,2185 225,2173 206,2186 165,2168"/>
+                <Baseline points="175,2220 200,2218 225,2217 251,2215 276,2214 302,2213 327,2212 353,2212 378,2211 403,2211 429,2210 454,2210 480,2209 505,2208 531,2207"/>
+                <TextEquiv>
+                    <Unicode>y pasaba cuidadoso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:11;}">
+                <Coords points="170,2268 296,2284 359,2267 448,2278 474,2266 510,2283 587,2261 653,2272 652,2219 429,2219 394,2240 328,2218 283,2236 256,2219 226,2239 169,2238"/>
+                <Baseline points="178,2264 203,2264 229,2263 255,2263 281,2263 307,2262 333,2261 359,2261 385,2260 411,2260 436,2259 462,2258 488,2258 514,2258 540,2257 566,2257 592,2257 618,2257 644,2257"/>
+                <TextEquiv>
+                    <Unicode>á una aldea de allí cerca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l13" custom="readingOrder {index:12;}">
+                <Coords points="171,2325 619,2325 638,2322 637,2267 349,2285 334,2271 299,2284 169,2269"/>
+                <Baseline points="179,2318 205,2317 231,2315 258,2314 284,2313 311,2312 337,2311 363,2310 390,2309 416,2309 443,2308 469,2307 495,2307 522,2306 548,2306 575,2305 601,2305 628,2304"/>
+                <TextEquiv>
+                    <Unicode>y para llegar mas presto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l14" custom="readingOrder {index:13;}">
+                <Coords points="176,2381 383,2383 432,2366 488,2388 576,2366 639,2372 638,2328 560,2315 492,2334 442,2314 380,2333 175,2328"/>
+                <Baseline points="185,2362 211,2362 237,2362 263,2362 289,2362 316,2361 342,2360 368,2360 394,2359 421,2358 447,2358 473,2357 499,2357 526,2356 552,2356 578,2355 604,2355 631,2355"/>
+                <TextEquiv>
+                    <Unicode>va por escusadas sendas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En las ásperas montañas 
+de Guadalupe, que vuelan
+por el mundo sus noticias, 
+cuya intrincada aspereza
+quiere competir al cielo
+sus marañadas guedejas:
+en este áspero desierto,
+entre sus robles y breños, 
+un pastor que ya dejaba 
+en su aprisco las obejas 
+y pasaba cuidadoso
+á una aldea de allí cerca,
+y para llegar mas presto
+va por escusadas sendas,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:5;}">
+            <Coords points="879,1668 1435,1668 1435,2367 879,2367"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="872,1724 950,1738 994,1718 1113,1738 1192,1717 1245,1734 1406,1714 1405,1668 1012,1686 871,1666"/>
+                <Baseline points="880,1716 905,1716 931,1716 957,1716 983,1716 1009,1716 1034,1715 1060,1715 1086,1714 1112,1714 1138,1713 1163,1713 1189,1712 1215,1711 1241,1710 1267,1710 1292,1709 1318,1708 1344,1707 1370,1707 1396,1706"/>
+                <TextEquiv>
+                    <Unicode>cuando ya impensadamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="883,1780 952,1770 986,1787 1008,1772 1088,1783 1208,1765 1244,1786 1268,1762 1337,1768 1336,1724 1324,1722 1248,1733 1193,1718 1144,1731 1016,1723 969,1738 882,1728"/>
+                <Baseline points="892,1764 917,1764 943,1763 969,1763 994,1763 1020,1762 1046,1762 1071,1762 1097,1761 1123,1761 1149,1760 1174,1760 1200,1759 1226,1759 1251,1758 1277,1757 1303,1757 1329,1756"/>
+                <TextEquiv>
+                    <Unicode>le sofocan y amedrentan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="879,1824 997,1816 1034,1832 1080,1818 1103,1830 1165,1815 1213,1828 1234,1813 1312,1826 1344,1813 1343,1783 1295,1764 1242,1787 1205,1764 1081,1793 1021,1773 986,1787 950,1770 927,1788 878,1782"/>
+                <Baseline points="887,1813 913,1813 939,1813 966,1813 992,1813 1018,1812 1045,1812 1071,1811 1097,1811 1124,1810 1150,1809 1176,1809 1203,1808 1229,1807 1255,1807 1282,1806 1308,1806 1335,1805"/>
+                <TextEquiv>
+                    <Unicode>unos ecos, que con ayes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="886,1870 1258,1878 1433,1862 1431,1813 1227,1831 1196,1816 1037,1832 993,1817 942,1836 885,1821"/>
+                <Baseline points="895,1861 921,1861 947,1862 974,1862 1000,1862 1027,1861 1053,1861 1080,1860 1106,1859 1133,1859 1159,1858 1185,1857 1212,1856 1238,1855 1265,1854 1291,1854 1318,1853 1344,1853 1371,1853 1397,1853 1424,1854"/>
+                <TextEquiv>
+                    <Unicode>dan de algun presagio señas; </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="892,1931 1005,1914 1095,1932 1185,1909 1387,1919 1386,1864 1368,1859 1183,1879 891,1870"/>
+                <Baseline points="901,1910 926,1910 951,1910 976,1910 1001,1909 1026,1909 1051,1908 1076,1908 1101,1907 1126,1906 1151,1906 1176,1905 1201,1904 1226,1904 1251,1903 1276,1903 1301,1903 1326,1903 1351,1903 1377,1903"/>
+                <TextEquiv>
+                    <Unicode>quedóse el pastor confuso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="882,1974 1069,1972 1080,1961 1108,1973 1161,1960 1268,1974 1324,1958 1323,1919 1298,1915 1265,1926 1213,1914 1191,1927 1151,1916 1095,1933 1049,1916 881,1923"/>
+                <Baseline points="890,1958 915,1958 940,1958 965,1958 990,1957 1015,1957 1040,1956 1065,1956 1090,1955 1115,1955 1140,1954 1165,1953 1190,1953 1215,1952 1240,1952 1265,1951 1290,1951 1315,1951"/>
+                <TextEquiv>
+                    <Unicode>y llegándose mas cerca </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="890,2016 1019,2026 1077,2011 1138,2026 1272,2004 1364,2016 1385,2009 1385,1968 1301,1957 1271,1972 1167,1961 1088,1979 1052,1964 1027,1980 953,1964 889,1975"/>
+                <Baseline points="898,2006 923,2006 948,2006 973,2006 998,2006 1024,2005 1049,2005 1074,2004 1099,2004 1124,2003 1150,2003 1175,2002 1200,2002 1225,2001 1250,2000 1276,2000 1301,1999 1326,1999 1351,1999 1377,1999"/>
+                <TextEquiv>
+                    <Unicode>vió una hermosísima dama</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="894,2073 945,2060 996,2077 1039,2058 1106,2076 1171,2057 1218,2074 1265,2059 1354,2075 1385,2055 1384,2012 1324,2021 1287,2005 1116,2027 1087,2013 1020,2027 960,2015 944,2028 893,2013"/>
+                <Baseline points="902,2055 928,2055 954,2055 981,2054 1007,2054 1033,2053 1060,2053 1086,2052 1112,2052 1139,2051 1165,2051 1191,2050 1218,2049 1244,2049 1270,2048 1297,2048 1323,2047 1349,2047 1376,2047"/>
+                <TextEquiv>
+                    <Unicode>que dudaba en su belleza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="883,2113 975,2125 1008,2109 1114,2107 1146,2122 1247,2104 1270,2122 1288,2104 1327,2103 1355,2115 1354,2071 1301,2061 1284,2074 1266,2060 1225,2075 1176,2061 1107,2077 1060,2060 995,2077 946,2060 910,2075 882,2065"/>
+                <Baseline points="892,2104 917,2104 942,2103 967,2103 992,2103 1018,2102 1043,2101 1068,2101 1093,2101 1119,2100 1144,2099 1169,2099 1194,2098 1219,2098 1245,2098 1270,2097 1295,2097 1320,2097 1346,2098"/>
+                <TextEquiv>
+                    <Unicode>si era-Palas en el monte, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="891,2166 971,2171 1015,2154 1044,2173 1105,2154 1155,2173 1181,2155 1196,2165 1278,2151 1304,2168 1339,2153 1338,2106 1325,2102 1271,2121 1191,2105 1147,2122 1113,2107 1014,2108 975,2125 890,2114"/>
+                <Baseline points="899,2151 924,2152 949,2152 975,2152 1000,2151 1025,2151 1051,2150 1076,2150 1101,2149 1127,2148 1152,2148 1177,2147 1203,2146 1228,2146 1253,2146 1279,2145 1304,2145 1330,2146"/>
+                <TextEquiv>
+                    <Unicode>ó si es la diosa Minerva.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="890,2224 937,2204 969,2225 1038,2201 1190,2218 1254,2201 1295,2223 1318,2204 1374,2206 1373,2160 1343,2152 1301,2169 1262,2151 1222,2172 1108,2156 1055,2172 1014,2155 958,2174 889,2168"/>
+                <Baseline points="899,2201 924,2201 950,2200 976,2200 1002,2200 1028,2199 1054,2199 1080,2198 1106,2198 1132,2197 1157,2197 1183,2196 1209,2196 1235,2196 1261,2195 1287,2195 1313,2195 1339,2195 1365,2195"/>
+                <TextEquiv>
+                    <Unicode>Era en estremo tan linda,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="897,2270 975,2247 1048,2272 1114,2251 1175,2270 1314,2249 1359,2273 1442,2252 1441,2215 1391,2202 1335,2201 1296,2223 1253,2199 1192,2218 1020,2206 979,2226 938,2204 896,2219"/>
+                <Baseline points="906,2250 932,2250 958,2249 985,2249 1011,2249 1037,2248 1064,2247 1090,2247 1116,2246 1143,2246 1169,2245 1195,2244 1222,2244 1248,2243 1274,2243 1301,2242 1327,2242 1353,2242 1380,2241 1406,2241 1433,2241"/>
+                <TextEquiv>
+                    <Unicode>que si el mismo cielo ostenta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="890,2314 998,2306 1032,2321 1055,2301 1186,2316 1247,2293 1303,2310 1361,2300 1360,2266 1324,2254 1176,2270 1147,2251 1049,2273 974,2248 935,2270 889,2264"/>
+                <Baseline points="899,2297 924,2298 949,2298 974,2298 999,2298 1024,2297 1050,2297 1075,2296 1100,2295 1125,2295 1150,2294 1175,2293 1201,2292 1226,2292 1251,2291 1276,2291 1301,2290 1326,2290 1352,2289"/>
+                <TextEquiv>
+                    <Unicode>un sol para adorno suyo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="894,2370 1077,2361 1101,2382 1154,2371 1173,2351 1231,2364 1254,2353 1283,2369 1362,2350 1362,2301 1321,2317 1284,2296 1263,2313 1171,2317 1100,2300 1073,2317 893,2319"/>
+                <Baseline points="903,2345 928,2345 953,2346 978,2346 1003,2346 1028,2346 1053,2345 1078,2345 1103,2344 1128,2343 1153,2343 1178,2342 1203,2342 1228,2341 1253,2341 1278,2341 1303,2342 1328,2342 1353,2344"/>
+                <TextEquiv>
+                    <Unicode>acompañado de estrellas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>cuando ya impensadamente
+le sofocan y amedrentan
+unos ecos, que con ayes
+dan de algun presagio señas; 
+quedóse el pastor confuso,
+y llegándose mas cerca 
+vió una hermosísima dama
+que dudaba en su belleza
+si era-Palas en el monte, 
+ó si es la diosa Minerva.
+Era en estremo tan linda,
+que si el mismo cielo ostenta
+un sol para adorno suyo 
+acompañado de estrellas,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1623683967992_87" custom="readingOrder {index:6;}">
+            <Coords points="1138,1267 1600,1267 1600,550 1138,550"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
