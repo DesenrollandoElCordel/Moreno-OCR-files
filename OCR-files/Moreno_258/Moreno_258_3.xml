@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T09:32:28.717+01:00</Created>
+        <LastChange>2020-12-17T16:53:52.688+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525391" pageId="22319194" pageNr="79" tsid="50412247" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=CQKKVSMEPZPICETUJNBPCLVI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CYTYWXFMVROFBFPKZGHEJUHM" imageId="17388709"/>
+    </Metadata>
+    <Page imageFilename="Moreno_258_3.jpeg" imageWidth="1632" imageHeight="2467">
+        <PrintSpace>
+            <Coords points="10,171 1590,171 1590,2096 10,2096"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1608295542296" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3_1"/>
+                <RegionRefIndexed index="1" regionRef="r_4_1"/>
+                <RegionRefIndexed index="2" regionRef="r_7_1"/>
+                <RegionRefIndexed index="3" regionRef="r_8_1"/>
+                <RegionRefIndexed index="4" regionRef="r_9_1"/>
+                <RegionRefIndexed index="5" regionRef="r_10_1"/>
+                <RegionRefIndexed index="6" regionRef="r_11_1"/>
+                <RegionRefIndexed index="7" regionRef="r_12_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:0;}">
+            <Coords points="346,515 1083,510 1083,563 346,568"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="366,601 401,601 437,601 473,601 509,601 545,601 580,601 616,602 652,602 688,602 724,602 759,602 795,603 831,603 867,603 903,604 938,604 974,605 1010,605 1046,606 1082,607 1082,457 1046,456 1010,455 974,455 938,454 903,454 867,453 831,453 795,453 759,452 724,452 688,452 652,452 616,452 580,451 545,451 509,451 473,451 437,451 401,451 366,451"/>
+                <Baseline points="366,551 401,551 437,551 473,551 509,551 545,551 580,551 616,552 652,552 688,552 724,552 759,552 795,553 831,553 867,553 903,554 938,554 974,555 1010,555 1046,556 1082,557"/>
+                <TextEquiv>
+                    <Unicode>SAINETE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SAINETE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:1;}">
+            <Coords points="10,758 1418,758 1418,911 10,911"/>
+            <TextLine id="line_1608220348954_154" custom="readingOrder {index:0;}">
+                <Coords points="18,914 1394,914 1394,847 18,847"/>
+                <TextEquiv>
+                    <Unicode>EL CAUDAL DEL ESTUDIANTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EL CAUDAL DEL ESTUDIANTE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:2;}">
+            <Coords points="486,1160 933,1160 933,1225 486,1225"/>
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="504,1256 529,1257 554,1258 579,1258 604,1259 629,1259 655,1259 680,1260 705,1260 730,1260 755,1260 780,1260 806,1259 831,1259 856,1258 881,1257 906,1256 932,1255 932,1105 906,1106 881,1107 856,1108 831,1109 806,1109 780,1110 755,1110 730,1110 705,1110 680,1110 655,1109 629,1109 604,1109 579,1108 554,1108 529,1107 504,1106"/>
+                <Baseline points="504,1206 529,1207 554,1208 579,1208 604,1209 629,1209 655,1209 680,1210 705,1210 730,1210 755,1210 780,1210 806,1209 831,1209 856,1208 881,1207 906,1206 932,1205"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PERSONAS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:3;}">
+            <Coords points="140,1277 471,1277 471,1420 140,1420"/>
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="144,1327 169,1328 195,1328 221,1329 247,1329 273,1330 299,1331 324,1331 350,1331 376,1332 402,1332 428,1332 454,1331 454,1289 428,1290 402,1290 376,1290 350,1289 324,1289 299,1289 273,1288 247,1287 221,1287 195,1286 169,1286 144,1285"/>
+                <Baseline points="144,1313 169,1314 195,1314 221,1315 247,1315 273,1316 299,1317 324,1317 350,1317 376,1318 402,1318 428,1318 454,1317"/>
+                <TextEquiv>
+                    <Unicode>DOS ALCALDES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="154,1367 179,1367 205,1368 231,1369 257,1369 283,1370 309,1371 334,1371 360,1372 386,1372 412,1372 438,1372 464,1371 464,1340 438,1341 412,1341 386,1341 360,1341 334,1340 309,1340 283,1339 257,1338 231,1338 205,1337 179,1336 154,1336"/>
+                <Baseline points="154,1357 179,1357 205,1358 231,1359 257,1359 283,1360 309,1361 334,1361 360,1362 386,1362 412,1362 438,1362 464,1361"/>
+                <TextEquiv>
+                    <Unicode>UN ESCRIBANO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="151,1410 176,1413 201,1415 227,1416 252,1416 277,1417 303,1416 328,1416 353,1416 379,1416 404,1416 430,1417 430,1386 404,1385 379,1385 353,1385 328,1385 303,1385 277,1386 252,1385 227,1385 201,1384 176,1382 151,1379"/>
+                <Baseline points="151,1400 176,1403 201,1405 227,1406 252,1406 277,1407 303,1406 328,1406 353,1406 379,1406 404,1406 430,1407"/>
+                <TextEquiv>
+                    <Unicode>UN FILOSOFO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DOS ALCALDES.
+UN ESCRIBANO.
+UN FILOSOFO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_9_1" custom="readingOrder {index:4;}">
+            <Coords points="918,1283 1259,1283 1259,1425 918,1425"/>
+            <TextLine id="r_9_1l1" custom="readingOrder {index:0;}">
+                <Coords points="932,1329 957,1330 982,1331 1007,1331 1032,1332 1057,1332 1082,1332 1107,1332 1132,1332 1157,1332 1182,1332 1207,1331 1232,1331 1258,1331 1258,1300 1232,1300 1207,1300 1182,1301 1157,1301 1132,1301 1107,1301 1082,1301 1057,1301 1032,1301 1007,1300 982,1300 957,1299 932,1298"/>
+                <Baseline points="932,1319 957,1320 982,1321 1007,1321 1032,1322 1057,1322 1082,1322 1107,1322 1132,1322 1157,1322 1182,1322 1207,1321 1232,1321 1258,1321"/>
+                <TextEquiv>
+                    <Unicode>UN ASTROLOGO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l2" custom="readingOrder {index:1;}">
+                <Coords points="936,1374 962,1374 988,1375 1014,1375 1040,1376 1066,1376 1092,1377 1118,1377 1144,1377 1170,1376 1170,1345 1144,1346 1118,1346 1092,1346 1066,1345 1040,1345 1014,1344 988,1344 962,1343 936,1343"/>
+                <Baseline points="936,1364 962,1364 988,1365 1014,1365 1040,1366 1066,1366 1092,1367 1118,1367 1144,1367 1170,1366"/>
+                <TextEquiv>
+                    <Unicode>UN MEDICO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l3" custom="readingOrder {index:2;}">
+                <Coords points="929,1416 954,1418 979,1420 1005,1421 1030,1422 1055,1423 1081,1423 1106,1424 1131,1424 1157,1424 1182,1424 1208,1423 1208,1392 1182,1393 1157,1393 1131,1393 1106,1393 1081,1392 1055,1392 1030,1391 1005,1390 979,1389 954,1387 929,1385"/>
+                <Baseline points="929,1406 954,1408 979,1410 1005,1411 1030,1412 1055,1413 1081,1413 1106,1414 1131,1414 1157,1414 1182,1414 1208,1413"/>
+                <TextEquiv>
+                    <Unicode>DOÑA JUANA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>UN ASTROLOGO
+UN MEDICO.
+DOÑA JUANA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_10_1" custom="readingOrder {index:5;}">
+            <Coords points="275,1528 1147,1528 1147,1590 275,1590"/>
+            <TextLine id="r_10_1l1" custom="readingOrder {index:0;}">
+                <Coords points="277,1617 320,1617 363,1617 406,1617 449,1617 492,1618 535,1618 578,1618 621,1618 664,1618 708,1619 751,1619 794,1619 837,1619 880,1620 923,1620 966,1620 1009,1621 1052,1621 1095,1621 1139,1622 1139,1472 1095,1471 1052,1471 1009,1471 966,1470 923,1470 880,1470 837,1469 794,1469 751,1469 708,1469 664,1468 621,1468 578,1468 535,1468 492,1468 449,1467 406,1467 363,1467 320,1467 277,1467"/>
+                <Baseline points="277,1567 320,1567 363,1567 406,1567 449,1567 492,1568 535,1568 578,1568 621,1568 664,1568 708,1569 751,1569 794,1569 837,1569 880,1570 923,1570 966,1570 1009,1571 1052,1571 1095,1571 1139,1572"/>
+                <TextEquiv>
+                    <Unicode>SALEN DOS ALCALDES, EL ESCRIBANO Y MINISTROS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SALEN DOS ALCALDES, EL ESCRIBANO Y MINISTROS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_11_1" custom="readingOrder {index:6;}">
+            <Coords points="20,1709 699,1709 699,2089 20,2089"/>
+            <TextLine id="r_11_1l1" custom="readingOrder {index:0;}">
+                <Coords points="32,1758 65,1758 98,1759 131,1759 164,1759 197,1759 230,1759 263,1759 296,1759 329,1759 363,1759 396,1759 429,1759 462,1759 495,1759 528,1759 561,1759 594,1759 627,1760 660,1760 694,1760 694,1729 660,1729 627,1729 594,1728 561,1728 528,1728 495,1728 462,1728 429,1728 396,1728 363,1728 329,1728 296,1728 263,1728 230,1728 197,1728 164,1728 131,1728 98,1728 65,1727 32,1727"/>
+                <Baseline points="32,1748 65,1748 98,1749 131,1749 164,1749 197,1749 230,1749 263,1749 296,1749 329,1749 363,1749 396,1749 429,1749 462,1749 495,1749 528,1749 561,1749 594,1749 627,1750 660,1750 694,1750"/>
+                <TextEquiv>
+                    <Unicode>ALC. 1.° Compañero, todo el pueblo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l2" custom="readingOrder {index:1;}">
+                <Coords points="61,1802 87,1802 113,1803 139,1803 165,1803 191,1803 217,1803 243,1803 269,1803 295,1803 321,1803 347,1803 373,1803 399,1803 425,1803 451,1804 477,1804 477,1773 451,1773 425,1772 399,1772 373,1772 347,1772 321,1772 295,1772 269,1772 243,1772 217,1772 191,1772 165,1772 139,1772 113,1772 87,1771 61,1771"/>
+                <Baseline points="61,1792 87,1792 113,1793 139,1793 165,1793 191,1793 217,1793 243,1793 269,1793 295,1793 321,1793 347,1793 373,1793 399,1793 425,1793 451,1794 477,1794"/>
+                <TextEquiv>
+                    <Unicode>es una sima de vicios,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l3" custom="readingOrder {index:2;}">
+                <Coords points="65,1846 90,1846 116,1847 141,1847 167,1847 192,1847 218,1847 243,1847 269,1847 294,1847 320,1847 345,1848 371,1848 396,1848 422,1848 447,1848 473,1848 498,1849 524,1849 550,1849 550,1818 524,1818 498,1818 473,1817 447,1817 422,1817 396,1817 371,1817 345,1817 320,1816 294,1816 269,1816 243,1816 218,1816 192,1816 167,1816 141,1816 116,1816 90,1815 65,1815"/>
+                <Baseline points="65,1836 90,1836 116,1837 141,1837 167,1837 192,1837 218,1837 243,1837 269,1837 294,1837 320,1837 345,1838 371,1838 396,1838 422,1838 447,1838 473,1838 498,1839 524,1839 550,1839"/>
+                <TextEquiv>
+                    <Unicode>voz os acostais temprano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l4" custom="readingOrder {index:3;}">
+                <Coords points="60,1891 85,1891 111,1891 136,1892 162,1892 187,1892 213,1892 238,1892 264,1892 289,1891 315,1891 340,1891 366,1891 391,1891 417,1891 442,1891 468,1891 468,1860 442,1860 417,1860 391,1860 366,1860 340,1860 315,1860 289,1860 264,1861 238,1861 213,1861 187,1861 162,1861 136,1861 111,1860 85,1860 60,1860"/>
+                <Baseline points="60,1881 85,1881 111,1881 136,1882 162,1882 187,1882 213,1882 238,1882 264,1882 289,1881 315,1881 340,1881 366,1881 391,1881 417,1881 442,1881 468,1881"/>
+                <TextEquiv>
+                    <Unicode>sin atender al oficio:.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l5" custom="readingOrder {index:4;}">
+                <Coords points="63,1936 88,1936 113,1935 138,1935 163,1935 188,1935 213,1935 238,1935 263,1935 288,1935 313,1936 338,1936 363,1936 388,1937 413,1937 438,1937 463,1938 488,1938 514,1939 514,1908 488,1907 463,1907 438,1906 413,1906 388,1906 363,1905 338,1905 313,1905 288,1904 263,1904 238,1904 213,1904 188,1904 163,1904 138,1904 113,1904 88,1905 63,1905"/>
+                <Baseline points="63,1926 88,1926 113,1925 138,1925 163,1925 188,1925 213,1925 238,1925 263,1925 288,1925 313,1926 338,1926 363,1926 388,1927 413,1927 438,1927 463,1928 488,1928 514,1929"/>
+                <TextEquiv>
+                    <Unicode>ó ser, ó no ser Alcalde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l6" custom="readingOrder {index:5;}">
+                <Coords points="61,1982 86,1981 111,1981 136,1980 161,1980 186,1980 211,1980 236,1980 261,1979 286,1979 312,1979 337,1980 362,1980 387,1980 412,1980 437,1981 462,1981 487,1982 512,1982 538,1983 538,1952 512,1951 487,1951 462,1950 437,1950 412,1949 387,1949 362,1949 337,1949 312,1948 286,1948 261,1948 236,1949 211,1949 186,1949 161,1949 136,1949 111,1950 86,1950 61,1951"/>
+                <Baseline points="61,1972 86,1971 111,1971 136,1970 161,1970 186,1970 211,1970 236,1970 261,1969 286,1969 312,1969 337,1970 362,1970 387,1970 412,1970 437,1971 462,1971 487,1972 512,1972 538,1973"/>
+                <TextEquiv>
+                    <Unicode>mudar de vida es preciso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l7" custom="readingOrder {index:6;}">
+                <Coords points="63,2025 88,2025 114,2025 139,2025 165,2026 190,2026 216,2026 242,2026 267,2026 293,2026 318,2026 344,2025 370,2025 395,2025 421,2025 446,2025 472,2025 498,2025 498,1994 472,1994 446,1994 421,1994 395,1994 370,1994 344,1994 318,1995 293,1995 267,1995 242,1995 216,1995 190,1995 165,1995 139,1994 114,1994 88,1994 63,1994"/>
+                <Baseline points="63,2015 88,2015 114,2015 139,2015 165,2016 190,2016 216,2016 242,2016 267,2016 293,2016 318,2016 344,2015 370,2015 395,2015 421,2015 446,2015 472,2015 498,2015"/>
+                <TextEquiv>
+                    <Unicode>y rondar toda la noche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l8" custom="readingOrder {index:7;}">
+                <Coords points="39,2072 71,2072 103,2072 136,2072 168,2072 201,2072 233,2072 266,2072 298,2072 331,2072 363,2072 395,2072 428,2072 460,2072 493,2072 525,2072 558,2073 590,2073 623,2073 655,2073 688,2074 688,2043 655,2042 623,2042 590,2042 558,2042 525,2041 493,2041 460,2041 428,2041 395,2041 363,2041 331,2041 298,2041 266,2041 233,2041 201,2041 168,2041 136,2041 103,2041 71,2041 39,2041"/>
+                <Baseline points="39,2062 71,2062 103,2062 136,2062 168,2062 201,2062 233,2062 266,2062 298,2062 331,2062 363,2062 395,2062 428,2062 460,2062 493,2062 525,2062 558,2063 590,2063 623,2063 655,2063 688,2064"/>
+                <TextEquiv>
+                    <Unicode>ALC. 2.° Aqueso no habla conmigo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ALC. 1.° Compañero, todo el pueblo
+es una sima de vicios,
+voz os acostais temprano,
+sin atender al oficio:.
+ó ser, ó no ser Alcalde,
+mudar de vida es preciso,
+y rondar toda la noche.
+ALC. 2.° Aqueso no habla conmigo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_12_1" custom="readingOrder {index:7;}">
+            <Coords points="717,1714 1417,1714 1417,2088 717,2088"/>
+            <TextLine id="r_12_1l1" custom="readingOrder {index:0;}">
+                <Coords points="723,1761 754,1762 785,1762 817,1763 848,1763 880,1764 911,1764 943,1764 974,1764 1006,1764 1037,1764 1068,1764 1100,1764 1131,1764 1163,1764 1194,1764 1226,1764 1257,1764 1289,1763 1320,1763 1352,1763 1352,1732 1320,1732 1289,1732 1257,1733 1226,1733 1194,1733 1163,1733 1131,1733 1100,1733 1068,1733 1037,1733 1006,1733 974,1733 943,1733 911,1733 880,1733 848,1732 817,1732 785,1731 754,1731 723,1730"/>
+                <Baseline points="723,1751 754,1752 785,1752 817,1753 848,1753 880,1754 911,1754 943,1754 974,1754 1006,1754 1037,1754 1068,1754 1100,1754 1131,1754 1163,1754 1194,1754 1226,1754 1257,1754 1289,1753 1320,1753 1352,1753"/>
+                <TextEquiv>
+                    <Unicode>ALC. 1.° ¿Pues con quién habla? </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l2" custom="readingOrder {index:1;}">
+                <Coords points="723,1806 757,1806 791,1806 825,1807 860,1807 894,1807 928,1808 962,1808 997,1809 1031,1809 1065,1810 1099,1810 1134,1810 1168,1811 1202,1811 1236,1811 1271,1811 1305,1811 1339,1811 1373,1811 1408,1811 1408,1780 1373,1780 1339,1780 1305,1780 1271,1780 1236,1780 1202,1780 1168,1780 1134,1779 1099,1779 1065,1779 1031,1778 997,1778 962,1777 928,1777 894,1776 860,1776 825,1776 791,1775 757,1775 723,1775"/>
+                <Baseline points="723,1796 757,1796 791,1796 825,1797 860,1797 894,1797 928,1798 962,1798 997,1799 1031,1799 1065,1800 1099,1800 1134,1800 1168,1801 1202,1801 1236,1801 1271,1801 1305,1801 1339,1801 1373,1801 1408,1801"/>
+                <TextEquiv>
+                    <Unicode>ALC. 2.° Con vos, que sois Alcalde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l3" custom="readingOrder {index:2;}">
+                <Coords points="776,1850 803,1851 831,1852 858,1852 886,1851 914,1850 914,1819 886,1820 858,1821 831,1821 803,1820 776,1819"/>
+                <Baseline points="776,1840 803,1841 831,1842 858,1842 886,1841 914,1840"/>
+                <TextEquiv>
+                    <Unicode>mazizo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l4" custom="readingOrder {index:3;}">
+                <Coords points="723,1896 757,1895 792,1895 826,1895 861,1895 896,1895 930,1896 965,1896 1000,1896 1034,1897 1069,1897 1104,1898 1138,1898 1173,1899 1208,1899 1242,1900 1277,1900 1312,1900 1346,1900 1381,1900 1416,1900 1416,1869 1381,1869 1346,1869 1312,1869 1277,1869 1242,1869 1208,1868 1173,1868 1138,1867 1104,1867 1069,1866 1034,1866 1000,1865 965,1865 930,1865 896,1864 861,1864 826,1864 792,1864 757,1864 723,1865"/>
+                <Baseline points="723,1886 757,1885 792,1885 826,1885 861,1885 896,1885 930,1886 965,1886 1000,1886 1034,1887 1069,1887 1104,1888 1138,1888 1173,1889 1208,1889 1242,1890 1277,1890 1312,1890 1346,1890 1381,1890 1416,1890"/>
+                <TextEquiv>
+                    <Unicode>ALC. 1.° Vive Dios, que á los dos toca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l5" custom="readingOrder {index:4;}">
+                <Coords points="769,1940 794,1939 819,1939 844,1939 869,1939 894,1939 920,1940 945,1940 970,1940 995,1941 1020,1941 1045,1942 1071,1942 1096,1942 1121,1943 1146,1943 1171,1943 1197,1943 1197,1912 1171,1912 1146,1912 1121,1912 1096,1911 1071,1911 1045,1911 1020,1910 995,1910 970,1909 945,1909 920,1909 894,1908 869,1908 844,1908 819,1908 794,1908 769,1909"/>
+                <Baseline points="769,1930 794,1929 819,1929 844,1929 869,1929 894,1929 920,1930 945,1930 970,1930 995,1931 1020,1931 1045,1932 1071,1932 1096,1932 1121,1933 1146,1933 1171,1933 1197,1933"/>
+                <TextEquiv>
+                    <Unicode>el castigar los delitos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l6" custom="readingOrder {index:5;}">
+                <Coords points="731,1986 764,1985 797,1985 830,1985 863,1985 896,1985 929,1985 962,1985 995,1986 1028,1986 1062,1987 1095,1987 1128,1988 1161,1988 1194,1989 1227,1989 1260,1989 1293,1989 1326,1989 1359,1989 1393,1989 1393,1958 1359,1958 1326,1958 1293,1958 1260,1958 1227,1958 1194,1958 1161,1957 1128,1957 1095,1956 1062,1956 1028,1955 995,1955 962,1954 929,1954 896,1954 863,1954 830,1954 797,1954 764,1954 731,1955"/>
+                <Baseline points="731,1976 764,1975 797,1975 830,1975 863,1975 896,1975 929,1975 962,1975 995,1976 1028,1976 1062,1977 1095,1977 1128,1978 1161,1978 1194,1979 1227,1979 1260,1979 1293,1979 1326,1979 1359,1979 1393,1979"/>
+                <TextEquiv>
+                    <Unicode>ALC. 2.° Compañero, vamos claros:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l7" custom="readingOrder {index:6;}">
+                <Coords points="765,2028 791,2029 818,2029 845,2030 872,2030 899,2030 925,2030 952,2031 979,2031 1006,2031 1033,2031 1059,2031 1086,2032 1113,2032 1140,2032 1167,2032 1193,2033 1220,2033 1247,2033 1274,2034 1301,2035 1301,2004 1274,2003 1247,2002 1220,2002 1193,2002 1167,2001 1140,2001 1113,2001 1086,2001 1059,2000 1033,2000 1006,2000 979,2000 952,2000 925,1999 899,1999 872,1999 845,1999 818,1998 791,1998 765,1997"/>
+                <Baseline points="765,2018 791,2019 818,2019 845,2020 872,2020 899,2020 925,2020 952,2021 979,2021 1006,2021 1033,2021 1059,2021 1086,2022 1113,2022 1140,2022 1167,2022 1193,2023 1220,2023 1247,2023 1274,2024 1301,2025"/>
+                <TextEquiv>
+                    <Unicode>este pueblo está en peligro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l8" custom="readingOrder {index:7;}">
+                <Coords points="775,2073 801,2074 828,2075 854,2076 881,2076 908,2077 934,2077 961,2077 987,2077 1014,2078 1041,2078 1067,2078 1094,2078 1120,2078 1147,2079 1174,2079 1200,2079 1227,2080 1253,2080 1280,2081 1307,2082 1307,2051 1280,2050 1253,2049 1227,2049 1200,2048 1174,2048 1147,2048 1120,2047 1094,2047 1067,2047 1041,2047 1014,2047 987,2046 961,2046 934,2046 908,2046 881,2045 854,2045 828,2044 801,2043 775,2042"/>
+                <Baseline points="775,2063 801,2064 828,2065 854,2066 881,2066 908,2067 934,2067 961,2067 987,2067 1014,2068 1041,2068 1067,2068 1094,2068 1120,2068 1147,2069 1174,2069 1200,2069 1227,2070 1253,2070 1280,2071 1307,2072"/>
+                <TextEquiv>
+                    <Unicode>por los modos tan estraños,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ALC. 1.° ¿Pues con quién habla? 
+ALC. 2.° Con vos, que sois Alcalde
+mazizo.
+ALC. 1.° Vive Dios, que á los dos toca
+el castigar los delitos.
+ALC. 2.° Compañero, vamos claros:
+este pueblo está en peligro,
+por los modos tan estraños,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
