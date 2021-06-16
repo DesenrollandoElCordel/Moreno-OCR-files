@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v3(htr_id=26984)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-22T17:41:05.587+02:00</Created>
+        <LastChange>2020-11-27T16:04:27.024+01:00</LastChange>
+        <TranskribusMetadata docId="523582" pageId="22274785" pageNr="117" tsid="49674224" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=JIOILYDLNAPOZSPVAEFEWRCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NNDDKGNHMRHYBYGPNMCZMIBU" imageId="17351005"/>
+    </Metadata>
+    <Page imageFilename="Moreno_058_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606489621901" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="176,249 176,2439 1715,2439 1715,249"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1279,280 1306,282 1333,282 1360,282 1387,281 1414,281 1441,280 1468,280 1495,280 1522,280 1549,282 1549,251 1522,249 1495,249 1468,249 1441,249 1414,250 1387,250 1360,251 1333,251 1306,251 1279,249"/>
+                <Baseline points="1279,270 1306,272 1333,272 1360,272 1387,271 1414,271 1441,270 1468,270 1495,270 1522,270 1549,272"/>
+                <TextEquiv>
+                    <Unicode>Número 68.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:1;} textStyle {offset:5; length:2;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="615,2202 662,2204 709,2204 756,2204 804,2204 851,2204 898,2203 946,2202 993,2200 1040,2199 1088,2198 1135,2197 1182,2196 1229,2195 1277,2194 1324,2194 1371,2194 1419,2194 1466,2195 1513,2197 1561,2199 1561,2169 1513,2167 1466,2165 1419,2164 1371,2164 1324,2164 1277,2164 1229,2165 1182,2166 1135,2167 1088,2168 1040,2169 993,2170 946,2172 898,2173 851,2174 804,2174 756,2174 709,2174 662,2174 615,2172"/>
+                <Baseline points="615,2192 662,2194 709,2194 756,2194 804,2194 851,2194 898,2193 946,2192 993,2190 1040,2189 1088,2188 1135,2187 1182,2186 1229,2185 1277,2184 1324,2184 1371,2184 1419,2184 1466,2185 1513,2187 1561,2189"/>
+                <TextEquiv>
+                    <Unicode>ELSS.mo CHRISTOĐZLAMEA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:2;}">
+                <Coords points="176,2381 257,2379 338,2378 419,2376 500,2374 581,2372 662,2370 743,2369 824,2367 905,2365 986,2363 1067,2362 1148,2360 1229,2359 1310,2358 1391,2357 1472,2356 1553,2355 1634,2354 1715,2353 1715,2322 1634,2323 1553,2324 1472,2325 1391,2326 1310,2327 1229,2328 1148,2329 1067,2331 986,2332 905,2334 824,2336 743,2338 662,2339 581,2341 500,2343 419,2345 338,2347 257,2348 176,2350"/>
+                <Baseline points="176,2371 257,2369 338,2368 419,2366 500,2364 581,2362 662,2360 743,2359 824,2357 905,2355 986,2353 1067,2352 1148,2350 1229,2349 1310,2348 1391,2347 1472,2346 1553,2345 1634,2344 1715,2343"/>
+                <TextEquiv>
+                    <Unicode>Estan concedidos ochenta dias de Indulgencias </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:3;}">
+                <Coords points="652,2439 682,2439 712,2439 743,2438 773,2438 804,2438 834,2438 865,2437 895,2437 926,2437 956,2437 987,2436 1017,2436 1048,2436 1078,2435 1109,2435 1139,2434 1170,2433 1200,2432 1231,2431 1231,2400 1200,2401 1170,2402 1139,2403 1109,2404 1078,2404 1048,2405 1017,2405 987,2405 956,2406 926,2406 895,2406 865,2406 834,2407 804,2407 773,2407 743,2407 712,2408 682,2408 652,2408"/>
+                <Baseline points="652,2429 682,2429 712,2429 743,2428 773,2428 804,2428 834,2428 865,2427 895,2427 926,2427 956,2427 987,2426 1017,2426 1048,2426 1078,2425 1109,2425 1139,2424 1170,2423 1200,2422 1231,2421"/>
+                <TextEquiv>
+                    <Unicode>rezando un credo. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Número 68.
+ELSS.mo CHRISTOĐZLAMEA
+Estan concedidos ochenta dias de Indulgencias 
+rezando un credo. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1606489465290_864" custom="readingOrder {index:1;}">
+            <Coords points="216,353 1629,353 1629,2255 216,2255"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
