@@ -10,7 +10,7 @@ The train set was first OCRed with ABBYY FineReader and then manually corrected 
 * Accents, spelling, punctuation, spaces and capital letters were preserved;
 * Line breaks and paragraphs were followed.
 
-The transcriptions obtained after the manual corrections can be found in ....
+The transcriptions obtained after the manual corrections can be found in [Moreno_GroundTruth](https://github.com/DesenrollandoElCordel/Moreno-OCR-files/tree/main/Moreno-GroundTruth).
 
 ### 2. Training of a model with Transkribus
 The train set was composed of 121 pages (8109 lines). 48 pages (2283 lines) was dedicated to the validation set.
