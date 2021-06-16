@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-09T10:43:19.504+01:00</Created>
+        <LastChange>2020-11-10T14:25:39.818+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525371" pageId="22317931" pageNr="61" tsid="48491223" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=JHATMWDZBLHQCCLJUEFSIXBO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPJWCOPYLDQACBKUVTHWIEHI" imageId="17387454"/>
+    </Metadata>
+    <Page imageFilename="Moreno_100_1.jpg" imageWidth="1737" imageHeight="2508">
+        <PrintSpace>
+            <Coords points="77,218 1722,218 1722,2318 77,2318"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606755295743" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604918338552_1278"/>
+                <RegionRefIndexed index="2" regionRef="r_2_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1604918338552_1278" custom="readingOrder {index:0;}">
+            <Coords points="1179,271 1456,271 1456,348 1179,348"/>
+            <TextLine id="region_1604918338552_1278l1" custom="readingOrder {index:0;}">
+                <Coords points="1194,379 1219,381 1245,382 1271,382 1297,382 1323,382 1348,382 1374,381 1400,381 1426,381 1452,381 1452,231 1426,231 1400,231 1374,231 1348,232 1323,232 1297,232 1271,232 1245,232 1219,231 1194,229"/>
+                <Baseline points="1194,329 1219,331 1245,332 1271,332 1297,332 1323,332 1348,332 1374,331 1400,331 1426,331 1452,331"/>
+                <TextEquiv>
+                    <Unicode>(Núm. 109.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Núm. 109.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="302,408 1552,408 1552,1335 302,1335"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:2;}">
+            <Coords points="210,1389 1642,1379 1642,1894 210,1904"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="376,1513 429,1515 482,1515 535,1516 589,1516 642,1515 695,1514 749,1513 802,1512 855,1510 909,1509 962,1507 1015,1506 1068,1504 1122,1503 1175,1502 1228,1501 1282,1501 1335,1501 1388,1501 1442,1502 1442,1435 1388,1434 1335,1434 1282,1434 1228,1434 1175,1435 1122,1436 1068,1437 1015,1439 962,1440 909,1442 855,1443 802,1445 749,1446 695,1447 642,1448 589,1449 535,1449 482,1448 429,1448 376,1446"/>
+                <Baseline points="376,1491 429,1493 482,1493 535,1494 589,1494 642,1493 695,1492 749,1491 802,1490 855,1488 909,1487 962,1485 1015,1484 1068,1482 1122,1481 1175,1480 1228,1479 1282,1479 1335,1479 1388,1479 1442,1480"/>
+                <TextEquiv>
+                    <Unicode>RELACION HISTORICA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="875,1602 906,1604 937,1603 968,1601 968,1534 937,1536 906,1537 875,1535"/>
+                <Baseline points="875,1580 906,1582 937,1581 968,1579"/>
+                <TextEquiv>
+                    <Unicode>DE LA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="610,1700 642,1699 675,1699 707,1698 740,1698 772,1697 805,1697 838,1696 870,1696 903,1695 935,1695 968,1694 1000,1694 1033,1693 1066,1693 1098,1692 1131,1691 1163,1690 1196,1689 1229,1688 1229,1621 1196,1622 1163,1623 1131,1624 1098,1625 1066,1626 1033,1626 1000,1627 968,1627 935,1628 903,1628 870,1629 838,1629 805,1630 772,1630 740,1631 707,1631 675,1632 642,1632 610,1633"/>
+                <Baseline points="610,1678 642,1677 675,1677 707,1676 740,1676 772,1675 805,1675 838,1674 870,1674 903,1673 935,1673 968,1672 1000,1672 1033,1671 1066,1671 1098,1670 1131,1669 1163,1668 1196,1667 1229,1666"/>
+                <TextEquiv>
+                    <Unicode>GLORIOSA VIRGEN Y MARTIR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605014711830_109" custom="readingOrder {index:3;}">
+                <Coords points="235,1872 1620,1872 1620,1779 235,1779"/>
+                <TextEquiv>
+                    <Unicode>SANTA FILOMENA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RELACION HISTORICA.
+DE LA
+GLORIOSA VIRGEN Y MARTIR
+SANTA FILOMENA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="219,2033 796,2033 796,2301 219,2301"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="275,2100 300,2100 325,2101 351,2101 376,2101 402,2101 427,2101 452,2100 478,2100 503,2099 529,2098 554,2098 579,2097 605,2096 630,2096 656,2095 681,2095 706,2094 732,2095 757,2095 783,2095 783,2061 757,2061 732,2061 706,2060 681,2061 656,2061 630,2062 605,2062 579,2063 554,2064 529,2064 503,2065 478,2066 452,2066 427,2067 402,2067 376,2067 351,2067 325,2067 300,2066 275,2066"/>
+                <Baseline points="275,2089 300,2089 325,2090 351,2090 376,2090 402,2090 427,2090 452,2089 478,2089 503,2088 529,2087 554,2087 579,2086 605,2085 630,2085 656,2084 681,2084 706,2083 732,2084 757,2084 783,2084"/>
+                <TextEquiv>
+                    <Unicode>Atiende, lector carísimo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="223,2149 248,2150 273,2150 299,2150 324,2150 349,2150 375,2150 400,2149 425,2149 451,2148 476,2148 501,2147 527,2146 552,2146 577,2145 603,2144 628,2144 653,2143 679,2143 704,2142 730,2142 730,2108 704,2108 679,2109 653,2109 628,2110 603,2110 577,2111 552,2112 527,2112 501,2113 476,2114 451,2114 425,2115 400,2115 375,2116 349,2116 324,2116 299,2116 273,2116 248,2116 223,2115"/>
+                <Baseline points="223,2138 248,2139 273,2139 299,2139 324,2139 349,2139 375,2139 400,2138 425,2138 451,2137 476,2137 501,2136 527,2135 552,2135 577,2134 603,2133 628,2133 653,2132 679,2132 704,2131 730,2131"/>
+                <TextEquiv>
+                    <Unicode>la mas grande maravilla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="227,2196 252,2197 278,2198 303,2198 329,2198 354,2198 380,2198 406,2197 431,2197 457,2196 482,2195 508,2194 533,2194 559,2193 585,2192 610,2192 636,2192 661,2192 687,2192 713,2192 713,2158 687,2158 661,2158 636,2158 610,2158 585,2158 559,2159 533,2160 508,2160 482,2161 457,2162 431,2163 406,2163 380,2164 354,2164 329,2164 303,2164 278,2164 252,2163 227,2162"/>
+                <Baseline points="227,2185 252,2186 278,2187 303,2187 329,2187 354,2187 380,2187 406,2186 431,2186 457,2185 482,2184 508,2183 533,2183 559,2182 585,2181 610,2181 636,2181 661,2181 687,2181 713,2181"/>
+                <TextEquiv>
+                    <Unicode>que imaginarte pudiste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="225,2246 250,2247 275,2247 300,2247 325,2247 350,2247 375,2246 400,2246 425,2245 450,2245 475,2244 500,2244 525,2243 550,2243 575,2242 600,2242 625,2242 650,2242 675,2242 700,2242 700,2208 675,2208 650,2208 625,2208 600,2208 575,2208 550,2209 525,2209 500,2210 475,2210 450,2211 425,2211 400,2212 375,2212 350,2213 325,2213 300,2213 275,2213 250,2213 225,2212"/>
+                <Baseline points="225,2235 250,2236 275,2236 300,2236 325,2236 350,2236 375,2235 400,2235 425,2234 450,2234 475,2233 500,2233 525,2232 550,2232 575,2231 600,2231 625,2231 650,2231 675,2231 700,2231"/>
+                <TextEquiv>
+                    <Unicode>en los años de tu vida,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="229,2296 254,2297 280,2297 306,2297 332,2297 357,2297 383,2296 409,2296 435,2295 461,2294 486,2294 512,2293 538,2293 564,2292 589,2292 615,2292 641,2292 667,2292 693,2292 693,2258 667,2258 641,2258 615,2258 589,2258 564,2258 538,2259 512,2259 486,2260 461,2260 435,2261 409,2262 383,2262 357,2263 332,2263 306,2263 280,2263 254,2263 229,2262"/>
+                <Baseline points="229,2285 254,2286 280,2286 306,2286 332,2286 357,2286 383,2285 409,2285 435,2284 461,2283 486,2283 512,2282 538,2282 564,2281 589,2281 615,2281 641,2281 667,2281 693,2281"/>
+                <TextEquiv>
+                    <Unicode>el suceso mas terrible,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Atiende, lector carísimo,
+la mas grande maravilla
+que imaginarte pudiste
+en los años de tu vida,
+el suceso mas terrible,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;}">
+            <Coords points="949,2026 1550,2026 1550,2295 949,2295"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="958,2090 983,2089 1008,2088 1034,2087 1059,2087 1085,2086 1110,2086 1136,2085 1161,2085 1187,2085 1212,2085 1238,2085 1263,2084 1289,2084 1314,2084 1340,2083 1365,2082 1391,2082 1416,2081 1442,2080 1442,2046 1416,2047 1391,2048 1365,2048 1340,2049 1314,2050 1289,2050 1263,2050 1238,2051 1212,2051 1187,2051 1161,2051 1136,2051 1110,2052 1085,2052 1059,2053 1034,2053 1008,2054 983,2055 958,2056"/>
+                <Baseline points="958,2079 983,2078 1008,2077 1034,2076 1059,2076 1085,2075 1110,2075 1136,2074 1161,2074 1187,2074 1212,2074 1238,2074 1263,2073 1289,2073 1314,2073 1340,2072 1365,2071 1391,2071 1416,2070 1442,2069"/>
+                <TextEquiv>
+                    <Unicode>la historia mas inaudita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="963,2136 991,2136 1020,2136 1049,2136 1077,2136 1106,2136 1135,2135 1163,2135 1192,2134 1221,2133 1250,2133 1278,2132 1307,2131 1336,2131 1364,2130 1393,2130 1422,2129 1450,2129 1479,2129 1508,2129 1537,2129 1537,2095 1508,2095 1479,2095 1450,2095 1422,2095 1393,2096 1364,2096 1336,2097 1307,2097 1278,2098 1250,2099 1221,2099 1192,2100 1163,2101 1135,2101 1106,2102 1077,2102 1049,2102 1020,2102 991,2102 963,2102"/>
+                <Baseline points="963,2125 991,2125 1020,2125 1049,2125 1077,2125 1106,2125 1135,2124 1163,2124 1192,2123 1221,2122 1250,2122 1278,2121 1307,2120 1336,2120 1364,2119 1393,2119 1422,2118 1450,2118 1479,2118 1508,2118 1537,2118"/>
+                <TextEquiv>
+                    <Unicode>que en este mundo se viera,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="962,2186 988,2186 1014,2186 1040,2186 1066,2185 1092,2185 1118,2184 1144,2183 1170,2183 1196,2182 1222,2181 1248,2181 1274,2180 1300,2180 1326,2180 1352,2179 1378,2179 1404,2180 1430,2180 1456,2180 1456,2146 1430,2146 1404,2146 1378,2145 1352,2145 1326,2146 1300,2146 1274,2146 1248,2147 1222,2147 1196,2148 1170,2149 1144,2149 1118,2150 1092,2151 1066,2151 1040,2152 1014,2152 988,2152 962,2152"/>
+                <Baseline points="962,2175 988,2175 1014,2175 1040,2175 1066,2174 1092,2174 1118,2173 1144,2172 1170,2172 1196,2171 1222,2170 1248,2170 1274,2169 1300,2169 1326,2169 1352,2168 1378,2168 1404,2169 1430,2169 1456,2169"/>
+                <TextEquiv>
+                    <Unicode>la mas rara y peregrina;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="960,2235 985,2235 1010,2234 1036,2234 1061,2233 1087,2233 1112,2232 1138,2232 1163,2231 1189,2230 1214,2230 1240,2230 1265,2229 1291,2229 1316,2228 1342,2228 1367,2228 1393,2228 1418,2228 1444,2228 1444,2194 1418,2194 1393,2194 1367,2194 1342,2194 1316,2194 1291,2195 1265,2195 1240,2196 1214,2196 1189,2196 1163,2197 1138,2198 1112,2198 1087,2199 1061,2199 1036,2200 1010,2200 985,2201 960,2201"/>
+                <Baseline points="960,2224 985,2224 1010,2223 1036,2223 1061,2222 1087,2222 1112,2221 1138,2221 1163,2220 1189,2219 1214,2219 1240,2219 1265,2218 1291,2218 1316,2217 1342,2217 1367,2217 1393,2217 1418,2217 1444,2217"/>
+                <TextEquiv>
+                    <Unicode>y es la vida de la santa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="964,2286 989,2285 1015,2285 1041,2284 1066,2283 1092,2283 1118,2282 1144,2282 1169,2281 1195,2281 1221,2280 1247,2280 1272,2280 1298,2279 1324,2279 1350,2279 1375,2279 1401,2279 1427,2279 1453,2279 1453,2245 1427,2245 1401,2245 1375,2245 1350,2245 1324,2245 1298,2245 1272,2246 1247,2246 1221,2246 1195,2247 1169,2247 1144,2248 1118,2248 1092,2249 1066,2249 1041,2250 1015,2251 989,2251 964,2252"/>
+                <Baseline points="964,2275 989,2274 1015,2274 1041,2273 1066,2272 1092,2272 1118,2271 1144,2271 1169,2270 1195,2270 1221,2269 1247,2269 1272,2269 1298,2268 1324,2268 1350,2268 1375,2268 1401,2268 1427,2268 1453,2268"/>
+                <TextEquiv>
+                    <Unicode>que Filomena apellidan,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>la historia mas inaudita
+que en este mundo se viera,
+la mas rara y peregrina;
+y es la vida de la santa
+que Filomena apellidan,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
