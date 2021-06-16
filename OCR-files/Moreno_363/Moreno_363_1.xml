@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T15:53:45.78+01:00</Created>
+        <LastChange>2020-12-08T15:37:49.754+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525402" pageId="22319879" pageNr="29" tsid="50190684" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=NAKYGFSDXWVLOKHOHUIMDJOD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OWLOQIQSUOFAOUZCJFYNDSNO" imageId="17389388"/>
+    </Metadata>
+    <Page imageFilename="Moreno_363_1.jpg" imageWidth="1737" imageHeight="2508">
+        <PrintSpace>
+            <Coords points="0,0 1737,0 1737,2508 0,2508"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607440147152" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1607094208751_6573"/>
+                <RegionRefIndexed index="1" regionRef="region_1607094215829_6577"/>
+                <RegionRefIndexed index="2" regionRef="region_1607094220162_6581"/>
+                <RegionRefIndexed index="3" regionRef="region_1607094222936_6585"/>
+                <RegionRefIndexed index="4" regionRef="region_1607094226380_6589"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1607094208751_6573" custom="readingOrder {index:0;}">
+            <Coords points="1120,95 1434,95 1434,177 1120,177"/>
+            <TextLine id="region_1607094208751_6573l1" custom="readingOrder {index:0;}">
+                <Coords points="1133,209 1160,209 1187,208 1214,208 1241,207 1268,206 1296,205 1323,204 1350,203 1377,202 1404,200 1432,198 1432,48 1404,50 1377,52 1350,53 1323,54 1296,55 1268,56 1241,57 1214,58 1187,58 1160,59 1133,59"/>
+                <Baseline points="1133,159 1160,159 1187,158 1214,158 1241,157 1268,156 1296,155 1323,154 1350,153 1377,152 1404,150 1432,148"/>
+                <TextEquiv>
+                    <Unicode>Número 396. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Número 396. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1607094215829_6577" custom="readingOrder {index:1;}">
+            <Coords points="138,1114 1656,1114 1656,1772 138,1772"/>
+            <TextLine id="region_1607094215829_6577l1" custom="readingOrder {index:0;}">
+                <Coords points="461,1211 504,1211 548,1210 592,1209 636,1207 680,1206 723,1205 767,1203 811,1201 855,1199 899,1197 942,1196 986,1194 1030,1192 1074,1189 1118,1188 1161,1186 1205,1184 1249,1182 1293,1180 1337,1179 1337,1121 1293,1122 1249,1124 1205,1126 1161,1128 1118,1130 1074,1131 1030,1134 986,1136 942,1138 899,1139 855,1141 811,1143 767,1145 723,1147 680,1148 636,1149 592,1151 548,1152 504,1153 461,1153"/>
+                <Baseline points="461,1192 504,1192 548,1191 592,1190 636,1188 680,1187 723,1186 767,1184 811,1182 855,1180 899,1178 942,1177 986,1175 1030,1173 1074,1170 1118,1169 1161,1167 1205,1165 1249,1163 1293,1161 1337,1160"/>
+                <TextEquiv>
+                    <Unicode>RELACION NUEVA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607094215829_6577l2" custom="readingOrder {index:1;}">
+                <Coords points="815,1404 842,1403 870,1403 897,1403 925,1402 952,1399 980,1393 980,1335 952,1341 925,1344 897,1345 870,1345 842,1345 815,1346"/>
+                <Baseline points="815,1385 842,1384 870,1384 897,1384 925,1383 952,1380 980,1374"/>
+                <TextEquiv>
+                    <Unicode>EL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607094215829_6577l3" custom="readingOrder {index:2;}">
+                <Coords points="202,1599 271,1598 341,1595 411,1593 481,1590 551,1587 620,1584 690,1581 760,1577 830,1574 900,1570 969,1567 1039,1564 1109,1560 1179,1558 1249,1554 1318,1552 1388,1550 1458,1548 1528,1546 1598,1546 1598,1488 1528,1488 1458,1490 1388,1492 1318,1494 1249,1496 1179,1500 1109,1502 1039,1506 969,1509 900,1512 830,1516 760,1519 690,1523 620,1526 551,1529 481,1532 411,1535 341,1537 271,1540 202,1541"/>
+                <Baseline points="202,1580 271,1579 341,1576 411,1574 481,1571 551,1568 620,1565 690,1562 760,1558 830,1555 900,1551 969,1548 1039,1545 1109,1541 1179,1539 1249,1535 1318,1533 1388,1531 1458,1529 1528,1527 1598,1527"/>
+                <TextEquiv>
+                    <Unicode>MAYOR MONSTRUO,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607438254390_1480" custom="readingOrder {index:3;}">
+                <Coords points="365,1742 1489,1742 1489,1639 365,1639"/>
+                <TextEquiv>
+                    <Unicode>LOS ZELOS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RELACION NUEVA.
+EL
+MAYOR MONSTRUO,
+LOS ZELOS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1607094220162_6581" custom="readingOrder {index:2;}">
+            <Coords points="683,1891 1167,1891 1167,1957 683,1957"/>
+            <TextLine id="region_1607094220162_6581l1" custom="readingOrder {index:0;}">
+                <Coords points="718,2006 743,2006 768,2006 793,2005 818,2004 843,2003 868,2002 893,2000 918,1999 944,1997 969,1995 994,1994 1019,1993 1044,1992 1069,1991 1094,1990 1119,1990 1145,1990 1145,1840 1119,1840 1094,1840 1069,1841 1044,1842 1019,1843 994,1844 969,1845 944,1847 918,1849 893,1850 868,1852 843,1853 818,1854 793,1855 768,1856 743,1856 718,1856"/>
+                <Baseline points="718,1956 743,1956 768,1956 793,1955 818,1954 843,1953 868,1952 893,1950 918,1949 944,1947 969,1945 994,1944 1019,1943 1044,1942 1069,1941 1094,1940 1119,1940 1145,1940"/>
+                <TextEquiv>
+                    <Unicode>DE HOMBRE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DE HOMBRE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1607094222936_6585" custom="readingOrder {index:3;}">
+            <Coords points="210,2040 868,2040 868,2240 210,2240"/>
+            <TextLine id="region_1607094222936_6585l1" custom="readingOrder {index:0;}">
+                <Coords points="282,2112 310,2111 339,2110 368,2110 397,2108 426,2108 455,2106 483,2105 512,2104 541,2103 570,2102 599,2100 628,2099 657,2097 685,2096 714,2094 743,2093 772,2092 801,2090 830,2089 859,2088 859,2043 830,2044 801,2045 772,2047 743,2048 714,2049 685,2051 657,2052 628,2054 599,2055 570,2057 541,2058 512,2059 483,2060 455,2061 426,2063 397,2063 368,2065 339,2065 310,2066 282,2067"/>
+                <Baseline points="282,2097 310,2096 339,2095 368,2095 397,2093 426,2093 455,2091 483,2090 512,2089 541,2088 570,2087 599,2085 628,2084 657,2082 685,2081 714,2079 743,2078 772,2077 801,2075 830,2074 859,2073"/>
+                <TextEquiv>
+                    <Unicode>Si todas cuantas desdichas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607094222936_6585l2" custom="readingOrder {index:1;}">
+                <Coords points="236,2178 264,2177 292,2176 320,2175 348,2174 376,2173 404,2172 432,2171 460,2170 488,2169 516,2167 544,2166 572,2165 600,2163 628,2162 656,2161 684,2159 712,2158 740,2155 768,2154 797,2152 797,2107 768,2109 740,2110 712,2113 684,2114 656,2116 628,2117 600,2118 572,2120 544,2121 516,2122 488,2124 460,2125 432,2126 404,2127 376,2128 348,2129 320,2130 292,2131 264,2132 236,2133"/>
+                <Baseline points="236,2163 264,2162 292,2161 320,2160 348,2159 376,2158 404,2157 432,2156 460,2155 488,2154 516,2152 544,2151 572,2150 600,2148 628,2147 656,2146 684,2144 712,2143 740,2140 768,2139 797,2137"/>
+                <TextEquiv>
+                    <Unicode>si todas cuantas desgracias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607094222936_6585l3" custom="readingOrder {index:2;}">
+                <Coords points="251,2236 277,2237 303,2237 329,2237 355,2237 382,2236 408,2235 434,2234 460,2233 486,2232 513,2230 539,2229 565,2227 591,2226 617,2225 644,2224 670,2223 696,2223 722,2222 749,2222 749,2177 722,2177 696,2178 670,2178 644,2179 617,2180 591,2181 565,2182 539,2184 513,2185 486,2187 460,2188 434,2189 408,2190 382,2191 355,2192 329,2192 303,2192 277,2192 251,2191"/>
+                <Baseline points="251,2221 277,2222 303,2222 329,2222 355,2222 382,2221 408,2220 434,2219 460,2218 486,2217 513,2215 539,2214 565,2212 591,2211 617,2210 644,2209 670,2208 696,2208 722,2207 749,2207"/>
+                <TextEquiv>
+                    <Unicode>ha inventado la fortuna,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Si todas cuantas desdichas,
+si todas cuantas desgracias
+ha inventado la fortuna,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1607094226380_6589" custom="readingOrder {index:4;}">
+            <Coords points="930,2009 1573,2009 1573,2189 930,2189"/>
+            <TextLine id="region_1607094226380_6589l1" custom="readingOrder {index:0;}">
+                <Coords points="948,2081 979,2080 1010,2080 1041,2078 1072,2077 1103,2076 1134,2074 1165,2073 1196,2072 1227,2070 1259,2069 1290,2067 1321,2066 1352,2065 1383,2063 1414,2062 1445,2061 1476,2060 1507,2059 1538,2058 1570,2057 1570,2011 1538,2012 1507,2013 1476,2014 1445,2015 1414,2016 1383,2017 1352,2019 1321,2020 1290,2021 1259,2023 1227,2024 1196,2026 1165,2027 1134,2028 1103,2030 1072,2031 1041,2032 1010,2034 979,2034 948,2035"/>
+                <Baseline points="948,2066 979,2065 1010,2065 1041,2063 1072,2062 1103,2061 1134,2059 1165,2058 1196,2057 1227,2055 1259,2054 1290,2052 1321,2051 1352,2050 1383,2048 1414,2047 1445,2046 1476,2045 1507,2044 1538,2043 1570,2042"/>
+                <TextEquiv>
+                    <Unicode>Deidad de los hombres varia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607094226380_6589l2" custom="readingOrder {index:1;}">
+                <Coords points="954,2145 981,2144 1008,2143 1036,2142 1063,2141 1090,2140 1118,2138 1145,2137 1172,2136 1200,2135 1227,2134 1254,2133 1282,2132 1309,2130 1336,2129 1364,2128 1391,2127 1418,2125 1446,2124 1473,2123 1501,2121 1501,2076 1473,2078 1446,2079 1418,2080 1391,2082 1364,2083 1336,2084 1309,2085 1282,2087 1254,2088 1227,2089 1200,2090 1172,2091 1145,2092 1118,2093 1090,2095 1063,2096 1036,2097 1008,2098 981,2099 954,2100"/>
+                <Baseline points="954,2130 981,2129 1008,2128 1036,2127 1063,2126 1090,2125 1118,2123 1145,2122 1172,2121 1200,2120 1227,2119 1254,2118 1282,2117 1309,2115 1336,2114 1364,2113 1391,2112 1418,2110 1446,2109 1473,2108 1501,2106"/>
+                <TextEquiv>
+                    <Unicode>se perdieran, todas juntas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1607094226380_6589l3" custom="readingOrder {index:2;}">
+                <Coords points="1015,2206 1041,2205 1067,2205 1093,2204 1119,2203 1145,2201 1171,2200 1197,2199 1223,2198 1249,2197 1275,2196 1301,2195 1327,2193 1353,2192 1379,2191 1405,2190 1431,2189 1457,2188 1483,2187 1509,2187 1535,2186 1535,2140 1509,2141 1483,2141 1457,2142 1431,2143 1405,2144 1379,2145 1353,2146 1327,2147 1301,2149 1275,2150 1249,2151 1223,2152 1197,2153 1171,2154 1145,2155 1119,2157 1093,2158 1067,2159 1041,2159 1015,2160"/>
+                <Baseline points="1015,2191 1041,2190 1067,2190 1093,2189 1119,2188 1145,2186 1171,2185 1197,2184 1223,2183 1249,2182 1275,2181 1301,2180 1327,2178 1353,2177 1379,2176 1405,2175 1431,2174 1457,2173 1483,2172 1509,2172 1535,2171"/>
+                <TextEquiv>
+                    <Unicode>y en mi solo se hallarán,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deidad de los hombres varia,
+se perdieran, todas juntas
+y en mi solo se hallarán,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1607094243990_6598" custom="readingOrder {index:5;}">
+            <Coords points="302,1093 786,1093 786,244 302,244"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1607094247920_6602" custom="readingOrder {index:6;}">
+            <Coords points="930,1062 1450,1062 1450,306 930,306"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

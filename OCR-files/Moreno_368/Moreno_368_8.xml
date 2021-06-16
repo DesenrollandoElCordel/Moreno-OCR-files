@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T15:53:53.932+01:00</Created>
+        <LastChange>2020-12-08T15:44:59.473+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525402" pageId="22319902" pageNr="52" tsid="50191054" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=KLKUUMPEVOFVZJODZEDOQXMS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONLUABXPPZTNCVJEUFXNKKSI" imageId="17389361"/>
+    </Metadata>
+    <Page imageFilename="Moreno_368_8.jpeg" imageWidth="1752" imageHeight="2480">
+        <PrintSpace>
+            <Coords points="0,0 1751,0 1751,2367 0,2367"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607440148883" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="3" regionRef="region_1607094765492_7220"/>
+                <RegionRefIndexed index="4" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="157,153 803,153 803,552 157,552"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="260,200 270,200 270,166 260,166"/>
+                <Baseline points="260,189 270,189"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="157,251 189,251 221,251 253,251 285,251 317,251 349,250 381,250 413,250 445,249 478,249 510,249 542,248 574,248 606,248 638,248 670,248 702,248 734,248 766,249 799,249 799,215 766,215 734,214 702,214 670,214 638,214 606,214 574,214 542,214 510,215 478,215 445,215 413,216 381,216 349,216 317,217 285,217 253,217 221,217 189,217 157,217"/>
+                <Baseline points="157,240 189,240 221,240 253,240 285,240 317,240 349,239 381,239 413,239 445,238 478,238 510,238 542,237 574,237 606,237 638,237 670,237 702,237 734,237 766,238 799,238"/>
+                <TextEquiv>
+                    <Unicode>que este mundo es todo engaño,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;}">
+                <Coords points="163,299 188,300 214,300 240,301 266,301 291,301 317,301 343,301 369,301 394,301 420,300 446,300 472,300 497,299 523,299 549,299 575,299 600,298 626,298 652,298 678,298 678,264 652,264 626,264 600,264 575,265 549,265 523,265 497,265 472,266 446,266 420,266 394,267 369,267 343,267 317,267 291,267 266,267 240,267 214,266 188,266 163,265"/>
+                <Baseline points="163,288 188,289 214,289 240,290 266,290 291,290 317,290 343,290 369,290 394,290 420,289 446,289 472,289 497,288 523,288 549,288 575,288 600,287 626,287 652,287 678,287"/>
+                <TextEquiv>
+                    <Unicode>cuento, tramoya y enredo:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l4" custom="readingOrder {index:3;}">
+                <Coords points="163,348 188,349 214,350 239,350 265,350 291,350 316,350 342,350 367,349 393,349 419,348 444,348 470,347 495,347 521,347 547,346 572,346 598,346 623,346 649,346 675,347 675,313 649,312 623,312 598,312 572,312 547,312 521,313 495,313 470,313 444,314 419,314 393,315 367,315 342,316 316,316 291,316 265,316 239,316 214,316 188,315 163,314"/>
+                <Baseline points="163,337 188,338 214,339 239,339 265,339 291,339 316,339 342,339 367,338 393,338 419,337 444,337 470,336 495,336 521,336 547,335 572,335 598,335 623,335 649,335 675,336"/>
+                <TextEquiv>
+                    <Unicode>por lo cual pedir conviene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l5" custom="readingOrder {index:4;}">
+                <Coords points="157,396 183,397 209,398 235,398 261,399 287,399 313,399 340,399 366,399 392,398 418,398 444,397 470,397 496,396 523,396 549,396 575,396 601,396 627,397 653,397 680,398 680,364 653,363 627,363 601,362 575,362 549,362 523,362 496,362 470,363 444,363 418,364 392,364 366,365 340,365 313,365 287,365 261,365 235,364 209,364 183,363 157,362"/>
+                <Baseline points="157,385 183,386 209,387 235,387 261,388 287,388 313,388 340,388 366,388 392,387 418,387 444,386 470,386 496,385 523,385 549,385 575,385 601,385 627,386 653,386 680,387"/>
+                <TextEquiv>
+                    <Unicode>al Autor de tierra y cielo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l6" custom="readingOrder {index:5;}">
+                <Coords points="160,449 185,449 211,449 237,448 263,448 289,448 315,447 340,447 366,446 392,446 418,446 444,445 470,445 496,445 521,445 547,445 573,445 599,445 625,445 651,446 677,446 677,413 651,413 625,412 599,412 573,412 547,412 521,412 496,412 470,412 444,412 418,413 392,413 366,413 340,414 315,414 289,415 263,415 237,415 211,416 185,416 160,416"/>
+                <Baseline points="160,438 185,438 211,438 237,437 263,437 289,437 315,436 340,436 366,435 392,435 418,435 444,434 470,434 496,434 521,434 547,434 573,434 599,434 625,434 651,435 677,435"/>
+                <TextEquiv>
+                    <Unicode>para seguir su ley santa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l7" custom="readingOrder {index:6;}">
+                <Coords points="166,494 194,495 223,495 251,496 280,496 309,496 337,496 366,495 394,495 423,495 452,494 480,494 509,493 537,493 566,493 595,493 623,493 652,493 680,494 709,495 738,496 738,463 709,462 680,461 652,460 623,460 595,460 566,460 537,460 509,460 480,461 452,461 423,462 394,462 366,462 337,463 309,463 280,463 251,463 223,462 194,462 166,461"/>
+                <Baseline points="166,483 194,484 223,484 251,485 280,485 309,485 337,485 366,484 394,484 423,484 452,483 480,483 509,482 537,482 566,482 595,482 623,482 652,482 680,483 709,484 738,485"/>
+                <TextEquiv>
+                    <Unicode>nos dé buenos pensamientos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l8" custom="readingOrder {index:7;}">
+                <Coords points="160,546 186,547 212,547 238,547 265,547 291,547 317,547 344,547 370,546 396,546 423,546 449,545 475,545 501,544 528,544 554,544 580,544 607,544 633,544 659,545 686,545 686,511 659,511 633,510 607,510 580,510 554,510 528,510 501,510 475,511 449,511 423,512 396,512 370,512 344,513 317,513 291,513 265,513 238,513 212,513 186,513 160,512"/>
+                <Baseline points="160,535 186,536 212,536 238,536 265,536 291,536 317,536 344,536 370,535 396,535 423,535 449,534 475,534 501,533 528,533 554,533 580,533 607,533 633,533 659,534 686,534"/>
+                <TextEquiv>
+                    <Unicode>con auxilios de su gracia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8
+que este mundo es todo engaño,
+cuento, tramoya y enredo:
+por lo cual pedir conviene
+al Autor de tierra y cielo,
+para seguir su ley santa,
+nos dé buenos pensamientos,
+con auxilios de su gracia,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="881,190 1509,190 1509,549 881,549"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="883,246 913,246 944,246 975,245 1006,245 1037,244 1068,244 1098,243 1129,243 1160,242 1191,242 1222,241 1253,241 1284,240 1314,240 1345,240 1376,240 1407,240 1438,240 1469,240 1500,241 1500,207 1469,206 1438,206 1407,206 1376,206 1345,206 1314,206 1284,206 1253,207 1222,207 1191,208 1160,208 1129,209 1098,209 1068,210 1037,210 1006,211 975,211 944,212 913,212 883,212"/>
+                <Baseline points="883,235 913,235 944,235 975,234 1006,234 1037,233 1068,233 1098,232 1129,232 1160,231 1191,231 1222,230 1253,230 1284,229 1314,229 1345,229 1376,229 1407,229 1438,229 1469,229 1500,230"/>
+                <TextEquiv>
+                    <Unicode>puesto que es piélago inmenso.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="887,292 915,293 943,293 971,293 999,293 1027,292 1055,292 1083,292 1111,291 1139,291 1167,290 1195,290 1223,289 1251,289 1279,288 1307,288 1335,288 1363,288 1391,288 1419,289 1448,289 1448,255 1419,255 1391,254 1363,254 1335,254 1307,254 1279,254 1251,255 1223,255 1195,256 1167,256 1139,257 1111,257 1083,258 1055,258 1027,258 999,259 971,259 943,259 915,259 887,258"/>
+                <Baseline points="887,281 915,282 943,282 971,282 999,282 1027,281 1055,281 1083,281 1111,280 1139,280 1167,279 1195,279 1223,278 1251,278 1279,277 1307,277 1335,277 1363,277 1391,277 1419,278 1448,278"/>
+                <TextEquiv>
+                    <Unicode>Donde Alonso de Morales</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="891,343 916,342 941,342 966,341 991,341 1017,341 1042,340 1067,340 1092,340 1118,340 1143,340 1168,340 1193,340 1218,340 1244,339 1269,338 1294,338 1319,337 1345,335 1345,301 1319,303 1294,304 1269,304 1244,305 1218,306 1193,306 1168,306 1143,306 1118,306 1092,306 1067,306 1042,306 1017,307 991,307 966,307 941,308 916,308 891,309"/>
+                <Baseline points="891,332 916,331 941,331 966,330 991,330 1017,330 1042,329 1067,329 1092,329 1118,329 1143,329 1168,329 1193,329 1218,329 1244,328 1269,327 1294,327 1319,326 1345,324"/>
+                <TextEquiv>
+                    <Unicode>pide al ilustre congreso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="891,391 916,390 942,390 968,389 994,389 1020,389 1046,388 1072,388 1098,388 1123,388 1149,388 1175,388 1201,388 1227,388 1253,388 1279,389 1305,389 1331,390 1331,357 1305,356 1279,356 1253,355 1227,355 1201,355 1175,355 1149,355 1123,355 1098,355 1072,355 1046,355 1020,356 994,356 968,356 942,357 916,357 891,358"/>
+                <Baseline points="891,380 916,379 942,379 968,378 994,378 1020,378 1046,377 1072,377 1098,377 1123,377 1149,377 1175,377 1201,377 1227,377 1253,377 1279,378 1305,378 1331,379"/>
+                <TextEquiv>
+                    <Unicode>que con catòlica fé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="892,441 920,440 949,439 978,438 1007,438 1035,437 1064,437 1093,437 1122,437 1150,437 1179,437 1208,437 1237,437 1265,437 1294,436 1323,436 1352,436 1380,435 1409,434 1438,434 1467,432 1467,399 1438,401 1409,401 1380,402 1352,403 1323,403 1294,403 1265,404 1237,404 1208,404 1179,404 1150,404 1122,404 1093,404 1064,404 1035,404 1007,405 978,405 949,406 920,407 892,408"/>
+                <Baseline points="892,430 920,429 949,428 978,427 1007,427 1035,426 1064,426 1093,426 1122,426 1150,426 1179,426 1208,426 1237,426 1265,426 1294,425 1323,425 1352,425 1380,424 1409,423 1438,423 1467,421"/>
+                <TextEquiv>
+                    <Unicode>al Supremo Autor roguemos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="891,490 917,489 943,489 970,488 996,487 1023,487 1049,486 1075,486 1102,486 1128,485 1155,485 1181,485 1207,485 1234,485 1260,485 1287,485 1313,485 1339,484 1366,484 1392,484 1419,484 1419,450 1392,450 1366,450 1339,450 1313,451 1287,451 1260,451 1234,451 1207,451 1181,451 1155,451 1128,451 1102,452 1075,452 1049,452 1023,453 996,453 970,454 943,455 917,455 891,456"/>
+                <Baseline points="891,479 917,478 943,478 970,477 996,476 1023,476 1049,475 1075,475 1102,475 1128,474 1155,474 1181,474 1207,474 1234,474 1260,474 1287,474 1313,474 1339,473 1366,473 1392,473 1419,473"/>
+                <TextEquiv>
+                    <Unicode>que nos libre de enemigos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="895,537 921,538 948,538 974,538 1001,539 1027,538 1054,538 1080,538 1107,537 1133,537 1160,536 1186,535 1213,535 1239,534 1266,534 1292,533 1319,533 1345,533 1372,533 1398,534 1425,534 1425,500 1398,500 1372,499 1345,499 1319,499 1292,499 1266,500 1239,500 1213,501 1186,501 1160,502 1133,503 1107,503 1080,504 1054,504 1027,504 1001,505 974,504 948,504 921,504 895,503"/>
+                <Baseline points="895,526 921,527 948,527 974,527 1001,528 1027,527 1054,527 1080,527 1107,526 1133,526 1160,525 1186,524 1213,524 1239,523 1266,523 1292,522 1319,522 1345,522 1372,522 1398,523 1425,523"/>
+                <TextEquiv>
+                    <Unicode>temporales, como éternos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>puesto que es piélago inmenso.
+Donde Alonso de Morales
+pide al ilustre congreso
+que con catòlica fé
+al Supremo Autor roguemos
+que nos libre de enemigos
+temporales, como éternos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="556,1037 1183,1042 1184,1405 557,1400"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="region_1607094765492_7220" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="778,1759 994,1759 994,1877 778,1877"/>
+            <TextLine id="region_1607094765492_7220l1" custom="readingOrder {index:0;}">
+                <Coords points="793,1908 820,1908 848,1908 875,1907 903,1907 930,1906 958,1907 958,1757 930,1756 903,1757 875,1757 848,1758 820,1758 793,1758"/>
+                <Baseline points="793,1858 820,1858 848,1858 875,1857 903,1857 930,1856 958,1857"/>
+                <TextEquiv>
+                    <Unicode>FIN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>FIN.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:4;}">
+            <Coords points="200,2234 1549,2234 1549,2367 200,2367"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="671,2295 696,2295 721,2296 747,2296 772,2295 797,2295 823,2294 848,2294 874,2293 899,2292 924,2292 950,2291 975,2290 1000,2290 1026,2290 1051,2290 1077,2290 1077,2247 1051,2247 1026,2247 1000,2247 975,2247 950,2248 924,2249 899,2249 874,2250 848,2251 823,2251 797,2252 772,2252 747,2253 721,2253 696,2252 671,2252"/>
+                <Baseline points="671,2281 696,2281 721,2282 747,2282 772,2281 797,2281 823,2280 848,2280 874,2279 899,2278 924,2278 950,2277 975,2276 1000,2276 1026,2276 1051,2276 1077,2276"/>
+                <TextEquiv>
+                    <Unicode>CARMONA—1863:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="200,2365 270,2364 340,2362 411,2361 481,2360 552,2359 622,2358 693,2356 763,2355 834,2354 904,2353 975,2352 1045,2350 1116,2349 1186,2348 1257,2347 1327,2345 1398,2344 1468,2342 1539,2341 1539,2298 1468,2299 1398,2301 1327,2302 1257,2304 1186,2305 1116,2306 1045,2307 975,2309 904,2310 834,2311 763,2312 693,2313 622,2315 552,2316 481,2317 411,2318 340,2319 270,2321 200,2322"/>
+                <Baseline points="200,2351 270,2350 340,2348 411,2347 481,2346 552,2345 622,2344 693,2342 763,2341 834,2340 904,2339 975,2338 1045,2336 1116,2335 1186,2334 1257,2333 1327,2331 1398,2330 1468,2328 1539,2327"/>
+                <TextEquiv>
+                    <Unicode>Imp. y libreria de D. José. M. Moreno, calle Madre de Dios, núm. 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARMONA—1863:
+Imp. y libreria de D. José. M. Moreno, calle Madre de Dios, núm. 1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

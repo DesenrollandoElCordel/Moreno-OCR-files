@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v4(htr_id=27283)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T15:53:59.79+01:00</Created>
+        <LastChange>2020-12-08T16:03:33.682+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="525402" pageId="22319927" pageNr="73" tsid="50191982" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=XSQGVBXOPNBZHDGMVNYYIEXO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AOPZNXKAKDACLDQJVSNCZDFD" imageId="17389443"/>
+    </Metadata>
+    <Page imageFilename="Moreno_374_1.jpeg" imageWidth="907" imageHeight="1299">
+        <PrintSpace>
+            <Coords points="0,0 907,0 907,1272 0,1272"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607440150211" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_6_1"/>
+                <RegionRefIndexed index="5" regionRef="r_7_1"/>
+                <RegionRefIndexed index="6" regionRef="r_8_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="595,96 713,96 713,121 595,121"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="591,124 650,136 720,138 718,77 648,75 590,111"/>
+                <Baseline points="623,116 653,114 683,116"/>
+                <TextEquiv>
+                    <Unicode>Núm. 36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 36</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="415,120 784,121 784,608 415,607"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="102,625 763,625 763,694 102,694"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="105,723 137,724 170,724 202,725 235,725 267,725 300,726 332,726 365,726 397,726 430,726 462,726 495,726 527,726 560,726 592,727 625,727 657,728 690,729 722,730 755,731 755,581 722,580 690,579 657,578 625,577 592,577 560,576 527,576 495,576 462,576 430,576 397,576 365,576 332,576 300,576 267,575 235,575 202,575 170,574 137,574 105,573"/>
+                <Baseline points="105,673 137,674 170,674 202,675 235,675 267,675 300,676 332,676 365,676 397,676 430,676 462,676 495,676 527,676 560,676 592,677 625,677 657,678 690,679 722,680 755,681"/>
+                <TextEquiv>
+                    <Unicode>DÉCIMAS TROVADAS,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DÉCIMAS TROVADAS,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="84,706 783,706 783,775 84,775"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="85,740 119,740 154,740 189,740 224,740 258,740 293,740 328,740 363,740 397,740 432,741 467,741 502,741 536,741 571,742 606,742 641,742 675,743 710,743 745,743 780,743 780,713 745,713 710,713 675,713 641,712 606,712 571,712 536,711 502,711 467,711 432,711 397,710 363,710 328,710 293,710 258,710 224,710 189,710 154,710 119,710 85,710"/>
+                <Baseline points="85,730 119,730 154,730 189,730 224,730 258,730 293,730 328,730 363,730 397,730 432,731 467,731 502,731 536,731 571,732 606,732 641,732 675,733 710,733 745,733 780,733"/>
+                <TextEquiv>
+                    <Unicode>que cantan al valiente ejército español vencedor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="189,776 214,776 240,776 265,776 291,776 316,776 342,776 368,777 393,777 419,777 444,778 470,778 495,778 521,778 547,778 572,779 598,779 623,779 649,779 675,778 675,748 649,749 623,749 598,749 572,749 547,748 521,748 495,748 470,748 444,748 419,747 393,747 368,747 342,746 316,746 291,746 265,746 240,746 214,746 189,746"/>
+                <Baseline points="189,766 214,766 240,766 265,766 291,766 316,766 342,766 368,767 393,767 419,767 444,768 470,768 495,768 521,768 547,768 572,769 598,769 623,769 649,769 675,768"/>
+                <TextEquiv>
+                    <Unicode>de la raza mahometana en Africa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>que cantan al valiente ejército español vencedor
+de la raza mahometana en Africa.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:4;}">
+            <Coords points="254,866 536,866 536,968 254,968"/>
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="284,893 311,894 338,894 365,894 392,895 419,895 446,895 473,896 500,896 528,897 528,867 500,866 473,866 446,865 419,865 392,865 365,864 338,864 311,864 284,863"/>
+                <Baseline points="284,883 311,884 338,884 365,884 392,885 419,885 446,885 473,886 500,886 528,887"/>
+                <TextEquiv>
+                    <Unicode>Dios libre á los españoles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="260,918 285,919 311,919 337,919 362,919 388,919 414,919 439,920 465,920 491,921 491,891 465,890 439,890 414,889 388,889 362,889 337,889 311,889 285,889 260,888"/>
+                <Baseline points="260,908 285,909 311,909 337,909 362,909 388,909 414,909 439,910 465,910 491,911"/>
+                <TextEquiv>
+                    <Unicode>de las terribles batallas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="263,942 290,943 317,944 344,944 371,944 398,944 425,944 452,944 479,944 506,944 506,914 479,914 452,914 425,914 398,914 371,914 344,914 317,914 290,913 263,912"/>
+                <Baseline points="263,932 290,933 317,934 344,934 371,934 398,934 425,934 452,934 479,934 506,934"/>
+                <TextEquiv>
+                    <Unicode>todos saldrán victoriosos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="261,967 288,968 315,968 343,968 370,968 397,968 425,969 452,969 479,969 507,968 507,938 479,939 452,939 425,939 397,938 370,938 343,938 315,938 288,938 261,937"/>
+                <Baseline points="261,957 288,958 315,958 343,958 370,958 397,958 425,959 452,959 479,959 507,958"/>
+                <TextEquiv>
+                    <Unicode>si no faltan las metrallas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dios libre á los españoles
+de las terribles batallas,
+todos saldrán victoriosos
+si no faltan las metrallas.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:5;}">
+            <Coords points="76,1012 355,1012 355,1136 76,1136"/>
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="114,1038 140,1039 166,1039 193,1039 219,1039 246,1039 272,1040 299,1041 325,1042 352,1044 352,1014 325,1012 299,1011 272,1010 246,1009 219,1009 193,1009 166,1009 140,1009 114,1008"/>
+                <Baseline points="114,1028 140,1029 166,1029 193,1029 219,1029 246,1029 272,1030 299,1031 325,1032 352,1034"/>
+                <TextEquiv>
+                    <Unicode>Sagrada Virgen del Mar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="83,1063 109,1064 136,1065 163,1065 189,1065 216,1064 243,1064 269,1065 296,1066 323,1067 323,1037 296,1036 269,1035 243,1034 216,1034 189,1035 163,1035 136,1035 109,1034 83,1033"/>
+                <Baseline points="83,1053 109,1054 136,1055 163,1055 189,1055 216,1054 243,1054 269,1055 296,1056 323,1057"/>
+                <TextEquiv>
+                    <Unicode>sois patrona de Almería,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="80,1091 107,1090 134,1089 161,1089 188,1089 216,1089 243,1089 270,1089 297,1090 324,1091 352,1092 352,1062 324,1061 297,1060 270,1059 243,1059 216,1059 188,1059 161,1059 134,1059 107,1060 80,1061"/>
+                <Baseline points="80,1081 107,1080 134,1079 161,1079 188,1079 216,1079 243,1079 270,1079 297,1080 324,1081 352,1082"/>
+                <TextEquiv>
+                    <Unicode>gracias á Dios, madre mia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l4" custom="readingOrder {index:3;}">
+                <Coords points="81,1114 106,1114 131,1114 157,1114 182,1113 208,1113 233,1113 259,1114 284,1114 310,1115 310,1085 284,1084 259,1084 233,1083 208,1083 182,1083 157,1084 131,1084 106,1084 81,1084"/>
+                <Baseline points="81,1104 106,1104 131,1104 157,1104 182,1103 208,1103 233,1103 259,1104 284,1104 310,1105"/>
+                <TextEquiv>
+                    <Unicode>que se tomó á Tetuan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l5" custom="readingOrder {index:4;}">
+                <Coords points="89,1138 117,1139 145,1139 173,1138 201,1138 229,1138 257,1139 285,1139 313,1139 313,1109 285,1109 257,1109 229,1108 201,1108 173,1108 145,1109 117,1109 89,1108"/>
+                <Baseline points="89,1128 117,1129 145,1129 173,1128 201,1128 229,1128 257,1129 285,1129 313,1129"/>
+                <TextEquiv>
+                    <Unicode>Con mucho celo y afan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sagrada Virgen del Mar,
+sois patrona de Almería,
+gracias á Dios, madre mia,
+que se tomó á Tetuan.
+Con mucho celo y afan</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:6;}">
+            <Coords points="439,1014 718,1014 718,1141 439,1141"/>
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="447,1043 473,1043 499,1042 526,1042 552,1042 579,1042 605,1042 631,1042 658,1042 684,1043 711,1043 711,1013 684,1013 658,1012 631,1012 605,1012 579,1012 552,1012 526,1012 499,1012 473,1013 447,1013"/>
+                <Baseline points="447,1033 473,1033 499,1032 526,1032 552,1032 579,1032 605,1032 631,1032 658,1032 684,1033 711,1033"/>
+                <TextEquiv>
+                    <Unicode>te nombran ya las naciones,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="451,1067 477,1068 504,1067 530,1067 557,1066 583,1066 610,1065 636,1065 663,1066 690,1068 690,1038 663,1036 636,1035 610,1035 583,1036 557,1036 530,1037 504,1037 477,1038 451,1037"/>
+                <Baseline points="451,1057 477,1058 504,1057 530,1057 557,1056 583,1056 610,1055 636,1055 663,1056 690,1058"/>
+                <TextEquiv>
+                    <Unicode>por Madre de defensores,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="444,1092 469,1091 494,1091 519,1090 544,1090 570,1090 595,1090 620,1090 645,1091 671,1093 671,1063 645,1061 620,1060 595,1060 570,1060 544,1060 519,1060 494,1061 469,1061 444,1062"/>
+                <Baseline points="444,1082 469,1081 494,1081 519,1080 544,1080 570,1080 595,1080 620,1080 645,1081 671,1083"/>
+                <TextEquiv>
+                    <Unicode>siendo tu hijo el tesoro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l4" custom="readingOrder {index:3;}">
+                <Coords points="450,1115 476,1116 503,1115 530,1115 557,1115 583,1115 610,1115 637,1115 664,1116 691,1118 691,1088 664,1086 637,1085 610,1085 583,1085 557,1085 530,1085 503,1085 476,1086 450,1085"/>
+                <Baseline points="450,1105 476,1106 503,1105 530,1105 557,1105 583,1105 610,1105 637,1105 664,1106 691,1108"/>
+                <TextEquiv>
+                    <Unicode>y de las manos del moro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l5" custom="readingOrder {index:4;}">
+                <Coords points="445,1139 472,1140 499,1140 526,1140 553,1140 580,1140 607,1140 634,1140 661,1140 689,1142 689,1112 661,1110 634,1110 607,1110 580,1110 553,1110 526,1110 499,1110 472,1110 445,1109"/>
+                <Baseline points="445,1129 472,1130 499,1130 526,1130 553,1130 580,1130 607,1130 634,1130 661,1130 689,1132"/>
+                <TextEquiv>
+                    <Unicode>Dios libre á los españoles,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>te nombran ya las naciones,
+por Madre de defensores,
+siendo tu hijo el tesoro,
+y de las manos del moro,
+Dios libre á los españoles,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1607095352816_7880" custom="readingOrder {index:7;}">
+            <Coords points="383,592 95,592 95,123 383,123"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
