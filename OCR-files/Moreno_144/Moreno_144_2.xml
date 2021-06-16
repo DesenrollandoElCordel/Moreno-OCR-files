@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v3(htr_id=26984)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-27T11:06:51.814+01:00</Created>
+        <LastChange>2020-10-30T16:49:46.374+01:00</LastChange>
+        <TranskribusMetadata docId="525373" pageId="22318141" pageNr="106" tsid="47498882" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=JSUUKVJQYZVUPVABFNDLHLII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JFGYYTMWQHHFGCCURPZTPLDJ" imageId="17387656"/>
+    </Metadata>
+    <Page imageFilename="Moreno_144_2.jpg" imageWidth="1188" imageHeight="1758">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606829695360" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604072939743_1228"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1604072939743_1228" custom="readingOrder {index:0;}">
+            <Coords points="215,346 1172,346 1172,606 215,606"/>
+            <TextLine id="line_1604072944287_1232" custom="readingOrder {index:0;}">
+                <Coords points="557,387 826,387 826,455 557,455"/>
+                <TextEquiv>
+                    <Unicode>PERSONAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1604072947694_1236" custom="readingOrder {index:1;}">
+                <Coords points="247,474 461,474 461,556 247,556"/>
+                <TextEquiv>
+                    <Unicode>Graciosa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1604072950948_1240" custom="readingOrder {index:2;}">
+                <Coords points="548,483 853,483 853,565 548,565"/>
+                <TextEquiv>
+                    <Unicode>Dos hombres.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1604072954996_1244" custom="readingOrder {index:3;}">
+                <Coords points="940,492 1163,492 1163,569 940,569"/>
+                <TextEquiv>
+                    <Unicode>Gracioso.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PERSONAS
+Graciosa.
+Dos hombres.
+Gracioso.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

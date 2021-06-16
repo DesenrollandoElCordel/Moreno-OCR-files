@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe) - v3(htr_id=26984)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-27T11:06:51.783+01:00</Created>
+        <LastChange>2020-10-30T16:48:27.562+01:00</LastChange>
+        <TranskribusMetadata docId="525373" pageId="22318140" pageNr="105" tsid="47498844" status="DONE" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=SQOQDTXHEKCHCRGAMANJARNS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDLWCSPQTJBYEDIYGTPCCXHI" imageId="17387655"/>
+    </Metadata>
+    <Page imageFilename="Moreno_144_1.jpg" imageWidth="1289" imageHeight="1751">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1606829695302" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="Graphic_1604072889920_1204" custom="readingOrder {index:0;}">
+            <Coords points="406,1180 767,1180 767,957 406,957"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:1;}">
+            <Coords points="127,0 127,1562 1056,1562 1056,0"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="846,176 872,176 898,176 924,176 951,177 977,177 1003,178 1029,179 1056,179 1056,88 1029,88 1003,87 977,86 951,86 924,85 898,85 872,85 846,85"/>
+                <Baseline points="846,146 872,146 898,146 924,146 951,147 977,147 1003,148 1029,149 1056,149"/>
+                <TextEquiv>
+                    <Unicode>Núm. 152.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="334,271 359,271 384,272 409,272 435,272 460,272 485,273 510,273 536,273 561,273 586,273 611,273 637,273 662,274 687,274 712,274 738,274 763,274 788,275 814,275 814,184 788,184 763,183 738,183 712,183 687,183 662,183 637,182 611,182 586,182 561,182 536,182 510,182 485,182 460,181 435,181 409,181 384,181 359,180 334,180"/>
+                <Baseline points="334,241 359,241 384,242 409,242 435,242 460,242 485,243 510,243 536,243 561,243 586,243 611,243 637,243 662,244 687,244 712,244 738,244 763,244 788,245 814,245"/>
+                <TextEquiv>
+                    <Unicode>ENTREMES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="463,450 488,452 513,454 538,455 563,455 589,455 614,455 639,455 664,456 690,457 690,366 664,365 639,364 614,364 589,364 563,364 538,364 513,363 488,361 463,359"/>
+                <Baseline points="463,420 488,422 513,424 538,425 563,425 589,425 614,425 639,425 664,426 690,427"/>
+                <TextEquiv>
+                    <Unicode>DE LOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="186,674 224,674 262,674 300,674 339,675 377,675 415,675 453,676 492,677 530,677 568,678 606,679 645,679 683,680 721,680 759,681 798,681 836,681 874,681 912,681 951,681 951,590 912,590 874,590 836,590 798,590 759,590 721,589 683,589 645,588 606,588 568,587 530,586 492,586 453,585 415,584 377,584 339,584 300,583 262,583 224,583 186,583"/>
+                <Baseline points="186,644 224,644 262,644 300,644 339,645 377,645 415,645 453,646 492,647 530,647 568,648 606,649 645,649 683,650 721,650 759,651 798,651 836,651 874,651 912,651 951,651"/>
+                <TextEquiv>
+                    <Unicode>PORFIADOS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="403,1505 428,1506 453,1507 479,1507 504,1507 530,1508 555,1507 581,1507 606,1507 631,1507 657,1508 682,1508 708,1509 733,1509 759,1511 759,1477 733,1475 708,1475 682,1474 657,1474 631,1473 606,1473 581,1473 555,1473 530,1474 504,1473 479,1473 453,1473 428,1472 403,1471"/>
+                <Baseline points="403,1494 428,1495 453,1496 479,1496 504,1496 530,1497 555,1496 581,1496 606,1496 631,1496 657,1497 682,1497 708,1498 733,1498 759,1500"/>
+                <TextEquiv>
+                    <Unicode>CARMONA:—1850.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="127,1553 173,1552 219,1552 265,1552 311,1552 357,1552 403,1552 449,1553 495,1553 541,1554 587,1555 633,1556 679,1557 725,1558 771,1558 817,1559 863,1560 909,1561 955,1561 1001,1562 1048,1562 1048,1528 1001,1528 955,1527 909,1527 863,1526 817,1525 771,1524 725,1524 679,1523 633,1522 587,1521 541,1520 495,1519 449,1519 403,1518 357,1518 311,1518 265,1518 219,1518 173,1518 127,1519"/>
+                <Baseline points="127,1542 173,1541 219,1541 265,1541 311,1541 357,1541 403,1541 449,1542 495,1542 541,1543 587,1544 633,1545 679,1546 725,1547 771,1547 817,1548 863,1549 909,1550 955,1550 1001,1551 1048,1551"/>
+                <TextEquiv>
+                    <Unicode>Imprenta de D. José M. Moreno. Descalzas, 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 152.
+ENTREMES
+DE LOS
+PORFIADOS.
+CARMONA:—1850.
+Imprenta de D. José M. Moreno. Descalzas, 1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
