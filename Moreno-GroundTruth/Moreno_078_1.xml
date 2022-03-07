@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T13:27:37.032+02:00</Created>
+        <LastChange>2020-11-16T17:29:47.744+01:00</LastChange>
+        <TranskribusMetadata docId="505081" pageId="20909998" pageNr="1" tsid="48824686" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=CWNAIGHCYFHATFKLUFCTEYFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXIRPOCXNWWVYDUVBFKOMRBV" imageId="16053563"/>
+    </Metadata>
+    <Page imageFilename="0001_Moreno_078_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646648391632" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1601897375155_5638"/>
+                <RegionRefIndexed index="1" regionRef="region_1601897397001_5642"/>
+                <RegionRefIndexed index="2" regionRef="region_1601897410583_5646"/>
+                <RegionRefIndexed index="3" regionRef="region_1601897415428_5650"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1601897375155_5638" custom="readingOrder {index:0;}">
+            <Coords points="1181,262 1522,262 1522,180 1181,180"/>
+            <TextLine id="line_1601897479280_5655" custom="readingOrder {index:0;}">
+                <Coords points="1194,207 1501,198 1502,248 1195,257"/>
+                <Baseline points="1195,252 1502,243"/>
+                <TextEquiv>
+                    <Unicode>Núm. 172.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 172.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601897397001_5642" custom="readingOrder {index:1;}">
+            <Coords points="189,1161 1536,1161 1536,1692 189,1692"/>
+            <TextLine id="line_1601897496033_5662" custom="readingOrder {index:0;}">
+                <Coords points="456,1218 1280,1192 1281,1242 457,1268"/>
+                <Baseline points="457,1263 1281,1237"/>
+                <TextEquiv>
+                    <Unicode>PASILLO ANDALUZ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897499435_5669" custom="readingOrder {index:1;}">
+                <Coords points="727,1306 1016,1296 1018,1346 729,1356"/>
+                <Baseline points="729,1351 1018,1341"/>
+                <TextEquiv>
+                    <Unicode>EJECUTADO POR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897520080_5685" custom="readingOrder {index:2;}">
+                <Coords points="223,1453 565,1442 789,1433 881,1429 1133,1425 1524,1416 1525,1466 1134,1475 882,1479 791,1483 567,1492 224,1503"/>
+                <Baseline points="224,1498 567,1487 791,1478 882,1474 1134,1470 1525,1461"/>
+                <TextEquiv>
+                    <Unicode>Antonia, José y Don Cándido.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897525571_5692" custom="readingOrder {index:3;}">
+                <Coords points="842,1529 913,1528 914,1578 843,1579"/>
+                <Baseline points="843,1574 914,1573"/>
+                <TextEquiv>
+                    <Unicode>POR </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897542242_5708" custom="readingOrder {index:4;}">
+                <Coords points="462,1639 786,1632 903,1628 1298,1619 1299,1669 904,1678 787,1682 463,1689"/>
+                <Baseline points="463,1684 787,1677 904,1673 1299,1664"/>
+                <TextEquiv>
+                    <Unicode>JUANILLO EL DE BURGO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PASILLO ANDALUZ
+EJECUTADO POR
+Antonia, José y Don Cándido.
+POR 
+JUANILLO EL DE BURGO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601897410583_5646" custom="readingOrder {index:2;}">
+            <Coords points="180,1779 826,1779 826,2232 180,2232"/>
+            <TextLine id="line_1601897553736_5715" custom="readingOrder {index:0;}">
+                <Coords points="388,1785 658,1781 659,1831 389,1835"/>
+                <Baseline points="389,1830 659,1826"/>
+                <TextEquiv>
+                    <Unicode>Sale Antonia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897567654_5731" custom="readingOrder {index:1;}">
+                <Coords points="183,1841 242,1839 689,1829 690,1879 243,1889 185,1891"/>
+                <Baseline points="185,1886 243,1884 690,1874"/>
+                <TextEquiv>
+                    <Unicode>A. Qué via mas arrastráa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897571766_5738" custom="readingOrder {index:2;}">
+                <Coords points="235,1887 773,1872 774,1922 236,1937"/>
+                <Baseline points="236,1932 774,1917"/>
+                <TextEquiv>
+                    <Unicode>tené que aguantar á un tío;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897577441_5745" custom="readingOrder {index:3;}">
+                <Coords points="240,1937 688,1923 689,1973 241,1987"/>
+                <Baseline points="241,1982 689,1968"/>
+                <TextEquiv>
+                    <Unicode>qué delito he cometio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897581529_5752" custom="readingOrder {index:4;}">
+                <Coords points="241,1992 595,1980 597,2030 243,2042"/>
+                <Baseline points="243,2037 597,2025"/>
+                <TextEquiv>
+                    <Unicode>válgame la Soleá?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897585043_5759" custom="readingOrder {index:5;}">
+                <Coords points="239,2040 770,2021 772,2071 241,2090"/>
+                <Baseline points="241,2085 772,2066"/>
+                <TextEquiv>
+                    <Unicode>¿qué tenemos con que estè</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897588639_5766" custom="readingOrder {index:6;}">
+                <Coords points="240,2087 816,2068 817,2118 241,2137"/>
+                <Baseline points="241,2132 817,2113"/>
+                <TextEquiv>
+                    <Unicode>lo mesmo que una marquesa;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897592196_5773" custom="readingOrder {index:7;}">
+                <Coords points="240,2133 786,2122 787,2172 241,2183"/>
+                <Baseline points="241,2178 787,2167"/>
+                <TextEquiv>
+                    <Unicode>pa qué quiero esas riquesa?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897595425_5780" custom="readingOrder {index:8;}">
+                <Coords points="253,2180 684,2169 685,2219 254,2230"/>
+                <Baseline points="254,2225 685,2214"/>
+                <TextEquiv>
+                    <Unicode>que se las guarde paé.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sale Antonia.
+A. Qué via mas arrastráa
+tené que aguantar á un tío;
+qué delito he cometio,
+válgame la Soleá?
+¿qué tenemos con que estè
+lo mesmo que una marquesa;
+pa qué quiero esas riquesa?
+que se las guarde paé.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601897415428_5650" custom="readingOrder {index:3;}">
+            <Coords points="940,1764 1499,1764 1499,2224 940,2224"/>
+            <TextLine id="line_1601897600109_5787" custom="readingOrder {index:0;}">
+                <Coords points="949,1772 1390,1762 1391,1812 950,1822"/>
+                <Baseline points="950,1817 1391,1807"/>
+                <TextEquiv>
+                    <Unicode>El moso pa quien nasí</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897603832_5794" custom="readingOrder {index:1;}">
+                <Coords points="947,1822 1349,1811 1350,1861 948,1872"/>
+                <Baseline points="948,1867 1350,1856"/>
+                <TextEquiv>
+                    <Unicode>no poderle yo jabrá?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897606846_5801" custom="readingOrder {index:2;}">
+                <Coords points="952,1870 1487,1863 1488,1913 953,1920"/>
+                <Baseline points="953,1915 1488,1908"/>
+                <TextEquiv>
+                    <Unicode>De cierto, me voy á ajoicá:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897609414_5808" custom="readingOrder {index:3;}">
+                <Coords points="950,1924 1396,1911 1397,1961 951,1974"/>
+                <Baseline points="951,1969 1397,1956"/>
+                <TextEquiv>
+                    <Unicode>paqué me sirve el viví!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897612101_5815" custom="readingOrder {index:4;}">
+                <Coords points="952,1971 1344,1960 1345,2010 953,2021"/>
+                <Baseline points="953,2016 1345,2005"/>
+                <TextEquiv>
+                    <Unicode>Mi tio me quié casá</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897614901_5822" custom="readingOrder {index:5;}">
+                <Coords points="952,2021 1420,2008 1421,2058 953,2071"/>
+                <Baseline points="953,2066 1421,2053"/>
+                <TextEquiv>
+                    <Unicode>con un señon, ya se vé,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897617297_5829" custom="readingOrder {index:6;}">
+                <Coords points="956,2066 1383,2060 1384,2110 957,2116"/>
+                <Baseline points="957,2111 1384,2105"/>
+                <TextEquiv>
+                    <Unicode>el gachó avilla lovén,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897620562_5836" custom="readingOrder {index:7;}">
+                <Coords points="958,2116 1351,2109 1352,2159 959,2166"/>
+                <Baseline points="959,2161 1352,2154"/>
+                <TextEquiv>
+                    <Unicode>pero pa mí no será.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601897624137_5843" custom="readingOrder {index:8;}">
+                <Coords points="960,2167 1398,2156 1399,2206 961,2217"/>
+                <Baseline points="961,2212 1399,2201"/>
+                <TextEquiv>
+                    <Unicode>Mal fin tenga el interè </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>El moso pa quien nasí
+no poderle yo jabrá?
+De cierto, me voy á ajoicá:
+paqué me sirve el viví!
+Mi tio me quié casá
+con un señon, ya se vé,
+el gachó avilla lovén,
+pero pa mí no será.
+Mal fin tenga el interè </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1604321222958_135" custom="readingOrder {index:4;}">
+            <Coords points="153,1138 550,1134 550,272 153,276"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1605544171508_76" custom="readingOrder {index:5;}">
+            <Coords points="583,1136 1037,1136 1037,401 583,401"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1605544182612_80" custom="readingOrder {index:6;}">
+            <Coords points="1564,1126 1048,1126 1048,349 1564,349"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

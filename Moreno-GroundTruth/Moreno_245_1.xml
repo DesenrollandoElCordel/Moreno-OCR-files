@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T13:51:12.740+02:00</Created>
+        <LastChange>2021-10-27T16:25:41.980+02:00</LastChange>
+        <TranskribusMetadata docId="505105" pageId="20911946" pageNr="1" tsid="67178101" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=GMSWRCRYGYYNFCRDRZMVGVLW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GWTIZMFMJHQPAHVBDTTXKFJU" imageId="16055258"/>
+    </Metadata>
+    <Page imageFilename="0001_Moreno_245_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646649719684" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1601898773598_6550"/>
+                <RegionRefIndexed index="1" regionRef="region_1601898790556_6554"/>
+                <RegionRefIndexed index="2" regionRef="region_1601898796138_6558"/>
+                <RegionRefIndexed index="3" regionRef="region_1601898821078_6562"/>
+                <RegionRefIndexed index="4" regionRef="region_1601898828134_6566"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1601898773598_6550" custom="readingOrder {index:0;}">
+            <Coords points="1219,156 1490,156 1490,233 1219,233"/>
+            <TextLine id="line_1601898842939_6570" custom="readingOrder {index:0;}">
+                <Coords points="1228,171 1470,166 1471,216 1229,221"/>
+                <Baseline points="1229,216 1471,211"/>
+                <TextEquiv>
+                    <Unicode>(Núm. 253)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Núm. 253)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601898790556_6554" custom="readingOrder {index:1;}">
+            <Coords points="280,1055 1554,1055 1554,1414 280,1414"/>
+            <TextLine id="line_1601898853939_6577" custom="readingOrder {index:0;}">
+                <Coords points="764,1084 1054,1078 1055,1128 765,1134"/>
+                <Baseline points="765,1129 1055,1123"/>
+                <TextEquiv>
+                    <Unicode>COLECCION </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898871294_6593" custom="readingOrder {index:1;}">
+                <Coords points="291,1246 408,1242 948,1233 1540,1229 1540,1279 949,1283 409,1292 293,1296"/>
+                <Baseline points="293,1291 409,1287 949,1278 1540,1274"/>
+                <TextEquiv>
+                    <Unicode>DE CANCIONES ANDALUZAS, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898876550_6600" custom="readingOrder {index:2;}">
+                <Coords points="526,1361 1320,1356 1320,1406 526,1411"/>
+                <Baseline points="526,1406 1320,1401"/>
+                <TextEquiv>
+                    <Unicode>PARA CANTAR AL GUSTO DEL DIA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>COLECCION 
+DE CANCIONES ANDALUZAS, 
+PARA CANTAR AL GUSTO DEL DIA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601898796138_6558" custom="readingOrder {index:2;}">
+            <Coords points="416,1550 1424,1550 1424,1629 416,1629"/>
+            <TextLine id="line_1601898885054_6607" custom="readingOrder {index:0;}">
+                <Coords points="427,1576 529,1576 838,1568 1411,1570 1411,1620 839,1618 530,1626 427,1626"/>
+                <Baseline points="427,1621 530,1621 839,1613 1411,1615"/>
+                <TextEquiv>
+                    <Unicode>EL TANGO AMERICANO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EL TANGO AMERICANO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601898821078_6562" custom="readingOrder {index:3;}">
+            <Coords points="207,1689 898,1689 898,2286 207,2286"/>
+            <TextLine id="line_1601898894971_6614" custom="readingOrder {index:0;}">
+                <Coords points="257,1701 756,1695 757,1745 258,1751"/>
+                <Baseline points="258,1746 757,1740"/>
+                <TextEquiv>
+                    <Unicode>Uté no e ná, uté no e ná, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898899397_6621" custom="readingOrder {index:1;}">
+                <Coords points="220,1746 725,1740 726,1790 221,1796"/>
+                <Baseline points="221,1791 726,1785"/>
+                <TextEquiv>
+                    <Unicode>uté no e chicha ni limoná, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898902161_6628" custom="readingOrder {index:2;}">
+                <Coords points="220,1789 697,1783 698,1833 221,1839"/>
+                <Baseline points="221,1834 698,1828"/>
+                <TextEquiv>
+                    <Unicode>uté no e ná, uté no e ná, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898905315_6635" custom="readingOrder {index:3;}">
+                <Coords points="218,1833 712,1824 713,1874 219,1883"/>
+                <Baseline points="219,1878 713,1869"/>
+                <TextEquiv>
+                    <Unicode>uté no sirve pa enamorá.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898909136_6642" custom="readingOrder {index:4;}">
+                <Coords points="520,1917 622,1915 623,1965 521,1967"/>
+                <Baseline points="521,1962 623,1960"/>
+                <TextEquiv>
+                    <Unicode>CORO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898912638_6649" custom="readingOrder {index:5;}">
+                <Coords points="265,1966 886,1960 886,2010 265,2016"/>
+                <Baseline points="265,2011 886,2005"/>
+                <TextEquiv>
+                    <Unicode>Si viri viri corona in quan quan, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898915724_6656" custom="readingOrder {index:6;}">
+                <Coords points="223,2008 592,2003 593,2053 224,2058"/>
+                <Baseline points="224,2053 593,2048"/>
+                <TextEquiv>
+                    <Unicode>si viri viri qui ley, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898919993_6663" custom="readingOrder {index:7;}">
+                <Coords points="228,2051 653,2048 653,2098 228,2101"/>
+                <Baseline points="228,2096 653,2093"/>
+                <TextEquiv>
+                    <Unicode>si viri viri qui negui, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898923586_6670" custom="readingOrder {index:8;}">
+                <Coords points="229,2098 803,2090 804,2140 230,2148"/>
+                <Baseline points="230,2143 804,2135"/>
+                <TextEquiv>
+                    <Unicode>fuali blanqui li está endiablá.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898927094_6677" custom="readingOrder {index:9;}">
+                <Coords points="275,2141 890,2135 890,2185 275,2191"/>
+                <Baseline points="275,2186 890,2180"/>
+                <TextEquiv>
+                    <Unicode>Mamita, qué querrá este hombe, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898930458_6684" custom="readingOrder {index:10;}">
+                <Coords points="232,2182 811,2180 811,2230 232,2232"/>
+                <Baseline points="232,2227 811,2225"/>
+                <TextEquiv>
+                    <Unicode>qué duce está la buena guana! </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898933948_6691" custom="readingOrder {index:11;}">
+                <Coords points="234,2227 681,2223 681,2273 234,2277"/>
+                <Baseline points="234,2272 681,2268"/>
+                <TextEquiv>
+                    <Unicode>que me tira de la saya,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Uté no e ná, uté no e ná, 
+uté no e chicha ni limoná, 
+uté no e ná, uté no e ná, 
+uté no sirve pa enamorá.
+CORO.
+Si viri viri corona in quan quan, 
+si viri viri qui ley, 
+si viri viri qui negui, 
+fuali blanqui li está endiablá.
+Mamita, qué querrá este hombe, 
+qué duce está la buena guana! 
+que me tira de la saya,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601898828134_6566" custom="readingOrder {index:4;}">
+            <Coords points="943,1689 1560,1689 1560,2278 943,2278"/>
+            <TextLine id="line_1601898945275_6698" custom="readingOrder {index:0;}">
+                <Coords points="956,1691 1546,1685 1546,1735 956,1741"/>
+                <Baseline points="956,1736 1546,1730"/>
+                <TextEquiv>
+                    <Unicode>qué duce está la buena guaná! </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898948720_6705" custom="readingOrder {index:1;}">
+                <Coords points="957,1736 1397,1732 1397,1782 957,1786"/>
+                <Baseline points="957,1781 1397,1777"/>
+                <TextEquiv>
+                    <Unicode>y dice que no me vaya, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898952327_6712" custom="readingOrder {index:2;}">
+                <Coords points="953,1782 1527,1775 1528,1825 954,1832"/>
+                <Baseline points="954,1827 1528,1820"/>
+                <TextEquiv>
+                    <Unicode>qué duce está la buena guaná! </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898955706_6719" custom="readingOrder {index:3;}">
+                <Coords points="955,1823 1374,1818 1375,1868 956,1873"/>
+                <Baseline points="956,1868 1375,1863"/>
+                <TextEquiv>
+                    <Unicode>si no le doy la papaya, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898959426_6726" custom="readingOrder {index:4;}">
+                <Coords points="959,1866 1541,1862 1541,1912 959,1916"/>
+                <Baseline points="959,1911 1544,1908"/>
+                <TextEquiv>
+                    <Unicode>qué duce está la buena guaná! </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898964212_6733" custom="readingOrder {index:5;}">
+                <Coords points="994,1913 1517,1905 1518,1955 995,1963"/>
+                <Baseline points="995,1958 1518,1950"/>
+                <TextEquiv>
+                    <Unicode>A la guaná duce y asucará: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898967445_6740" custom="readingOrder {index:6;}">
+                <Coords points="958,1955 1499,1944 1500,1994 959,2005"/>
+                <Baseline points="959,2000 1500,1989"/>
+                <TextEquiv>
+                    <Unicode>que chupa, rechupa y chupa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898970948_6747" custom="readingOrder {index:7;}">
+                <Coords points="960,2000 1538,1993 1539,2043 961,2050"/>
+                <Baseline points="961,2045 1539,2038"/>
+                <TextEquiv>
+                    <Unicode> qué duce está la buena guaná! </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898973549_6754" custom="readingOrder {index:8;}">
+                <Coords points="959,2041 1518,2037 1518,2087 959,2091"/>
+                <Baseline points="959,2086 1518,2082"/>
+                <TextEquiv>
+                    <Unicode>y cuanto mas chupa y chupa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898976397_6761" custom="readingOrder {index:9;}">
+                <Coords points="962,2088 1540,2078 1541,2128 963,2138"/>
+                <Baseline points="963,2133 1541,2123"/>
+                <TextEquiv>
+                    <Unicode> rechupa y chupa y no sacá ná.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898979472_6768" custom="readingOrder {index:10;}">
+                <Coords points="1005,2133 1532,2125 1533,2175 1006,2183"/>
+                <Baseline points="1006,2178 1533,2170"/>
+                <TextEquiv>
+                    <Unicode> Mi neguito vino é las Indias, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898982601_6775" custom="readingOrder {index:11;}">
+                <Coords points="967,2175 1435,2170 1435,2220 967,2225"/>
+                <Baseline points="967,2220 1435,2215"/>
+                <TextEquiv>
+                    <Unicode>toito venia yenito e tiña; </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601898986173_6782" custom="readingOrder {index:12;}">
+                <Coords points="962,2222 1529,2213 1530,2263 963,2272"/>
+                <Baseline points="963,2267 1530,2258"/>
+                <TextEquiv>
+                    <Unicode>mi neguito, paque lo conocas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>qué duce está la buena guaná! 
+y dice que no me vaya, 
+qué duce está la buena guaná! 
+si no le doy la papaya, 
+qué duce está la buena guaná! 
+A la guaná duce y asucará: 
+que chupa, rechupa y chupa,
+ qué duce está la buena guaná! 
+y cuanto mas chupa y chupa,
+ rechupa y chupa y no sacá ná.
+ Mi neguito vino é las Indias, 
+toito venia yenito e tiña; 
+mi neguito, paque lo conocas,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1604321193502_127" custom="readingOrder {index:5;}">
+            <Coords points="446,1025 914,1026 914,257 446,256"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1605544138761_65" custom="readingOrder {index:6;}">
+            <Coords points="1355,1021 922,1021 922,265 1355,265"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-01T09:37:42.774+02:00</Created>
+        <LastChange>2020-11-16T17:26:50.704+01:00</LastChange>
+        <TranskribusMetadata docId="499750" pageId="20730010" pageNr="1" tsid="48824456" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=SNUIGVTFNFAXFBWUQYXLVCQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSVFEKSUMKQLSWPQHHGWXRAL" imageId="15877644"/>
+    </Metadata>
+    <Page imageFilename="0001_Moreno_007_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646649186531" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1601538041007_28"/>
+                <RegionRefIndexed index="2" regionRef="region_1601538200897_181"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="169,341 125,1725 1544,1725 1588,341"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1172,382 1198,382 1224,383 1251,383 1277,383 1304,382 1330,382 1357,381 1383,381 1410,380 1410,341 1383,342 1357,342 1330,343 1304,343 1277,344 1251,344 1224,344 1198,343 1172,343"/>
+                <Baseline points="1172,369 1198,369 1224,370 1251,370 1277,370 1304,369 1330,369 1357,368 1383,368 1410,367"/>
+                <TextEquiv>
+                    <Unicode>(Número 6.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="415,492 460,492 506,492 552,492 598,492 644,493 690,493 736,494 782,494 828,495 874,496 919,496 965,496 1011,496 1057,496 1103,496 1149,495 1195,495 1241,494 1287,492 1333,490 1333,451 1287,453 1241,455 1195,456 1149,456 1103,457 1057,457 1011,457 965,457 919,457 874,457 828,456 782,455 736,455 690,454 644,454 598,453 552,453 506,453 460,453 415,453"/>
+                <Baseline points="415,479 460,479 506,479 552,479 598,479 644,480 690,480 736,481 782,481 828,482 874,483 919,483 965,483 1011,483 1057,483 1103,483 1149,482 1195,482 1241,481 1287,479 1333,477"/>
+                <TextEquiv>
+                    <Unicode>Antonio Narvaez y Rosaura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="470,1369 510,1368 551,1368 591,1368 632,1368 673,1369 713,1369 754,1369 795,1369 835,1370 876,1370 917,1370 957,1370 998,1370 1039,1371 1079,1371 1120,1371 1161,1370 1201,1370 1242,1370 1283,1369 1283,1330 1242,1331 1201,1331 1161,1331 1120,1332 1079,1332 1039,1332 998,1331 957,1331 917,1331 876,1331 835,1331 795,1330 754,1330 713,1330 673,1330 632,1329 591,1329 551,1329 510,1329 470,1330"/>
+                <Baseline points="470,1356 510,1355 551,1355 591,1355 632,1355 673,1356 713,1356 754,1356 795,1356 835,1357 876,1357 917,1357 957,1357 998,1357 1039,1358 1079,1358 1120,1358 1161,1357 1201,1357 1242,1357 1283,1356"/>
+                <TextEquiv>
+                    <Unicode>PRIMERA PARTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="181,1463 251,1463 321,1462 392,1462 462,1462 532,1462 603,1462 673,1462 743,1462 814,1462 884,1462 954,1462 1025,1462 1095,1463 1165,1463 1236,1463 1306,1464 1376,1465 1447,1465 1517,1466 1588,1467 1588,1436 1517,1435 1447,1434 1376,1434 1306,1433 1236,1432 1165,1432 1095,1432 1025,1431 954,1431 884,1431 814,1431 743,1431 673,1431 603,1431 532,1431 462,1431 392,1431 321,1431 251,1432 181,1432"/>
+                <Baseline points="181,1453 251,1453 321,1452 392,1452 462,1452 532,1452 603,1452 673,1452 743,1452 814,1452 884,1452 954,1452 1025,1452 1095,1453 1165,1453 1236,1453 1306,1454 1376,1455 1447,1455 1517,1456 1588,1457"/>
+                <TextEquiv>
+                    <Unicode>DE LOS AMOROSOS LANCES Y PARTICULARES SUCESOS QUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="184,1508 254,1508 324,1507 394,1507 464,1507 535,1507 605,1507 675,1507 745,1507 815,1507 886,1507 956,1508 1026,1508 1096,1508 1166,1509 1237,1509 1307,1509 1377,1510 1447,1510 1517,1511 1588,1511 1588,1480 1517,1480 1447,1479 1377,1479 1307,1478 1237,1478 1166,1478 1096,1477 1026,1477 956,1477 886,1476 815,1476 745,1476 675,1476 605,1476 535,1476 464,1476 394,1476 324,1476 254,1477 184,1477"/>
+                <Baseline points="184,1498 254,1498 324,1497 394,1497 464,1497 535,1497 605,1497 675,1497 745,1497 815,1497 886,1497 956,1498 1026,1498 1096,1498 1166,1499 1237,1499 1307,1499 1377,1500 1447,1500 1517,1501 1588,1501"/>
+                <TextEquiv>
+                    <Unicode>acaecieron á una hermosa dama llamada Rosaura, y á su amante D. Anto-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="183,1552 252,1551 322,1551 392,1551 461,1551 531,1551 601,1551 670,1551 740,1551 810,1551 880,1551 949,1551 1019,1552 1089,1552 1158,1552 1228,1553 1298,1553 1367,1554 1437,1555 1507,1556 1577,1557 1577,1526 1507,1525 1437,1524 1367,1523 1298,1522 1228,1522 1158,1521 1089,1521 1019,1521 949,1520 880,1520 810,1520 740,1520 670,1520 601,1520 531,1520 461,1520 392,1520 322,1520 252,1520 183,1521"/>
+                <Baseline points="183,1542 252,1541 322,1541 392,1541 461,1541 531,1541 601,1541 670,1541 740,1541 810,1541 880,1541 949,1541 1019,1542 1089,1542 1158,1542 1228,1543 1298,1543 1367,1544 1437,1545 1507,1546 1577,1547"/>
+                <TextEquiv>
+                    <Unicode>nio Narvaez, natural de Córdoba; dase cuenta del modo con que se des-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="184,1596 253,1596 323,1595 393,1595 462,1595 532,1595 602,1595 671,1595 741,1595 811,1595 881,1595 950,1595 1020,1596 1090,1596 1159,1596 1229,1597 1299,1598 1368,1598 1438,1599 1508,1600 1578,1601 1578,1570 1508,1569 1438,1568 1368,1567 1299,1567 1229,1566 1159,1565 1090,1565 1020,1565 950,1564 881,1564 811,1564 741,1564 671,1564 602,1564 532,1564 462,1564 393,1564 323,1564 253,1565 184,1565"/>
+                <Baseline points="184,1586 253,1586 323,1585 393,1585 462,1585 532,1585 602,1585 671,1585 741,1585 811,1585 881,1585 950,1585 1020,1586 1090,1586 1159,1586 1229,1587 1299,1588 1368,1588 1438,1589 1508,1590 1578,1591"/>
+                <TextEquiv>
+                    <Unicode>cubrió á la dama en Sierra-Morena que la guardaba un Oso, y como di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="239,1640 303,1640 368,1640 432,1639 497,1639 561,1639 626,1639 690,1639 755,1639 819,1639 884,1640 949,1640 1013,1640 1078,1640 1142,1641 1207,1641 1271,1642 1336,1642 1400,1643 1465,1644 1530,1645 1530,1614 1465,1613 1400,1612 1336,1611 1271,1611 1207,1610 1142,1610 1078,1609 1013,1609 949,1609 884,1609 819,1608 755,1608 690,1608 626,1608 561,1608 497,1608 432,1608 368,1609 303,1609 239,1609"/>
+                <Baseline points="239,1630 303,1630 368,1630 432,1629 497,1629 561,1629 626,1629 690,1629 755,1629 819,1629 884,1630 949,1630 1013,1630 1078,1630 1142,1631 1207,1631 1271,1632 1336,1632 1400,1633 1465,1634 1530,1635"/>
+                <TextEquiv>
+                    <Unicode>cho caballero lo mató; con todo lo demás que verá el curioso lector.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Número 6.)
+Antonio Narvaez y Rosaura.
+PRIMERA PARTE.
+DE LOS AMOROSOS LANCES Y PARTICULARES SUCESOS QUE
+acaecieron á una hermosa dama llamada Rosaura, y á su amante D. Anto-
+nio Narvaez, natural de Córdoba; dase cuenta del modo con que se des-
+cubrió á la dama en Sierra-Morena que la guardaba un Oso, y como di-
+cho caballero lo mató; con todo lo demás que verá el curioso lector.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601538041007_28" custom="readingOrder {index:1;}">
+            <Coords points="128,1735 813,1735 813,2291 128,2291"/>
+            <TextLine id="line_1601538121601_103" custom="readingOrder {index:0;}">
+                <Coords points="226,1733 773,1736 773,1786 226,1783"/>
+                <Baseline points="226,1778 773,1781"/>
+                <TextEquiv>
+                    <Unicode>A olvidar vanas memorias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538126992_110" custom="readingOrder {index:1;}">
+                <Coords points="179,1785 683,1788 683,1838 179,1835"/>
+                <Baseline points="179,1830 683,1833"/>
+                <TextEquiv>
+                    <Unicode>á divertir pensamientos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538134037_117" custom="readingOrder {index:2;}">
+                <Coords points="178,1834 805,1835 805,1885 178,1884"/>
+                <Baseline points="178,1879 805,1880"/>
+                <TextEquiv>
+                    <Unicode>á dar principio á mis ancias,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538139957_124" custom="readingOrder {index:3;}">
+                <Coords points="185,1881 793,1884 793,1934 185,1931"/>
+                <Baseline points="185,1926 793,1929"/>
+                <TextEquiv>
+                    <Unicode>(esta es la verdad y lo ciento.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538145304_131" custom="readingOrder {index:4;}">
+                <Coords points="177,1931 668,1937 667,1987 176,1981"/>
+                <Baseline points="176,1976 667,1982"/>
+                <TextEquiv>
+                    <Unicode>Salí, pues una mañana,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538151969_138" custom="readingOrder {index:5;}">
+                <Coords points="178,1981 767,1987 767,2037 178,2031"/>
+                <Baseline points="178,2026 767,2032"/>
+                <TextEquiv>
+                    <Unicode>cuando Abril de flores lleno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538156905_145" custom="readingOrder {index:6;}">
+                <Coords points="176,2028 720,2031 720,2081 176,2078"/>
+                <Baseline points="176,2073 720,2076"/>
+                <TextEquiv>
+                    <Unicode>consuela con su fragancias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538162364_152" custom="readingOrder {index:7;}">
+                <Coords points="176,2078 767,2081 767,2131 176,2128"/>
+                <Baseline points="176,2123 767,2126"/>
+                <TextEquiv>
+                    <Unicode>los valles, montes y cerros:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538168509_159" custom="readingOrder {index:8;}">
+                <Coords points="175,2127 565,2128 565,2178 175,2177"/>
+                <Baseline points="175,2172 565,2173"/>
+                <TextEquiv>
+                    <Unicode>alegre me divertía</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538175553_166" custom="readingOrder {index:9;}">
+                <Coords points="173,2174 702,2177 702,2227 173,2224"/>
+                <Baseline points="173,2219 702,2222"/>
+                <TextEquiv>
+                    <Unicode>en la maleza y saliendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538181878_173" custom="readingOrder {index:10;}">
+                <Coords points="175,2222 770,2227 770,2277 175,2272"/>
+                <Baseline points="175,2267 770,2272"/>
+                <TextEquiv>
+                    <Unicode>dandole vista á unos montes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A olvidar vanas memorias
+á divertir pensamientos,
+á dar principio á mis ancias,
+(esta es la verdad y lo ciento.)
+Salí, pues una mañana,
+cuando Abril de flores lleno,
+consuela con su fragancias
+los valles, montes y cerros:
+alegre me divertía
+en la maleza y saliendo
+dandole vista á unos montes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601538200897_181" custom="readingOrder {index:2;}">
+            <Coords points="895,1734 1551,1734 1551,2290 895,2290"/>
+            <TextLine id="line_1601538237458_198" custom="readingOrder {index:0;}">
+                <Coords points="906,1741 1431,1742 1431,1792 906,1791"/>
+                <Baseline points="906,1786 1431,1787"/>
+                <TextEquiv>
+                    <Unicode>donde para un arroyuelo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538243403_205" custom="readingOrder {index:1;}">
+                <Coords points="906,1789 1477,1792 1477,1842 906,1839"/>
+                <Baseline points="906,1834 1477,1837"/>
+                <TextEquiv>
+                    <Unicode>que en derretidos cristales</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538249628_212" custom="readingOrder {index:2;}">
+                <Coords points="904,1836 1489,1839 1489,1889 904,1886"/>
+                <Baseline points="904,1881 1489,1884"/>
+                <TextEquiv>
+                    <Unicode>sirve á una selva de espejo:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538254540_219" custom="readingOrder {index:3;}">
+                <Coords points="910,1886 1454,1889 1454,1939 910,1936"/>
+                <Baseline points="910,1931 1454,1934"/>
+                <TextEquiv>
+                    <Unicode>y mirando sus corrientes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538259304_226" custom="readingOrder {index:4;}">
+                <Coords points="904,1933 1448,1938 1448,1988 904,1983"/>
+                <Baseline points="904,1978 1448,1983"/>
+                <TextEquiv>
+                    <Unicode>en una sombra me siento:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538263255_233" custom="readingOrder {index:5;}">
+                <Coords points="904,1984 1364,1987 1364,2037 904,2034"/>
+                <Baseline points="904,2029 1364,2032"/>
+                <TextEquiv>
+                    <Unicode>y acabo de breve rato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538267715_240" custom="readingOrder {index:6;}">
+                <Coords points="907,2035 1402,2037 1402,2087 907,2085"/>
+                <Baseline points="907,2080 1402,2082"/>
+                <TextEquiv>
+                    <Unicode>que estaba sentado, veo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538271824_247" custom="readingOrder {index:7;}">
+                <Coords points="904,2082 1410,2085 1410,2135 904,2132"/>
+                <Baseline points="904,2127 1410,2130"/>
+                <TextEquiv>
+                    <Unicode>que bajaba por el agua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538276199_254" custom="readingOrder {index:8;}">
+                <Coords points="906,2129 1540,2135 1540,2185 906,2179"/>
+                <Baseline points="906,2174 1540,2180"/>
+                <TextEquiv>
+                    <Unicode>un guante el que yo de presto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538280553_261" custom="readingOrder {index:9;}">
+                <Coords points="904,2178 1430,2182 1430,2232 904,2228"/>
+                <Baseline points="904,2223 1430,2227"/>
+                <TextEquiv>
+                    <Unicode>lo saqué de la corriente,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538284685_268" custom="readingOrder {index:10;}">
+                <Coords points="907,2228 1309,2233 1308,2283 906,2278"/>
+                <Baseline points="906,2273 1308,2278"/>
+                <TextEquiv>
+                    <Unicode>y sacudiendolo, veo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>donde para un arroyuelo,
+que en derretidos cristales
+sirve á una selva de espejo:
+y mirando sus corrientes
+en una sombra me siento:
+y acabo de breve rato
+que estaba sentado, veo
+que bajaba por el agua
+un guante el que yo de presto
+lo saqué de la corriente,
+y sacudiendolo, veo </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1605543992166_3" custom="readingOrder {index:3;}">
+            <Coords points="161,1246 672,1246 672,610 161,610"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1605544000341_7" custom="readingOrder {index:4;}">
+            <Coords points="1178,1225 703,1225 703,568 1178,568"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1605544007201_11" custom="readingOrder {index:5;}">
+            <Coords points="1199,1246 1585,1246 1585,568 1199,568"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T12:13:02.577+02:00</Created>
+        <LastChange>2020-11-16T17:30:14.079+01:00</LastChange>
+        <TranskribusMetadata docId="505009" pageId="20904169" pageNr="1" tsid="48824772" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=PMJLJBCVQTGUIMTBBLSYAENJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WZXMWSOFIVEATVIRBZCFLTQL" imageId="16047745"/>
+    </Metadata>
+    <Page imageFilename="0001_Moreno_059_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646648637667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1601893643771_5155"/>
+                <RegionRefIndexed index="1" regionRef="r1"/>
+                <RegionRefIndexed index="2" regionRef="region_1601893254919_5145"/>
+                <RegionRefIndexed index="3" regionRef="region_1601893324704_5150"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1601893643771_5155" custom="readingOrder {index:0;}">
+            <Coords points="1176,337 1478,337 1478,250 1176,250"/>
+            <TextLine id="line_1601893649260_5159" custom="readingOrder {index:0;}">
+                <Coords points="1183,278 1462,264 1464,314 1185,328"/>
+                <Baseline points="1185,323 1464,309"/>
+                <TextEquiv>
+                    <Unicode>Núm. 69.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 69.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:1;}">
+            <Coords points="260,1261 287,1661 1537,1661 1510,1261"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="543,1411 577,1410 611,1410 645,1409 679,1408 713,1406 747,1404 781,1402 815,1400 849,1398 884,1396 918,1394 952,1391 986,1389 1020,1387 1054,1386 1088,1384 1122,1383 1156,1382 1190,1382 1225,1382 1225,1340 1190,1340 1156,1340 1122,1341 1088,1342 1054,1344 1020,1345 986,1347 952,1349 918,1352 884,1354 849,1356 815,1358 781,1360 747,1362 713,1364 679,1366 645,1367 611,1368 577,1368 543,1369"/>
+                <Baseline points="543,1397 577,1396 611,1396 645,1395 679,1394 713,1392 747,1390 781,1388 815,1386 849,1384 884,1382 918,1380 952,1377 986,1375 1020,1373 1054,1372 1088,1370 1122,1369 1156,1368 1190,1368 1225,1368"/>
+                <TextEquiv>
+                    <Unicode>EL VALIENTE </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="390,1655 440,1651 490,1647 540,1644 590,1641 640,1638 690,1635 741,1632 791,1630 841,1626 891,1624 941,1622 991,1619 1041,1617 1092,1615 1142,1613 1192,1610 1242,1608 1292,1606 1342,1604 1393,1601 1393,1559 1342,1562 1292,1564 1242,1566 1192,1568 1142,1571 1092,1573 1041,1575 991,1577 941,1580 891,1582 841,1584 791,1588 741,1590 690,1593 640,1596 590,1599 540,1602 490,1605 440,1609 390,1613"/>
+                <Baseline points="390,1641 440,1637 490,1633 540,1630 590,1627 640,1624 690,1621 741,1618 791,1616 841,1612 891,1610 941,1608 991,1605 1041,1603 1092,1601 1142,1599 1192,1596 1242,1594 1292,1592 1342,1590 1393,1587"/>
+                <TextEquiv>
+                    <Unicode>ENAMORAO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EL VALIENTE 
+ENAMORAO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601893254919_5145" custom="readingOrder {index:2;}">
+            <Coords points="198,1881 832,1881 832,2350 198,2350"/>
+            <TextLine id="line_1601893661589_5166" custom="readingOrder {index:0;}">
+                <Coords points="270,1908 700,1885 702,1935 272,1958"/>
+                <Baseline points="272,1953 702,1930"/>
+                <TextEquiv>
+                    <Unicode>Señores, es tontería, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893665287_5173" custom="readingOrder {index:1;}">
+                <Coords points="220,1969 731,1936 734,1986 223,2019"/>
+                <Baseline points="223,2014 734,1981"/>
+                <TextEquiv>
+                    <Unicode>no hay un mozo como yó </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893667867_5180" custom="readingOrder {index:2;}">
+                <Coords points="225,2020 629,1996 632,2046 228,2070"/>
+                <Baseline points="228,2065 632,2041"/>
+                <TextEquiv>
+                    <Unicode>pa toa la Andalucia. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893670994_5187" custom="readingOrder {index:3;}">
+                <Coords points="226,2069 725,2045 727,2095 228,2119"/>
+                <Baseline points="228,2114 727,2090"/>
+                <TextEquiv>
+                    <Unicode>Si una mosa me quisiera </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893673473_5194" custom="readingOrder {index:4;}">
+                <Coords points="227,2117 733,2101 734,2151 228,2167"/>
+                <Baseline points="228,2162 734,2146"/>
+                <TextEquiv>
+                    <Unicode>lo mesmo que quiero yo, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893676579_5201" custom="readingOrder {index:5;}">
+                <Coords points="230,2178 642,2157 644,2207 232,2228"/>
+                <Baseline points="232,2223 644,2202"/>
+                <TextEquiv>
+                    <Unicode>la ponia junto al sor </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893679626_5208" custom="readingOrder {index:6;}">
+                <Coords points="235,2227 760,2203 762,2253 237,2277"/>
+                <Baseline points="237,2272 762,2248"/>
+                <TextEquiv>
+                    <Unicode>pa que nadie la ofendiera. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893682375_5215" custom="readingOrder {index:7;}">
+                <Coords points="244,2278 800,2257 802,2307 246,2328"/>
+                <Baseline points="246,2323 802,2302"/>
+                <TextEquiv>
+                    <Unicode>Y al hombre que la mirara.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Señores, es tontería, 
+no hay un mozo como yó 
+pa toa la Andalucia. 
+Si una mosa me quisiera 
+lo mesmo que quiero yo, 
+la ponia junto al sor 
+pa que nadie la ofendiera. 
+Y al hombre que la mirara.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601893324704_5150" custom="readingOrder {index:3;}">
+            <Coords points="917,1851 1495,1851 1495,2306 917,2306"/>
+            <TextLine id="line_1601893686970_5222" custom="readingOrder {index:0;}">
+                <Coords points="937,1878 1474,1850 1476,1900 939,1928"/>
+                <Baseline points="939,1923 1476,1895"/>
+                <TextEquiv>
+                    <Unicode>pa que no la golviera á vé, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893689735_5229" custom="readingOrder {index:1;}">
+                <Coords points="929,1934 1354,1908 1357,1958 932,1984"/>
+                <Baseline points="932,1979 1357,1953"/>
+                <TextEquiv>
+                    <Unicode>le ponia aquí la nué </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893693498_5236" custom="readingOrder {index:2;}">
+                <Coords points="939,1983 1439,1957 1441,2007 941,2033"/>
+                <Baseline points="941,2028 1441,2002"/>
+                <TextEquiv>
+                    <Unicode>y en el pescueso la cara. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893696152_5243" custom="readingOrder {index:3;}">
+                <Coords points="940,2036 1438,2008 1441,2058 943,2086"/>
+                <Baseline points="943,2081 1441,2053"/>
+                <TextEquiv>
+                    <Unicode>Me ajogue sino es verdá, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893699078_5250" custom="readingOrder {index:4;}">
+                <Coords points="937,2087 1395,2066 1397,2116 939,2137"/>
+                <Baseline points="939,2132 1397,2111"/>
+                <TextEquiv>
+                    <Unicode>si es una mugé María; </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893701540_5257" custom="readingOrder {index:5;}">
+                <Coords points="940,2143 1456,2113 1459,2163 943,2193"/>
+                <Baseline points="943,2188 1459,2158"/>
+                <TextEquiv>
+                    <Unicode>la quiero con mas trabajo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893704254_5264" custom="readingOrder {index:6;}">
+                <Coords points="944,2194 1416,2168 1418,2218 946,2244"/>
+                <Baseline points="946,2239 1418,2213"/>
+                <TextEquiv>
+                    <Unicode>que pasa un escarabajo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601893707031_5271" custom="readingOrder {index:7;}">
+                <Coords points="953,2245 1383,2224 1385,2274 955,2295"/>
+                <Baseline points="955,2290 1385,2269"/>
+                <TextEquiv>
+                    <Unicode>con la pelota que lia. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>pa que no la golviera á vé, 
+le ponia aquí la nué 
+y en el pescueso la cara. 
+Me ajogue sino es verdá, 
+si es una mugé María; 
+la quiero con mas trabajo 
+que pasa un escarabajo 
+con la pelota que lia. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1604321249582_143" custom="readingOrder {index:4;}">
+            <Coords points="394,1261 819,1252 819,509 394,518"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1605544207186_90" custom="readingOrder {index:5;}">
+            <Coords points="886,1230 1355,1230 1355,526 886,526"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

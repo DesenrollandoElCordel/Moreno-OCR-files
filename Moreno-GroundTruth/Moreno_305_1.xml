@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Pliegos de Cordel (XIXe)(htr_id=26815)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-12T14:56:15.315+02:00</Created>
+        <LastChange>2020-11-16T17:28:29.525+01:00</LastChange>
+        <TranskribusMetadata docId="511428" pageId="21497101" pageNr="1" tsid="48824479" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=ACLQDDVSOQBOSNNPWJJRLFHP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DBMEWDYZRWMYSASRSBZUOVBG" imageId="16616784"/>
+    </Metadata>
+    <Page imageFilename="0001_Moreno_305_1.jpeg" imageWidth="1752" imageHeight="2480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646648392226" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="248,208 248,2392 1520,2392 1520,208"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1202,259 1327,252 1345,267 1365,252 1397,250 1413,264 1485,263 1525,248 1526,196 1505,206 1444,199 1407,171 1343,164 1320,172 1304,160 1238,189 1204,186"/>
+                <Baseline points="1208,237 1234,236 1260,235 1286,235 1312,234 1338,234 1364,234 1390,235 1416,236 1442,236 1468,239 1494,241 1520,243"/>
+                <TextEquiv>
+                    <Unicode>Número 323</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="683,1279 771,1287 839,1255 863,1276 951,1272 989,1249 1097,1283 1141,1249 1141,1198 1110,1198 1068,1164 1041,1178 1003,1160 941,1185 866,1171 846,1187 682,1190"/>
+                <Baseline points="688,1250 714,1250 740,1250 767,1250 793,1250 819,1249 846,1249 872,1248 898,1248 925,1247 951,1247 977,1246 1004,1246 1030,1246 1056,1246 1083,1247 1109,1248 1136,1249"/>
+                <TextEquiv>
+                    <Unicode>RELACION. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="447,1422 622,1387 682,1425 762,1404 941,1428 1123,1393 1279,1429 1337,1411 1337,1338 1258,1370 1111,1369 1002,1313 770,1381 590,1335 447,1373"/>
+                <Baseline points="452,1381 498,1383 544,1385 590,1387 637,1387 683,1388 729,1388 775,1388 822,1388 868,1388 914,1388 960,1388 1007,1388 1053,1388 1099,1389 1145,1390 1192,1391 1238,1392 1284,1394 1331,1397"/>
+                <TextEquiv>
+                    <Unicode>EL PURGATORIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="911,1502 919,1502 922,1504 925,1500 933,1506 956,1506 956,1462 945,1461 942,1464 932,1461 911,1462"/>
+                <Baseline points="916,1490 950,1490"/>
+                <TextEquiv>
+                    <Unicode>DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="508,1640 1317,1649 1328,1553 1202,1514 1117,1549 792,1509 509,1519"/>
+                <Baseline points="514,1616 554,1616 594,1616 635,1616 675,1616 716,1616 756,1616 796,1616 837,1616 877,1616 918,1617 958,1617 998,1617 1039,1617 1079,1618 1120,1618 1160,1619 1200,1620 1241,1621 1281,1623 1322,1624"/>
+                <TextEquiv>
+                    <Unicode>SAN PATRICIO. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="250,1762 404,1751 441,1764 507,1751 659,1766 671,1724 556,1694 506,1724 469,1709 417,1723 375,1710 325,1669 252,1668"/>
+                <Baseline points="255,1742 280,1743 306,1744 331,1744 357,1745 383,1746 408,1746 434,1747 460,1747 485,1748 511,1748 536,1749 562,1749 588,1750 613,1750 639,1751 665,1751"/>
+                <TextEquiv>
+                    <Unicode>Hermosísima deidad,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="246,1816 347,1803 431,1819 463,1800 511,1814 550,1802 611,1816 805,1805 805,1763 618,1756 583,1772 508,1752 451,1767 365,1752 283,1772 246,1762"/>
+                <Baseline points="251,1796 276,1795 301,1795 326,1794 351,1794 376,1794 401,1794 426,1794 451,1795 476,1795 501,1795 526,1796 551,1796 576,1797 601,1797 626,1797 651,1797 676,1798 799,1800"/>
+                <TextEquiv>
+                    <Unicode>porque asi mi historia empieza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="251,1865 392,1850 417,1867 445,1850 543,1867 636,1851 832,1862 832,1806 251,1816"/>
+                <Baseline points="256,1845 284,1844 313,1844 341,1844 370,1844 398,1844 427,1844 455,1844 484,1844 512,1844 541,1844 569,1844 598,1845 626,1845 655,1845 683,1845 712,1846 740,1846 769,1847 797,1847 826,1847"/>
+                <TextEquiv>
+                    <Unicode>grande Eguidio, Rey de Irlanda,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="248,1907 303,1897 342,1912 379,1894 448,1911 480,1896 529,1907 554,1895 593,1913 686,1906 686,1868 653,1853 606,1868 584,1853 547,1869 511,1855 473,1865 452,1849 417,1867 395,1850 301,1869 248,1862"/>
+                <Baseline points="253,1893 278,1892 303,1891 328,1891 353,1891 378,1890 403,1890 428,1890 453,1891 479,1891 504,1891 529,1891 554,1892 579,1893 604,1893 629,1894 654,1895 680,1895"/>
+                <TextEquiv>
+                    <Unicode>yo soy Ludovico Egnio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;}">
+                <Coords points="250,1953 727,1959 734,1899 640,1919 527,1916 482,1895 440,1914 382,1895 342,1913 295,1899 251,1912"/>
+                <Baseline points="256,1940 282,1939 308,1939 334,1938 360,1938 387,1938 413,1938 439,1938 465,1939 492,1939 518,1940 544,1940 570,1941 596,1942 623,1942 649,1942 675,1943 701,1943 728,1943"/>
+                <TextEquiv>
+                    <Unicode>cristiano tambien, que solo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:10;}">
+                <Coords points="251,1990 321,2001 377,1992 453,2013 539,2001 633,2014 645,2009 646,1966 614,1954 588,1967 510,1952 415,1963 319,1953 296,1966 251,1957"/>
+                <Baseline points="256,1985 281,1985 307,1985 332,1986 358,1986 384,1986 409,1986 435,1986 460,1987 486,1987 512,1988 537,1988 563,1989 588,1989 614,1990 640,1991"/>
+                <TextEquiv>
+                    <Unicode>en esto nos parecemos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:11;}">
+                <Coords points="251,2045 382,2057 448,2041 597,2062 668,2043 686,2062 817,2051 818,2012 783,1991 738,1990 702,2014 673,1999 594,2015 251,1998"/>
+                <Baseline points="256,2033 283,2033 311,2034 339,2035 367,2035 395,2035 422,2036 450,2036 478,2037 506,2037 534,2037 561,2038 589,2038 617,2038 645,2039 673,2039 700,2039 728,2040 756,2040 784,2040 812,2041"/>
+                <TextEquiv>
+                    <Unicode>Patricio, y yo, aunque tambien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:12;}">
+                <Coords points="255,2086 336,2105 358,2087 426,2101 507,2092 547,2102 565,2091 606,2109 663,2098 663,2063 639,2054 604,2065 543,2048 518,2061 436,2047 309,2058 256,2044"/>
+                <Baseline points="260,2081 286,2081 313,2081 339,2081 366,2081 392,2081 419,2081 445,2082 472,2082 498,2082 525,2083 551,2084 578,2085 604,2086 631,2087 658,2089"/>
+                <TextEquiv>
+                    <Unicode>desconvenimos en esto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:13;}">
+                <Coords points="249,2150 351,2135 499,2158 595,2141 773,2154 790,2150 791,2100 250,2100"/>
+                <Baseline points="255,2130 281,2129 307,2129 334,2129 360,2129 387,2129 413,2129 440,2129 466,2130 493,2130 519,2131 545,2132 572,2132 598,2133 625,2134 651,2135 678,2136 704,2137 731,2137 757,2138 784,2139"/>
+                <TextEquiv>
+                    <Unicode>pues despues de ser cristianos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:14;}">
+                <Coords points="247,2188 744,2199 744,2155 681,2144 629,2158 596,2140 575,2157 537,2145 499,2159 445,2139 247,2153"/>
+                <Baseline points="252,2176 277,2176 303,2176 328,2176 354,2177 379,2177 405,2177 431,2177 456,2178 482,2178 507,2178 533,2179 558,2179 584,2180 610,2180 635,2181 661,2182 686,2183 712,2183 738,2184"/>
+                <TextEquiv>
+                    <Unicode>somos los dos tan opuestes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:15;}">
+                <Coords points="246,2239 297,2245 321,2226 368,2247 597,2245 614,2232 667,2247 668,2198 656,2193 608,2206 524,2192 500,2204 383,2196 359,2180 316,2198 288,2183 247,2198"/>
+                <Baseline points="252,2223 277,2223 303,2223 328,2223 354,2224 380,2224 405,2225 431,2225 457,2226 482,2226 508,2227 533,2227 559,2228 585,2228 610,2229 636,2229 662,2229"/>
+                <TextEquiv>
+                    <Unicode>que distamos cuanto vá</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:16;}">
+                <Coords points="250,2276 424,2291 514,2275 552,2292 607,2280 705,2295 741,2286 743,2237 704,2255 628,2240 596,2253 537,2244 517,2260 483,2236 464,2251 345,2251 325,2230 290,2248 251,2234"/>
+                <Baseline points="256,2269 281,2269 306,2270 331,2270 357,2271 382,2272 407,2272 432,2273 458,2273 483,2274 508,2275 533,2276 559,2276 584,2277 609,2277 634,2278 660,2278 685,2279 710,2279 736,2279"/>
+                <TextEquiv>
+                    <Unicode>desde ser malo á ser bueno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:17;}">
+                <Coords points="246,2328 544,2339 573,2326 658,2339 709,2333 710,2296 603,2282 574,2302 526,2301 460,2282 307,2299 247,2277"/>
+                <Baseline points="252,2317 277,2318 302,2318 327,2319 352,2319 377,2320 402,2321 427,2321 452,2322 478,2322 503,2323 528,2323 553,2324 578,2324 603,2325 628,2325 653,2326 678,2327 704,2327"/>
+                <TextEquiv>
+                    <Unicode>Pero con todo, en defensa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:18;}">
+                <Coords points="242,2375 291,2401 308,2386 382,2392 404,2377 617,2393 645,2379 730,2384 718,2349 607,2357 535,2349 519,2333 472,2347 458,2333 418,2344 361,2327 319,2344 301,2327 283,2342 243,2325"/>
+                <Baseline points="248,2367 273,2368 298,2369 323,2369 348,2370 373,2370 398,2371 423,2371 448,2372 473,2372 498,2373 523,2373 548,2374 573,2374 598,2375 623,2375 648,2376 673,2376 698,2376 724,2377"/>
+                <TextEquiv>
+                    <Unicode>de la fé, que adoro, y creo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:19;}">
+                <Coords points="966,1773 1082,1759 1103,1774 1330,1761 1371,1775 1425,1760 1426,1703 1395,1708 1368,1688 1303,1704 1280,1686 1244,1716 1225,1703 1176,1720 1138,1703 1069,1724 1045,1702 966,1725"/>
+                <Baseline points="971,1754 997,1754 1023,1753 1050,1753 1076,1753 1103,1753 1129,1753 1155,1753 1182,1753 1208,1754 1235,1754 1261,1755 1287,1755 1314,1755 1340,1756 1367,1756 1393,1756 1420,1756"/>
+                <TextEquiv>
+                    <Unicode>perderé una, y mil vidas:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:20;}">
+                <Coords points="969,1810 1203,1806 1309,1824 1359,1811 1386,1836 1424,1838 1437,1837 1438,1789 1404,1764 969,1772"/>
+                <Baseline points="975,1803 1000,1802 1025,1801 1051,1800 1076,1800 1101,1800 1127,1800 1152,1801 1178,1802 1203,1802 1228,1803 1254,1803 1279,1803 1305,1804 1330,1804 1355,1804 1381,1803 1406,1803 1432,1802"/>
+                <TextEquiv>
+                    <Unicode>tanto la estimo, y aprecio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:21;}">
+                <Coords points="958,1858 1107,1869 1144,1855 1183,1870 1276,1857 1395,1879 1396,1837 1360,1812 1342,1824 1184,1811 1024,1827 1007,1810 958,1814"/>
+                <Baseline points="963,1850 988,1849 1013,1848 1038,1848 1063,1848 1088,1848 1113,1848 1138,1849 1163,1849 1189,1849 1214,1850 1239,1850 1264,1851 1289,1852 1314,1853 1339,1853 1364,1854 1390,1854"/>
+                <TextEquiv>
+                    <Unicode>No te contaré piedades,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:22;}">
+                <Coords points="958,1905 1128,1906 1174,1924 1203,1905 1317,1905 1359,1921 1359,1876 1332,1861 1182,1871 1143,1859 1065,1869 992,1858 958,1869"/>
+                <Baseline points="963,1898 989,1897 1015,1897 1041,1897 1067,1897 1093,1897 1119,1897 1145,1897 1171,1897 1197,1897 1223,1897 1249,1898 1275,1898 1301,1899 1327,1899 1354,1900"/>
+                <TextEquiv>
+                    <Unicode>ni maravillas del cielo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:23;}">
+                <Coords points="962,1953 1392,1960 1392,1917 1336,1921 1313,1907 1179,1923 1128,1906 1026,1923 994,1906 962,1913"/>
+                <Baseline points="967,1946 993,1945 1019,1945 1045,1945 1072,1944 1098,1944 1124,1944 1150,1944 1177,1944 1203,1945 1229,1945 1255,1946 1282,1946 1308,1947 1334,1948 1360,1949 1387,1950"/>
+                <TextEquiv>
+                    <Unicode>obradas por mis delitos:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:24;}">
+                <Coords points="965,2001 1035,2013 1048,2001 1132,2010 1239,1999 1270,2015 1305,2001 1343,2015 1344,1960 1259,1967 1232,1954 1196,1971 1152,1970 1135,1955 1050,1972 965,1963"/>
+                <Baseline points="970,1991 996,1991 1022,1992 1048,1992 1075,1992 1101,1992 1127,1992 1154,1992 1180,1993 1206,1993 1232,1994 1259,1994 1285,1995 1311,1996 1338,1997"/>
+                <TextEquiv>
+                    <Unicode>te contaré sacrilegios,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:25;}">
+                <Coords points="962,2053 1282,2048 1348,2063 1370,2051 1370,2005 1336,2014 1309,2001 1266,2016 1218,2001 1190,2018 1158,2011 1140,2029 1106,2009 962,2012"/>
+                <Baseline points="967,2040 993,2040 1019,2040 1046,2040 1072,2040 1099,2040 1125,2040 1152,2040 1178,2041 1205,2041 1231,2041 1258,2042 1284,2042 1311,2043 1337,2043 1364,2043"/>
+                <TextEquiv>
+                    <Unicode>traicrones , y alevosias.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:26;}">
+                <Coords points="957,2099 1075,2110 1125,2092 1187,2111 1255,2094 1327,2114 1361,2095 1413,2121 1458,2114 1458,2078 1420,2060 1361,2052 1273,2078 1227,2052 1000,2061 958,2045"/>
+                <Baseline points="963,2087 988,2087 1014,2088 1040,2088 1065,2088 1091,2088 1117,2088 1143,2089 1168,2089 1194,2089 1220,2090 1246,2090 1271,2090 1297,2091 1323,2091 1349,2092 1374,2093 1400,2094 1426,2095 1452,2096"/>
+                <TextEquiv>
+                    <Unicode>hurtos y muertes, y pienso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:27;}">
+                <Coords points="965,2149 1417,2142 1417,2118 1234,2095 1162,2116 1105,2103 965,2108"/>
+                <Baseline points="971,2136 996,2135 1022,2135 1048,2135 1074,2135 1100,2135 1126,2135 1152,2135 1178,2135 1204,2136 1230,2136 1256,2136 1282,2137 1308,2137 1334,2138 1360,2138 1386,2138 1412,2139"/>
+                <TextEquiv>
+                    <Unicode>que aun es vanidad en mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="963,2196 1470,2194 1470,2171 1413,2142 1382,2163 1358,2145 1344,2160 1279,2162 1204,2145 963,2156"/>
+                <Baseline points="968,2184 994,2184 1020,2184 1046,2183 1072,2183 1098,2183 1124,2183 1150,2183 1176,2183 1202,2183 1229,2184 1255,2184 1281,2184 1307,2185 1333,2186 1359,2186 1385,2187 1411,2187 1437,2188 1464,2189"/>
+                <TextEquiv>
+                    <Unicode>gloriarme de haberlas hecho.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="965,2243 1110,2232 1201,2255 1239,2236 1301,2234 1322,2247 1391,2237 1391,2209 1342,2197 1296,2205 1263,2188 1164,2209 1134,2188 1048,2209 966,2196"/>
+                <Baseline points="971,2230 996,2230 1022,2230 1048,2231 1074,2231 1100,2231 1126,2231 1152,2231 1178,2231 1204,2231 1230,2232 1256,2232 1282,2232 1308,2233 1334,2234 1360,2235 1386,2235"/>
+                <TextEquiv>
+                    <Unicode>En una de muchas islas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:30;}">
+                <Coords points="958,2290 1193,2284 1261,2300 1295,2285 1359,2301 1375,2288 1465,2313 1466,2227 1443,2220 1360,2257 1240,2260 1219,2245 1147,2259 1064,2236 958,2252"/>
+                <Baseline points="963,2279 989,2279 1015,2279 1041,2279 1067,2279 1093,2279 1119,2279 1146,2279 1172,2280 1198,2280 1224,2280 1250,2281 1276,2281 1303,2282 1329,2282 1355,2282 1381,2283 1407,2284 1433,2284 1460,2285"/>
+                <TextEquiv>
+                    <Unicode>de Irlanda nací, y sospecho,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:31;}">
+                <Coords points="958,2341 980,2350 1029,2327 1119,2344 1178,2332 1231,2345 1395,2335 1395,2301 1347,2295 1334,2308 1294,2285 1231,2306 1152,2307 1100,2285 1035,2305 959,2299"/>
+                <Baseline points="964,2329 989,2328 1014,2327 1039,2326 1064,2326 1089,2326 1114,2326 1139,2326 1164,2327 1189,2328 1214,2328 1239,2329 1264,2329 1289,2330 1314,2330 1339,2330 1364,2330 1390,2329"/>
+                <TextEquiv>
+                    <Unicode>que todos siete planetas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:32;}">
+                <Coords points="962,2389 1007,2404 1140,2390 1262,2403 1287,2386 1376,2402 1447,2386 1447,2344 1219,2355 1195,2339 1121,2365 1065,2336 1053,2348 962,2342"/>
+                <Baseline points="967,2378 993,2378 1019,2377 1046,2377 1072,2377 1098,2377 1125,2377 1151,2377 1177,2377 1204,2378 1230,2378 1256,2378 1283,2378 1309,2378 1335,2378 1362,2379 1388,2379 1414,2379 1441,2380"/>
+                <TextEquiv>
+                    <Unicode>turbados, y descompuestos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Número 323&#13;
+RELACION. &#13;
+EL PURGATORIO&#13;
+DE&#13;
+SAN PATRICIO. &#13;
+Hermosísima deidad,&#13;
+porque asi mi historia empieza&#13;
+grande Eguidio, Rey de Irlanda,&#13;
+yo soy Ludovico Egnio,&#13;
+cristiano tambien, que solo&#13;
+en esto nos parecemos&#13;
+Patricio, y yo, aunque tambien&#13;
+desconvenimos en esto,&#13;
+pues despues de ser cristianos,&#13;
+somos los dos tan opuestes,&#13;
+que distamos cuanto vá&#13;
+desde ser malo á ser bueno.&#13;
+Pero con todo, en defensa&#13;
+de la fé, que adoro, y creo&#13;
+perderé una, y mil vidas:&#13;
+tanto la estimo, y aprecio&#13;
+No te contaré piedades,&#13;
+ni maravillas del cielo&#13;
+obradas por mis delitos:&#13;
+te contaré sacrilegios,&#13;
+traicrones , y alevosias.&#13;
+hurtos y muertes, y pienso,&#13;
+que aun es vanidad en mi&#13;
+gloriarme de haberlas hecho.&#13;
+En una de muchas islas&#13;
+de Irlanda nací, y sospecho,&#13;
+que todos siete planetas&#13;
+turbados, y descompuestos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1605544106284_56" custom="readingOrder {index:1;}">
+            <Coords points="443,293 1417,293 1417,1103 443,1103"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

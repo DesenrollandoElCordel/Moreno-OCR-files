@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T10:06:01.003+02:00</Created>
+        <LastChange>2020-11-02T13:49:21.466+01:00</LastChange>
+        <TranskribusMetadata docId="504890" pageId="20893707" pageNr="1" tsid="47652443" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=DCNCJDOZBEKUHIXPMQKVPPAZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NISKBBOUACHWSWQFJXMVWHOA" imageId="16037443"/>
+    </Metadata>
+    <Page imageFilename="0001_Moreno_026_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646648632588" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1601885331015_47"/>
+                <RegionRefIndexed index="2" regionRef="region_1601885337731_51"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="186,233 229,1992 1635,1992 1592,233"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1169,278 1195,276 1222,275 1249,275 1276,274 1303,274 1330,274 1357,272 1357,233 1330,235 1303,235 1276,235 1249,236 1222,236 1195,237 1169,239"/>
+                <Baseline points="1169,265 1195,263 1222,262 1249,262 1276,261 1303,261 1330,261 1357,259"/>
+                <TextEquiv>
+                    <Unicode>Núm. 28.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="264,1408 324,1409 384,1409 445,1409 505,1408 566,1407 626,1406 686,1404 747,1402 807,1400 868,1398 928,1396 988,1394 1049,1392 1109,1390 1170,1388 1230,1387 1290,1386 1351,1385 1411,1385 1472,1386 1472,1347 1411,1346 1351,1346 1290,1347 1230,1348 1170,1349 1109,1351 1049,1353 988,1355 928,1357 868,1359 807,1361 747,1363 686,1365 626,1367 566,1368 505,1369 445,1370 384,1370 324,1370 264,1369"/>
+                <Baseline points="264,1395 324,1396 384,1396 445,1396 505,1395 566,1394 626,1393 686,1391 747,1389 807,1387 868,1385 928,1383 988,1381 1049,1379 1109,1377 1170,1375 1230,1374 1290,1373 1351,1372 1411,1372 1472,1373"/>
+                <TextEquiv>
+                    <Unicode>LA GRAN VICTORIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="189,1513 262,1512 336,1510 409,1509 483,1507 557,1505 630,1504 704,1502 778,1500 851,1499 925,1497 998,1495 1072,1493 1146,1492 1219,1490 1293,1489 1367,1487 1440,1486 1514,1485 1588,1485 1588,1452 1514,1452 1440,1453 1367,1454 1293,1456 1219,1457 1146,1459 1072,1460 998,1462 925,1464 851,1466 778,1467 704,1469 630,1471 557,1472 483,1474 409,1476 336,1477 262,1479 189,1480"/>
+                <Baseline points="189,1502 262,1501 336,1499 409,1498 483,1496 557,1494 630,1493 704,1491 778,1489 851,1488 925,1486 998,1484 1072,1482 1146,1481 1219,1479 1293,1478 1367,1476 1440,1475 1514,1474 1588,1474"/>
+                <TextEquiv>
+                    <Unicode>QUE TUVO DON JUAN DE AUSTRIA, CONTRA LA ARMADA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="188,1559 258,1559 328,1558 398,1558 468,1556 539,1555 609,1553 679,1552 749,1550 819,1548 890,1546 960,1544 1030,1542 1100,1541 1170,1539 1241,1537 1311,1536 1381,1535 1451,1534 1521,1533 1592,1533 1592,1500 1521,1500 1451,1501 1381,1502 1311,1503 1241,1504 1170,1506 1100,1508 1030,1509 960,1511 890,1513 819,1515 749,1517 679,1519 609,1520 539,1522 468,1523 398,1525 328,1525 258,1526 188,1526"/>
+                <Baseline points="188,1548 258,1548 328,1547 398,1547 468,1545 539,1544 609,1542 679,1541 749,1539 819,1537 890,1535 960,1533 1030,1531 1100,1530 1170,1528 1241,1526 1311,1525 1381,1524 1451,1523 1521,1522 1592,1522"/>
+                <TextEquiv>
+                    <Unicode>turquesa en el golfo de Lepanto á siete de octubre de 1571, dividida en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="186,1607 256,1607 326,1607 396,1607 467,1606 537,1604 607,1603 678,1601 748,1599 818,1597 889,1595 959,1593 1029,1591 1099,1589 1170,1587 1240,1585 1310,1584 1381,1582 1451,1582 1521,1581 1592,1581 1592,1547 1521,1547 1451,1548 1381,1548 1310,1550 1240,1551 1170,1553 1099,1555 1029,1557 959,1559 889,1561 818,1563 748,1565 678,1567 607,1569 537,1570 467,1572 396,1573 326,1573 256,1573 186,1573"/>
+                <Baseline points="186,1596 256,1596 326,1596 396,1596 467,1595 537,1593 607,1592 678,1590 748,1588 818,1586 889,1584 959,1582 1029,1580 1099,1578 1170,1576 1240,1574 1310,1573 1381,1571 1451,1571 1521,1570 1592,1570"/>
+                <TextEquiv>
+                    <Unicode>tres famosos romances. El primero, cuando partió don Juan del reino de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="188,1656 258,1656 328,1656 398,1655 468,1654 538,1653 608,1652 678,1650 748,1648 818,1646 888,1644 958,1642 1028,1640 1098,1638 1168,1636 1238,1635 1308,1633 1378,1632 1448,1631 1518,1630 1588,1630 1588,1596 1518,1596 1448,1597 1378,1598 1308,1599 1238,1601 1168,1602 1098,1604 1028,1606 958,1608 888,1610 818,1612 748,1614 678,1616 608,1618 538,1619 468,1620 398,1621 328,1622 258,1622 188,1622"/>
+                <Baseline points="188,1645 258,1645 328,1645 398,1644 468,1643 538,1642 608,1641 678,1639 748,1637 818,1635 888,1633 958,1631 1028,1629 1098,1627 1168,1625 1238,1624 1308,1622 1378,1621 1448,1620 1518,1619 1588,1619"/>
+                <TextEquiv>
+                    <Unicode>Sicilia, con toda la armada en busca de la del turco. El segundo, el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="186,1705 256,1705 326,1704 396,1703 466,1702 536,1701 606,1699 676,1697 746,1695 816,1694 886,1692 956,1690 1026,1688 1096,1686 1166,1684 1236,1682 1306,1681 1376,1680 1446,1679 1516,1679 1586,1679 1586,1645 1516,1645 1446,1645 1376,1646 1306,1647 1236,1648 1166,1650 1096,1652 1026,1654 956,1656 886,1658 816,1660 746,1661 676,1663 606,1665 536,1667 466,1668 396,1669 326,1670 256,1671 186,1671"/>
+                <Baseline points="186,1694 256,1694 326,1693 396,1692 466,1691 536,1690 606,1688 676,1686 746,1684 816,1683 886,1681 956,1679 1026,1677 1096,1675 1166,1673 1236,1671 1306,1670 1376,1669 1446,1668 1516,1668 1586,1668"/>
+                <TextEquiv>
+                    <Unicode>presente que envió el Turco al señor don Juan. El tercero, otro presente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="278,1757 342,1756 406,1755 470,1753 534,1752 598,1750 662,1748 727,1747 791,1745 855,1743 919,1741 983,1739 1047,1738 1112,1736 1176,1735 1240,1733 1304,1732 1368,1731 1432,1731 1497,1730 1497,1694 1432,1695 1368,1695 1304,1696 1240,1697 1176,1699 1112,1700 1047,1702 983,1703 919,1705 855,1707 791,1709 727,1711 662,1712 598,1714 534,1716 470,1717 406,1719 342,1720 278,1721"/>
+                <Baseline points="278,1745 342,1744 406,1743 470,1741 534,1740 598,1738 662,1736 727,1735 791,1733 855,1731 919,1729 983,1727 1047,1726 1112,1724 1176,1723 1240,1721 1304,1720 1368,1719 1432,1719 1497,1718"/>
+                <TextEquiv>
+                    <Unicode>que hizo el señor don Juan al Turco, con muy, sabias respuestas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="567,1972 599,1971 631,1971 664,1970 696,1969 729,1968 761,1968 793,1967 826,1966 858,1966 891,1965 923,1964 955,1963 988,1963 1020,1962 1053,1961 1085,1960 1117,1959 1150,1958 1182,1957 1215,1956 1215,1917 1182,1918 1150,1919 1117,1920 1085,1921 1053,1922 1020,1923 988,1924 955,1924 923,1925 891,1926 858,1927 826,1927 793,1928 761,1929 729,1929 696,1930 664,1931 631,1932 599,1932 567,1933"/>
+                <Baseline points="567,1959 599,1958 631,1958 664,1957 696,1956 729,1955 761,1955 793,1954 826,1953 858,1953 891,1952 923,1951 955,1950 988,1950 1020,1949 1053,1948 1085,1947 1117,1946 1150,1945 1182,1944 1215,1943"/>
+                <TextEquiv>
+                    <Unicode>PRIMERA PARTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 28.
+LA GRAN VICTORIA
+QUE TUVO DON JUAN DE AUSTRIA, CONTRA LA ARMADA
+turquesa en el golfo de Lepanto á siete de octubre de 1571, dividida en
+tres famosos romances. El primero, cuando partió don Juan del reino de
+Sicilia, con toda la armada en busca de la del turco. El segundo, el
+presente que envió el Turco al señor don Juan. El tercero, otro presente
+que hizo el señor don Juan al Turco, con muy, sabias respuestas.
+PRIMERA PARTE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601885331015_47" custom="readingOrder {index:1;}">
+            <Coords points="180,2012 801,2012 801,2347 180,2347"/>
+            <TextLine id="line_1601885358986_55" custom="readingOrder {index:0;}">
+                <Coords points="245,2036 654,2031 655,2081 246,2086"/>
+                <Baseline points="246,2081 655,2076"/>
+                <TextEquiv>
+                    <Unicode>De Sicilia con poder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885364317_62" custom="readingOrder {index:1;}">
+                <Coords points="194,2090 634,2082 635,2132 195,2140"/>
+                <Baseline points="195,2135 635,2127"/>
+                <TextEquiv>
+                    <Unicode>la armada real partia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885368869_69" custom="readingOrder {index:2;}">
+                <Coords points="197,2136 769,2126 770,2176 198,2186"/>
+                <Baseline points="198,2181 770,2171"/>
+                <TextEquiv>
+                    <Unicode>en lindo acuerdo y concierto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885373226_76" custom="readingOrder {index:3;}">
+                <Coords points="197,2184 785,2174 786,2224 198,2234"/>
+                <Baseline points="198,2229 786,2219"/>
+                <TextEquiv>
+                    <Unicode>don Juan de Austria la regia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885378461_83" custom="readingOrder {index:4;}">
+                <Coords points="197,2233 662,2225 663,2275 198,2283"/>
+                <Baseline points="198,2278 663,2270"/>
+                <TextEquiv>
+                    <Unicode>magnánimo y valeroso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885383045_90" custom="readingOrder {index:5;}">
+                <Coords points="202,2287 654,2276 655,2326 203,2337"/>
+                <Baseline points="203,2332 655,2321"/>
+                <TextEquiv>
+                    <Unicode>príncipe de gran valía,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De Sicilia con poder
+la armada real partia,
+en lindo acuerdo y concierto
+don Juan de Austria la regia,
+magnánimo y valeroso,
+príncipe de gran valía,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601885337731_51" custom="readingOrder {index:2;}">
+            <Coords points="908,2007 1535,2007 1535,2342 908,2342"/>
+            <TextLine id="line_1601885389644_97" custom="readingOrder {index:0;}">
+                <Coords points="918,2026 1503,2013 1504,2063 919,2076"/>
+                <Baseline points="919,2071 1504,2058"/>
+                <TextEquiv>
+                    <Unicode>hermano del rey de España,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885394477_104" custom="readingOrder {index:1;}">
+                <Coords points="928,2074 1426,2062 1427,2112 929,2124"/>
+                <Baseline points="929,2119 1427,2107"/>
+                <TextEquiv>
+                    <Unicode>que por general lo envia:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885399803_111" custom="readingOrder {index:2;}">
+                <Coords points="925,2120 1439,2110 1440,2160 926,2170"/>
+                <Baseline points="926,2165 1440,2155"/>
+                <TextEquiv>
+                    <Unicode>doscientas y ocho galeras,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885404194_118" custom="readingOrder {index:3;}">
+                <Coords points="920,2169 1363,2161 1364,2211 921,2219"/>
+                <Baseline points="921,2214 1364,2206"/>
+                <TextEquiv>
+                    <Unicode>eran todas de la Liga,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885408144_125" custom="readingOrder {index:4;}">
+                <Coords points="923,2220 1508,2207 1509,2257 924,2270"/>
+                <Baseline points="924,2265 1509,2252"/>
+                <TextEquiv>
+                    <Unicode>y veinte y seis naves gruesas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601885412245_132" custom="readingOrder {index:5;}">
+                <Coords points="923,2269 1306,2261 1307,2311 924,2319"/>
+                <Baseline points="924,2314 1307,2306"/>
+                <TextEquiv>
+                    <Unicode>seis galeazas habia </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hermano del rey de España,
+que por general lo envia:
+doscientas y ocho galeras,
+eran todas de la Liga,
+y veinte y seis naves gruesas,
+seis galeazas habia </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1604321352596_177" custom="readingOrder {index:3;}">
+            <Coords points="256,1225 1502,1225 1502,292 256,292"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

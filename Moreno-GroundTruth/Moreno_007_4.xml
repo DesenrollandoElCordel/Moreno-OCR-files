@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-01T09:37:43.015+02:00</Created>
+        <LastChange>2020-10-14T14:47:36.750+02:00</LastChange>
+        <TranskribusMetadata docId="499750" pageId="20730013" pageNr="4" tsid="45045306" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=CENWUWFCYVMUMNHUDIPPYSKA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXJORVHSZHKPFOONKPUBAQVN" imageId="15877647"/>
+    </Metadata>
+    <Page imageFilename="0004_Moreno_007_4.jpg" imageWidth="1765" imageHeight="2512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646649186864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1601538468139_314"/>
+                <RegionRefIndexed index="1" regionRef="region_1601538493058_325"/>
+                <RegionRefIndexed index="2" regionRef="region_1601538505860_329"/>
+                <RegionRefIndexed index="3" regionRef="region_1601538519885_334"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1601538468139_314" custom="readingOrder {index:0;}">
+            <Coords points="294,233 352,233 352,283 294,283"/>
+            <TextLine id="line_1601538475589_318" custom="readingOrder {index:0;}">
+                <Coords points="305,231 341,232 340,282 304,281"/>
+                <Baseline points="304,276 340,277"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601538493058_325" custom="readingOrder {index:1;}">
+            <Coords points="199,288 899,288 899,1941 199,1941"/>
+            <TextLine id="line_1601538549888_339" custom="readingOrder {index:0;}">
+                <Coords points="206,281 326,282 374,282 492,284 566,282 664,284 663,334 566,332 492,334 374,332 326,332 206,331"/>
+                <Baseline points="206,326 326,327 374,327 492,329 566,327 663,329"/>
+                <TextEquiv>
+                    <Unicode>saqué la sinta de seda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538559488_346" custom="readingOrder {index:1;}">
+                <Coords points="206,328 698,331 698,381 206,378"/>
+                <Baseline points="206,373 698,376"/>
+                <TextEquiv>
+                    <Unicode>desdoblela, y un letrero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538564859_353" custom="readingOrder {index:2;}">
+                <Coords points="206,378 687,381 687,431 206,428"/>
+                <Baseline points="206,423 687,426"/>
+                <TextEquiv>
+                    <Unicode>hallé en ella que decia:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538569382_360" custom="readingOrder {index:3;}">
+                <Coords points="206,429 756,432 756,482 206,479"/>
+                <Baseline points="206,474 756,477"/>
+                <TextEquiv>
+                    <Unicode>el que de esta fuere dueño</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538574679_367" custom="readingOrder {index:4;}">
+                <Coords points="206,476 728,480 728,530 206,526"/>
+                <Baseline points="206,521 728,525"/>
+                <TextEquiv>
+                    <Unicode>tambien será de Rosaura, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538579530_374" custom="readingOrder {index:5;}">
+                <Coords points="205,524 747,526 747,576 205,574"/>
+                <Baseline points="205,569 747,571"/>
+                <TextEquiv>
+                    <Unicode>esposo, queriendo el cielo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538586195_381" custom="readingOrder {index:6;}">
+                <Coords points="209,575 748,576 748,626 209,625"/>
+                <Baseline points="209,620 748,621"/>
+                <TextEquiv>
+                    <Unicode>Quedé alegre con mi cínta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538590749_388" custom="readingOrder {index:7;}">
+                <Coords points="208,623 736,622 736,672 208,673"/>
+                <Baseline points="208,668 736,667"/>
+                <TextEquiv>
+                    <Unicode>y breve á mi casa vuelvo:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538595270_395" custom="readingOrder {index:8;}">
+                <Coords points="209,672 728,671 728,721 209,722"/>
+                <Baseline points="209,717 728,716"/>
+                <TextEquiv>
+                    <Unicode>y montando en un caballo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538599827_402" custom="readingOrder {index:9;}">
+                <Coords points="206,719 673,719 673,769 206,769"/>
+                <Baseline points="206,764 673,764"/>
+                <TextEquiv>
+                    <Unicode>una tarde cuando Febo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538603935_409" custom="readingOrder {index:10;}">
+                <Coords points="208,770 707,768 707,818 208,820"/>
+                <Baseline points="208,815 707,813"/>
+                <TextEquiv>
+                    <Unicode>queria ocultar sus luces,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538609028_416" custom="readingOrder {index:11;}">
+                <Coords points="206,818 788,820 788,870 206,868"/>
+                <Baseline points="206,863 788,865"/>
+                <TextEquiv>
+                    <Unicode>vuelvo á buscar á mi dueño:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538622700_423" custom="readingOrder {index:12;}">
+                <Coords points="203,865 780,870 780,920 203,915"/>
+                <Baseline points="203,910 780,915"/>
+                <TextEquiv>
+                    <Unicode>dile, pues, vista á la Quinta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538626578_430" custom="readingOrder {index:13;}">
+                <Coords points="205,915 786,917 786,967 205,965"/>
+                <Baseline points="205,960 786,962"/>
+                <TextEquiv>
+                    <Unicode>y alli me estuve encubierto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538631450_437" custom="readingOrder {index:14;}">
+                <Coords points="200,964 746,967 746,1017 200,1014"/>
+                <Baseline points="200,1009 746,1012"/>
+                <TextEquiv>
+                    <Unicode>hasta que la oscura noche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538635433_444" custom="readingOrder {index:15;}">
+                <Coords points="203,1014 735,1017 735,1067 203,1064"/>
+                <Baseline points="203,1059 735,1062"/>
+                <TextEquiv>
+                    <Unicode>tendiera su manto negro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538640381_451" custom="readingOrder {index:16;}">
+                <Coords points="203,1061 719,1061 719,1111 203,1111"/>
+                <Baseline points="203,1106 719,1106"/>
+                <TextEquiv>
+                    <Unicode>A un árbol até el caballo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538644569_458" custom="readingOrder {index:17;}">
+                <Coords points="205,1115 837,1112 837,1162 205,1165"/>
+                <Baseline points="205,1160 837,1157"/>
+                <TextEquiv>
+                    <Unicode>por que no anduviera inquieto:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538648066_465" custom="readingOrder {index:18;}">
+                <Coords points="203,1159 739,1160 739,1210 203,1209"/>
+                <Baseline points="203,1204 739,1205"/>
+                <TextEquiv>
+                    <Unicode>le eché porcion de cebada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538651891_472" custom="readingOrder {index:19;}">
+                <Coords points="200,1208 698,1208 698,1258 200,1258"/>
+                <Baseline points="200,1253 698,1253"/>
+                <TextEquiv>
+                    <Unicode>en la capa y con secreto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538655634_479" custom="readingOrder {index:20;}">
+                <Coords points="202,1256 650,1258 650,1308 202,1306"/>
+                <Baseline points="202,1301 650,1303"/>
+                <TextEquiv>
+                    <Unicode>paseè toda la Quinta:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538659568_486" custom="readingOrder {index:21;}">
+                <Coords points="200,1307 713,1305 713,1355 200,1357"/>
+                <Baseline points="200,1352 713,1350"/>
+                <TextEquiv>
+                    <Unicode>llegué al referido puesto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538670488_493" custom="readingOrder {index:22;}">
+                <Coords points="202,1354 733,1356 733,1406 202,1404"/>
+                <Baseline points="202,1399 733,1401"/>
+                <TextEquiv>
+                    <Unicode>del balcon, hice una seña,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538674839_500" custom="readingOrder {index:23;}">
+                <Coords points="204,1403 648,1404 648,1454 204,1453"/>
+                <Baseline points="204,1448 648,1449"/>
+                <TextEquiv>
+                    <Unicode>y la dama con anhelo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538678255_507" custom="readingOrder {index:24;}">
+                <Coords points="202,1451 721,1448 721,1498 202,1501"/>
+                <Baseline points="202,1496 721,1493"/>
+                <TextEquiv>
+                    <Unicode>salio al balcón y me dijo:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538682853_514" custom="readingOrder {index:25;}">
+                <Coords points="202,1502 732,1500 732,1550 202,1552"/>
+                <Baseline points="202,1547 732,1545"/>
+                <TextEquiv>
+                    <Unicode>Amante y querido dueño,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538686995_521" custom="readingOrder {index:26;}">
+                <Coords points="202,1549 782,1547 782,1597 202,1599"/>
+                <Baseline points="202,1594 782,1592"/>
+                <TextEquiv>
+                    <Unicode>conviene de que esta noche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538691387_528" custom="readingOrder {index:27;}">
+                <Coords points="202,1598 790,1599 790,1649 202,1648"/>
+                <Baseline points="202,1643 790,1644"/>
+                <TextEquiv>
+                    <Unicode>me saques, porque sé cierto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538695283_535" custom="readingOrder {index:28;}">
+                <Coords points="202,1646 744,1648 744,1698 202,1696"/>
+                <Baseline points="202,1691 744,1693"/>
+                <TextEquiv>
+                    <Unicode>de que mi padre me tiene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538699695_542" custom="readingOrder {index:29;}">
+                <Coords points="203,1701 721,1693 722,1743 204,1751"/>
+                <Baseline points="204,1746 722,1738"/>
+                <TextEquiv>
+                    <Unicode>prometida á un caballero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538703488_549" custom="readingOrder {index:30;}">
+                <Coords points="204,1744 744,1741 744,1791 204,1794"/>
+                <Baseline points="204,1789 744,1786"/>
+                <TextEquiv>
+                    <Unicode>de Madrid, esto no dudes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538707072_556" custom="readingOrder {index:31;}">
+                <Coords points="202,1792 724,1791 724,1841 202,1842"/>
+                <Baseline points="202,1837 724,1836"/>
+                <TextEquiv>
+                    <Unicode>Pero fortuna, ¡qué presto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538710475_563" custom="readingOrder {index:32;}">
+                <Coords points="201,1841 835,1843 835,1893 201,1891"/>
+                <Baseline points="201,1886 835,1888"/>
+                <TextEquiv>
+                    <Unicode>me transformaste en tu rueda!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538717606_570" custom="readingOrder {index:33;}">
+                <Coords points="207,1887 892,1890 892,1940 207,1937"/>
+                <Baseline points="207,1932 892,1935"/>
+                <TextEquiv>
+                    <Unicode>Fué que un criado á este tiempo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>saqué la sinta de seda
+desdoblela, y un letrero
+hallé en ella que decia:
+el que de esta fuere dueño
+tambien será de Rosaura, 
+esposo, queriendo el cielo.
+Quedé alegre con mi cínta,
+y breve á mi casa vuelvo:
+y montando en un caballo
+una tarde cuando Febo
+queria ocultar sus luces,
+vuelvo á buscar á mi dueño:
+dile, pues, vista á la Quinta,
+y alli me estuve encubierto,
+hasta que la oscura noche
+tendiera su manto negro,
+A un árbol até el caballo
+por que no anduviera inquieto:
+le eché porcion de cebada
+en la capa y con secreto
+paseè toda la Quinta:
+llegué al referido puesto
+del balcon, hice una seña,
+y la dama con anhelo
+salio al balcón y me dijo:
+Amante y querido dueño,
+conviene de que esta noche
+me saques, porque sé cierto
+de que mi padre me tiene
+prometida á un caballero
+de Madrid, esto no dudes.
+Pero fortuna, ¡qué presto
+me transformaste en tu rueda!
+Fué que un criado á este tiempo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601538505860_329" custom="readingOrder {index:2;}">
+            <Coords points="925,285 1584,285 1584,1944 925,1944"/>
+            <TextLine id="line_1601538733836_578" custom="readingOrder {index:0;}">
+                <Coords points="936,284 1510,287 1510,337 936,334"/>
+                <Baseline points="936,329 1510,332"/>
+                <TextEquiv>
+                    <Unicode>me vido hablar con Rosaura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538739768_585" custom="readingOrder {index:1;}">
+                <Coords points="936,331 1543,337 1543,387 936,381"/>
+                <Baseline points="936,376 1543,382"/>
+                <TextEquiv>
+                    <Unicode>entró dentro como un trueno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538745256_592" custom="readingOrder {index:2;}">
+                <Coords points="936,383 1493,385 1493,435 936,433"/>
+                <Baseline points="936,428 1493,430"/>
+                <TextEquiv>
+                    <Unicode>dandole cuenta á su Padre;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538749420_599" custom="readingOrder {index:3;}">
+                <Coords points="935,427 1419,430 1419,480 935,477"/>
+                <Baseline points="935,472 1419,475"/>
+                <TextEquiv>
+                    <Unicode>al punto se previnieron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538753721_606" custom="readingOrder {index:4;}">
+                <Coords points="933,477 1521,480 1521,530 933,527"/>
+                <Baseline points="933,522 1521,525"/>
+                <TextEquiv>
+                    <Unicode>los que estaban en la Quinta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538757987_613" custom="readingOrder {index:5;}">
+                <Coords points="936,528 1442,531 1442,581 936,578"/>
+                <Baseline points="936,573 1442,576"/>
+                <TextEquiv>
+                    <Unicode>y yo ignorando el suceso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538762399_620" custom="readingOrder {index:6;}">
+                <Coords points="933,573 1433,578 1433,628 933,623"/>
+                <Baseline points="933,618 1433,623"/>
+                <TextEquiv>
+                    <Unicode>me dispararon dos tiros,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538766080_627" custom="readingOrder {index:7;}">
+                <Coords points="935,625 1416,625 1416,675 935,675"/>
+                <Baseline points="935,670 1416,670"/>
+                <TextEquiv>
+                    <Unicode>pero dieron en el suelo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538770024_634" custom="readingOrder {index:8;}">
+                <Coords points="933,671 1401,672 1401,722 933,721"/>
+                <Baseline points="933,716 1401,717"/>
+                <TextEquiv>
+                    <Unicode>las valas; y yo animoso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538773890_641" custom="readingOrder {index:9;}">
+                <Coords points="930,718 1469,722 1469,772 930,768"/>
+                <Baseline points="930,763 1469,767"/>
+                <TextEquiv>
+                    <Unicode>me opuse con todos ellos:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538777676_648" custom="readingOrder {index:10;}">
+                <Coords points="932,765 1405,768 1405,818 932,815"/>
+                <Baseline points="932,810 1405,813"/>
+                <TextEquiv>
+                    <Unicode>dispare tres carabinas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538781469_655" custom="readingOrder {index:11;}">
+                <Coords points="937,814 1470,820 1469,870 936,864"/>
+                <Baseline points="936,859 1469,865"/>
+                <TextEquiv>
+                    <Unicode>y á uno quité los alientos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538803179_674" custom="readingOrder {index:12;}">
+                <Coords points="934,863 1508,868 1508,918 934,913"/>
+                <Baseline points="934,908 1508,913"/>
+                <TextEquiv>
+                    <Unicode>hiriendo à los dos hermanos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538807593_681" custom="readingOrder {index:13;}">
+                <Coords points="933,915 1448,918 1448,968 933,965"/>
+                <Baseline points="933,960 1448,963"/>
+                <TextEquiv>
+                    <Unicode>de la dama; y conociendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538812264_688" custom="readingOrder {index:14;}">
+                <Coords points="934,963 1410,965 1410,1015 934,1013"/>
+                <Baseline points="934,1008 1410,1010"/>
+                <TextEquiv>
+                    <Unicode>que era cosa imposible</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538815789_695" custom="readingOrder {index:15;}">
+                <Coords points="934,1011 1398,1015 1398,1065 934,1061"/>
+                <Baseline points="934,1056 1398,1060"/>
+                <TextEquiv>
+                    <Unicode>en el referido empeño</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538820426_702" custom="readingOrder {index:16;}">
+                <Coords points="934,1061 1399,1062 1399,1112 934,1111"/>
+                <Baseline points="934,1106 1399,1107"/>
+                <TextEquiv>
+                    <Unicode>poder sacar á Rosaura,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538824311_709" custom="readingOrder {index:17;}">
+                <Coords points="934,1108 1453,1108 1453,1158 934,1158"/>
+                <Baseline points="934,1153 1453,1153"/>
+                <TextEquiv>
+                    <Unicode>me escapé de todos ellos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538828879_716" custom="readingOrder {index:18;}">
+                <Coords points="933,1157 1501,1160 1501,1210 933,1207"/>
+                <Baseline points="933,1202 1501,1205"/>
+                <TextEquiv>
+                    <Unicode>Fui donde estaba el caballo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538834396_723" custom="readingOrder {index:19;}">
+                <Coords points="933,1205 1571,1209 1571,1259 933,1255"/>
+                <Baseline points="933,1250 1571,1254"/>
+                <TextEquiv>
+                    <Unicode>monté en el, y como un trueno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538838932_730" custom="readingOrder {index:20;}">
+                <Coords points="929,1253 1399,1254 1399,1304 929,1303"/>
+                <Baseline points="929,1298 1399,1299"/>
+                <TextEquiv>
+                    <Unicode>á Córdoba dí la vuelta:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538843000_737" custom="readingOrder {index:21;}">
+                <Coords points="933,1306 1481,1303 1481,1353 933,1356"/>
+                <Baseline points="933,1351 1481,1348"/>
+                <TextEquiv>
+                    <Unicode>pero como estaba ardiendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538847151_744" custom="readingOrder {index:22;}">
+                <Coords points="934,1350 1388,1350 1388,1400 934,1400"/>
+                <Baseline points="934,1395 1388,1395"/>
+                <TextEquiv>
+                    <Unicode>en amores de Rosaura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538857059_751" custom="readingOrder {index:23;}">
+                <Coords points="934,1401 1443,1397 1443,1447 934,1451"/>
+                <Baseline points="934,1446 1443,1442"/>
+                <TextEquiv>
+                    <Unicode>en vivas ansias mi pecho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538860782_758" custom="readingOrder {index:24;}">
+                <Coords points="935,1450 1408,1447 1408,1497 935,1500"/>
+                <Baseline points="935,1495 1408,1492"/>
+                <TextEquiv>
+                    <Unicode>quise volver á buscarla,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538865089_765" custom="readingOrder {index:25;}">
+                <Coords points="939,1499 1391,1497 1391,1547 939,1549"/>
+                <Baseline points="939,1544 1391,1542"/>
+                <TextEquiv>
+                    <Unicode>y desierto me digeron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538869057_772" custom="readingOrder {index:26;}">
+                <Coords points="934,1544 1465,1546 1465,1596 934,1594"/>
+                <Baseline points="934,1589 1465,1591"/>
+                <TextEquiv>
+                    <Unicode>como su Padre, agraviado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538873219_779" custom="readingOrder {index:27;}">
+                <Coords points="936,1591 1342,1596 1341,1646 935,1641"/>
+                <Baseline points="935,1636 1341,1641"/>
+                <TextEquiv>
+                    <Unicode>del referido suceso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538876756_786" custom="readingOrder {index:28;}">
+                <Coords points="934,1643 1302,1642 1302,1692 934,1693"/>
+                <Baseline points="934,1688 1302,1687"/>
+                <TextEquiv>
+                    <Unicode>una noche la sacó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538880362_793" custom="readingOrder {index:29;}">
+                <Coords points="939,1694 1451,1689 1451,1739 939,1744"/>
+                <Baseline points="939,1739 1451,1734"/>
+                <TextEquiv>
+                    <Unicode>y no saben donde fueron.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538883679_800" custom="readingOrder {index:30;}">
+                <Coords points="932,1741 1419,1738 1419,1788 932,1791"/>
+                <Baseline points="932,1786 1419,1783"/>
+                <TextEquiv>
+                    <Unicode>Del modo que yo quedé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538887229_807" custom="readingOrder {index:31;}">
+                <Coords points="937,1788 1408,1785 1408,1835 937,1838"/>
+                <Baseline points="937,1833 1408,1830"/>
+                <TextEquiv>
+                    <Unicode>considérelo el discreto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538890789_814" custom="readingOrder {index:32;}">
+                <Coords points="940,1833 1429,1832 1429,1882 940,1883"/>
+                <Baseline points="940,1878 1429,1877"/>
+                <TextEquiv>
+                    <Unicode>y en otra segunda parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601538894187_821" custom="readingOrder {index:33;}">
+                <Coords points="939,1884 1404,1884 1404,1934 939,1934"/>
+                <Baseline points="939,1929 1404,1929"/>
+                <TextEquiv>
+                    <Unicode>daré fin á este suceso. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>me vido hablar con Rosaura
+entró dentro como un trueno,
+dandole cuenta á su Padre;
+al punto se previnieron
+los que estaban en la Quinta,
+y yo ignorando el suceso
+me dispararon dos tiros,
+pero dieron en el suelo
+las valas; y yo animoso
+me opuse con todos ellos:
+dispare tres carabinas,
+y á uno quité los alientos,
+hiriendo à los dos hermanos
+de la dama; y conociendo
+que era cosa imposible
+en el referido empeño
+poder sacar á Rosaura,
+me escapé de todos ellos.
+Fui donde estaba el caballo,
+monté en el, y como un trueno
+á Córdoba dí la vuelta:
+pero como estaba ardiendo
+en amores de Rosaura
+en vivas ansias mi pecho
+quise volver á buscarla,
+y desierto me digeron
+como su Padre, agraviado
+del referido suceso,
+una noche la sacó
+y no saben donde fueron.
+Del modo que yo quedé
+considérelo el discreto
+y en otra segunda parte
+daré fin á este suceso. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601538519885_334" custom="readingOrder {index:3;}">
+            <Coords points="433,2000 1393,2000 1393,2134 433,2134"/>
+            <TextLine id="line_1601538905848_828" custom="readingOrder {index:0;}">
+                <Coords points="438,2019 1378,2010 1378,2102 438,2111"/>
+                <Baseline points="438,2106 1378,2097"/>
+                <TextEquiv>
+                    <Unicode>Fin de la primera parte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fin de la primera parte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

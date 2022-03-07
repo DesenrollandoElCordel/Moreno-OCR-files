@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T10:41:15.499+02:00</Created>
+        <LastChange>2020-11-02T13:48:50.882+01:00</LastChange>
+        <TranskribusMetadata docId="504913" pageId="20895591" pageNr="1" tsid="47652415" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=ECKLPNXAQOXMYFVVUOWPLRMY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFQFYRMRBCFLHTGFHJCZECGN" imageId="16039319"/>
+    </Metadata>
+    <Page imageFilename="0001_Moreno_030_1.jpg" imageWidth="1737" imageHeight="2508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646648630057" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1601887509414_1535"/>
+                <RegionRefIndexed index="1" regionRef="r1"/>
+                <RegionRefIndexed index="2" regionRef="region_1601887548199_1572"/>
+                <RegionRefIndexed index="3" regionRef="region_1601887552651_1576"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1601887509414_1535" custom="readingOrder {index:0;}">
+            <Coords points="1291,271 1492,271 1492,340 1291,340"/>
+            <TextLine id="line_1601887514688_1539" custom="readingOrder {index:0;}">
+                <Coords points="1297,278 1481,280 1481,330 1297,328"/>
+                <Baseline points="1297,323 1481,325"/>
+                <TextEquiv>
+                    <Unicode>Núm. 33.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Núm. 33.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:1;}">
+            <Coords points="159,1211 155,1896 1563,1896 1567,1211"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="597,1299 624,1300 651,1301 678,1301 706,1302 733,1302 760,1302 787,1303 815,1303 842,1303 869,1303 896,1303 924,1304 951,1304 978,1304 1005,1305 1033,1305 1060,1306 1087,1307 1114,1307 1142,1308 1142,1262 1114,1261 1087,1261 1060,1260 1033,1259 1005,1259 978,1258 951,1258 924,1258 896,1257 869,1257 842,1257 815,1257 787,1257 760,1256 733,1256 706,1256 678,1255 651,1255 624,1254 597,1253"/>
+                <Baseline points="597,1284 624,1285 651,1286 678,1286 706,1287 733,1287 760,1287 787,1288 815,1288 842,1288 869,1288 896,1288 924,1289 951,1289 978,1289 1005,1290 1033,1290 1060,1291 1087,1292 1114,1292 1142,1293"/>
+                <TextEquiv>
+                    <Unicode>CARTA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="333,1457 384,1457 436,1456 488,1456 540,1456 592,1456 644,1456 696,1457 748,1457 800,1457 852,1458 903,1459 955,1459 1007,1460 1059,1460 1111,1460 1163,1460 1215,1461 1267,1460 1319,1460 1371,1460 1371,1414 1319,1414 1267,1414 1215,1415 1163,1414 1111,1414 1059,1414 1007,1414 955,1413 903,1413 852,1412 800,1411 748,1411 696,1411 644,1410 592,1410 540,1410 488,1410 436,1410 384,1411 333,1411"/>
+                <Baseline points="333,1442 384,1442 436,1441 488,1441 540,1441 592,1441 644,1441 696,1442 748,1442 800,1442 852,1443 903,1444 955,1444 1007,1445 1059,1445 1111,1445 1163,1445 1215,1446 1267,1445 1319,1445 1371,1445"/>
+                <TextEquiv>
+                    <Unicode>DE PEDRO CHICHON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="467,1562 506,1563 545,1563 585,1564 624,1564 664,1565 703,1565 742,1566 782,1566 821,1566 861,1566 900,1566 939,1567 979,1567 1018,1567 1058,1567 1097,1567 1136,1568 1176,1568 1215,1569 1255,1569 1255,1523 1215,1523 1176,1522 1136,1522 1097,1521 1058,1521 1018,1521 979,1521 939,1521 900,1520 861,1520 821,1520 782,1520 742,1520 703,1519 664,1519 624,1518 585,1518 545,1517 506,1517 467,1516"/>
+                <Baseline points="467,1547 506,1548 545,1548 585,1549 624,1549 664,1550 703,1550 742,1551 782,1551 821,1551 861,1551 900,1551 939,1552 979,1552 1018,1552 1058,1552 1097,1552 1136,1553 1176,1553 1215,1554 1255,1554"/>
+                <TextEquiv>
+                    <Unicode>A SU AMIGO PACO GIL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="156,1697 226,1696 296,1696 367,1696 437,1697 507,1697 578,1697 648,1698 718,1699 789,1699 859,1700 929,1701 1000,1701 1070,1702 1140,1703 1211,1703 1281,1704 1351,1704 1422,1705 1492,1705 1563,1705 1563,1674 1492,1674 1422,1674 1351,1673 1281,1673 1211,1672 1140,1672 1070,1671 1000,1670 929,1670 859,1669 789,1668 718,1668 648,1667 578,1666 507,1666 437,1666 367,1665 296,1665 226,1665 156,1666"/>
+                <Baseline points="156,1687 226,1686 296,1686 367,1686 437,1687 507,1687 578,1687 648,1688 718,1689 789,1689 859,1690 929,1691 1000,1691 1070,1692 1140,1693 1211,1693 1281,1694 1351,1694 1422,1695 1492,1695 1563,1695"/>
+                <TextEquiv>
+                    <Unicode>Curiosa sátira en que un amigo le pide á otro su parecer, si debe casarse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="155,1740 225,1740 295,1740 365,1740 435,1740 505,1741 575,1741 646,1742 716,1742 786,1743 856,1744 926,1745 996,1745 1066,1746 1137,1747 1207,1747 1277,1748 1347,1749 1417,1749 1487,1750 1558,1750 1558,1719 1487,1719 1417,1718 1347,1718 1277,1717 1207,1716 1137,1716 1066,1715 996,1714 926,1714 856,1713 786,1712 716,1711 646,1711 575,1710 505,1710 435,1709 365,1709 295,1709 225,1709 155,1709"/>
+                <Baseline points="155,1730 225,1730 295,1730 365,1730 435,1730 505,1731 575,1731 646,1732 716,1732 786,1733 856,1734 926,1735 996,1735 1066,1736 1137,1737 1207,1737 1277,1738 1347,1739 1417,1739 1487,1740 1558,1740"/>
+                <TextEquiv>
+                    <Unicode>ó sentar plaza de soldado, manifestando los cuarenta y ocho motivos que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="198,1784 263,1785 328,1785 393,1786 458,1786 524,1787 589,1787 654,1788 719,1789 784,1789 850,1790 915,1791 980,1791 1045,1792 1110,1792 1176,1793 1241,1793 1306,1794 1371,1794 1436,1794 1502,1794 1502,1761 1436,1761 1371,1761 1306,1761 1241,1760 1176,1760 1110,1759 1045,1759 980,1758 915,1758 850,1757 784,1756 719,1756 654,1755 589,1754 524,1754 458,1753 393,1753 328,1752 263,1752 198,1751"/>
+                <Baseline points="198,1773 263,1774 328,1774 393,1775 458,1775 524,1776 589,1776 654,1777 719,1778 784,1778 850,1779 915,1780 980,1780 1045,1781 1110,1781 1176,1782 1241,1782 1306,1783 1371,1783 1436,1783 1502,1783"/>
+                <TextEquiv>
+                    <Unicode>tienen los hombres, para casarse, y los treinta y seis para no casarse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="682,1882 707,1883 732,1885 758,1885 783,1886 809,1886 834,1886 860,1886 885,1886 910,1886 936,1886 961,1887 987,1887 1012,1888 1038,1889 1038,1843 1012,1842 987,1841 961,1841 936,1840 910,1840 885,1840 860,1840 834,1840 809,1840 783,1840 758,1839 732,1839 707,1837 682,1836"/>
+                <Baseline points="682,1867 707,1868 732,1870 758,1870 783,1871 809,1871 834,1871 860,1871 885,1871 910,1871 936,1871 961,1872 987,1872 1012,1873 1038,1874"/>
+                <TextEquiv>
+                    <Unicode>PRIMERA PARTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARTA
+DE PEDRO CHICHON
+A SU AMIGO PACO GIL.
+Curiosa sátira en que un amigo le pide á otro su parecer, si debe casarse
+ó sentar plaza de soldado, manifestando los cuarenta y ocho motivos que
+tienen los hombres, para casarse, y los treinta y seis para no casarse.
+PRIMERA PARTE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601887548199_1572" custom="readingOrder {index:2;}">
+            <Coords points="153,1912 752,1912 752,2228 153,2228"/>
+            <TextLine id="line_1601887557920_1580" custom="readingOrder {index:0;}">
+                <Coords points="202,1922 718,1924 718,1974 202,1972"/>
+                <Baseline points="202,1967 718,1969"/>
+                <TextEquiv>
+                    <Unicode>Me alegraré, Paco amigo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887562092_1587" custom="readingOrder {index:1;}">
+                <Coords points="161,1971 612,1971 612,2021 161,2021"/>
+                <Baseline points="161,2016 612,2016"/>
+                <TextEquiv>
+                    <Unicode>te hayes sin novedad,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887565414_1594" custom="readingOrder {index:2;}">
+                <Coords points="157,2019 666,2021 666,2071 157,2069"/>
+                <Baseline points="157,2064 666,2066"/>
+                <TextEquiv>
+                    <Unicode>en compaña de Antoñilla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887569456_1601" custom="readingOrder {index:3;}">
+                <Coords points="161,2066 556,2070 556,2120 161,2116"/>
+                <Baseline points="161,2111 556,2115"/>
+                <TextEquiv>
+                    <Unicode>y tu amigo Nicolás.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887572423_1608" custom="readingOrder {index:4;}">
+                <Coords points="298,2113 728,2120 727,2170 297,2163"/>
+                <Baseline points="297,2158 727,2165"/>
+                <TextEquiv>
+                    <Unicode>Pongo en tu noticia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887575881_1615" custom="readingOrder {index:5;}">
+                <Coords points="302,2165 721,2170 720,2220 301,2215"/>
+                <Baseline points="301,2210 720,2215"/>
+                <TextEquiv>
+                    <Unicode>como yo he pensado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Me alegraré, Paco amigo
+te hayes sin novedad,
+en compaña de Antoñilla
+y tu amigo Nicolás.
+Pongo en tu noticia,
+como yo he pensado</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1601887552651_1576" custom="readingOrder {index:3;}">
+            <Coords points="1018,1915 1463,1915 1463,2230 1018,2230"/>
+            <TextLine id="line_1601887579566_1622" custom="readingOrder {index:0;}">
+                <Coords points="1034,1924 1422,1930 1421,1980 1033,1974"/>
+                <Baseline points="1033,1969 1421,1975"/>
+                <TextEquiv>
+                    <Unicode>tomarte un consejo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887582957_1629" custom="readingOrder {index:1;}">
+                <Coords points="1033,1975 1365,1978 1365,2028 1033,2025"/>
+                <Baseline points="1033,2020 1365,2023"/>
+                <TextEquiv>
+                    <Unicode>el mas acertado,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887586239_1636" custom="readingOrder {index:2;}">
+                <Coords points="1035,2029 1415,2031 1415,2081 1035,2079"/>
+                <Baseline points="1035,2074 1415,2076"/>
+                <TextEquiv>
+                    <Unicode>para que me digas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887588788_1643" custom="readingOrder {index:3;}">
+                <Coords points="1031,2075 1372,2077 1372,2127 1031,2125"/>
+                <Baseline points="1031,2120 1372,2122"/>
+                <TextEquiv>
+                    <Unicode>tu buen parecer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887590904_1650" custom="readingOrder {index:4;}">
+                <Coords points="1030,2116 1440,2126 1439,2176 1029,2166"/>
+                <Baseline points="1029,2161 1439,2171"/>
+                <TextEquiv>
+                    <Unicode>si he de ser soldado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1601887593441_1657" custom="readingOrder {index:5;}">
+                <Coords points="1029,2172 1286,2172 1286,2222 1029,2222"/>
+                <Baseline points="1029,2217 1286,2217"/>
+                <TextEquiv>
+                    <Unicode>ó me casaré.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tomarte un consejo
+el mas acertado,
+para que me digas
+tu buen parecer.
+si he de ser soldado
+ó me casaré.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1604321328702_169" custom="readingOrder {index:4;}">
+            <Coords points="584,1184 1123,1184 1123,405 584,405"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
